@@ -12,6 +12,8 @@ Somos uma plataforma de nuvem baseada em contêiner flexível, gratuita e fácil
 
 Contamos com a colaboração de doadores para se manter no ar e melhorar a qualidade de nossos serviços. Não possuímos nenhum tipo de vínculo com a Discord Inc.
 
+![](.gitbook/assets/icongif.gif)
+
 ## 💁 Ajuda
 
 Está precisando de ajuda para hospedar seu bot ou solução de problemas? Entre em contato com o nosso suporte pelo e-mail: `support@discloudbot.com` ou pelo nosso Discord [clicando aqui](https://discord.gg/CvxevT5).
