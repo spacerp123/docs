@@ -30,8 +30,6 @@ A instância nunca reinicia por inatividade
 * 0.5 vCPU
 * Armazenamento SSD
 * Network Ilimitado
-
-[https://discloudbot.com/\#precos](https://discloudbot.com/#precos)
 {% endtab %}
 
 {% tab title="💎 Platina" %}
@@ -43,8 +41,6 @@ A instância nunca reinicia por inatividade
 * 1 vCPU
 * Armazenamento SSD
 * Network Ilimitado
-
-[https://discloudbot.com/\#precos](https://discloudbot.com/#precos)
 {% endtab %}
 {% endtabs %}
 
