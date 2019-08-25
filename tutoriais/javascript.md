@@ -18,6 +18,10 @@ Antes de tudo, **não envie todos os arquivos** de uma vez, você precisará col
 
 Após ter separado os seus arquivos, entre no [site da DisCloud](https://discloudbot.com) e clique em **Entrar** usando sua conta do Discord.
 
+{% hint style="danger" %}
+A Discloud não permite duas contas. Caso crie, poderá ter sua conta suspensa dos serviços.
+{% endhint %}
+
 ![](../.gitbook/assets/image%20%2817%29.png)
 
   
@@ -27,7 +31,7 @@ Feito isso, clique no [painel de controle](https://discloudbot.com/dashboard) e 
 
 
 
-Preencha as informações obrigatórias, como o ID do seu bot, o arquivo principal \(como o `index.js`, `bot.js`... dependendo do nome do arquivo que você colocou\) e logo em seguida clique em **Adicionar Bot**.
+Preencha as informações obrigatórias como o **ID do seu Bot**, arquivo principal \(`index.js` ou `bot.js)` _"dependendo do nome do arquivo que você colocou"_ , faça o anexo do arquivo **.zip** que foi gerado em [ARQUIVOS IMPORTANTES](https://docs.discloudbot.com/tutoriais/javascript#arquivos-principais) e clique no botão **Adicionar Bot**.
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
