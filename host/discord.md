@@ -18,7 +18,7 @@ Apenas hospede pelo Discord se o seu arquivo for menos que 8 MB. Caso for maior,
 
 Se você estiver com o cargo **CloudAccess**, significa que você se registrou com sucesso na DisCloud. Para hospedar, entre no canal de texto `🔌▏cmd-discloud` e digite `.up`. 
 
-Feito isso, aparecerá um canal de texto com o seu usuário e tag \(exemplo: `#discloud-1234`\). Lá, aparecerá as instruções corretamente e deverão ser preenchidas corretamente para evitar problemas.
+Feito isso, aparecerá um canal de texto com o seu usuário e tag \(exemplo: `#discloud-1234`\). Lá, aparecerá as instruções e deverão ser preenchidas corretamente para evitar problemas.
 
 Você pode consultar os comandos utilizando `.help` ou `.help <comando>` para saber como utilizar o comando mencionado.
 
