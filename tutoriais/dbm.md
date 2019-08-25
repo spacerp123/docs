@@ -14,16 +14,6 @@ Clique com o botão direito do mouse sobre **Discord Bot Maker** na sua steam, e
 
 Com a pasta do seu bot aberta e o do Discord Bot Maker também, copie a pasta chamada **actions** do diretório do seu DBM e cole-á na pasta do seu bot.
 
-Já com a pasta **actions** no diretório do seu bot, acesse a pasta do seu bot novamente e abra o arquivo denominado de **package.json**, em baixo de onde está **main**, cole o seguinte código \(não obrigatório\):
-
-```javascript
-"scripts":{
- "start": "node."
-},
-```
-
-![](../.gitbook/assets/image%20%2815%29.png)
-
 Por último, compacte os arquivos do seu bot em um `.zip`, e não a pasta do seu bot! Zipe juntos os seguintes arquivos: **actions**, **data**, **fonts**, **resources**, **bot.js** e **package.json**.
 
 ![](../.gitbook/assets/image%20%2832%29.png)
