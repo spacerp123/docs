@@ -18,7 +18,7 @@ Está precisando de ajuda para hospedar seu bot ou solução de problemas? Entre
 
 ## 💸 Doações
 
-Não quer ser limitado? Doe para a DisCloud! Veja os preços abaixo:
+Quer ajudar o projeto? Doe para a DisCloud! Veja os preços abaixo:
 
 {% tabs %}
 {% tab title="✨ Ouro" %}
@@ -47,4 +47,6 @@ A instância nunca reinicia por inatividade
 [https://discloudbot.com/\#precos](https://discloudbot.com/#precos)
 {% endtab %}
 {% endtabs %}
+
+![Para pagamentos via Mercado Pago entre em contato com a staff no servidor Discord](.gitbook/assets/147-des-1170x395.png)
 
