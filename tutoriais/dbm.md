@@ -10,11 +10,11 @@ Créditos ao [Cap](https://twitter.com/CapOliveiraBr) pelo tutorial apresentado
 
 ## 📥 Arquivos principais
 
-Clique com o botão direito do mouse sobre **Discord Bot Maker** na sua steam, e clique em **Properties**, lá dentro, clique em **LOCAL FILES**, por último, **BROWSE LOCAL FILES\(Navegar Pelos Arquivos Locais\)**, e então você deve estar na pasta onde está instalado o Discord Bot Maker.
+Clique com o botão direito do mouse sobre **Discord Bot Maker** na sua steam, e clique em **Propriedades**, lá dentro, clique em **LOCAL FILES**, por último, **BROWSE LOCAL FILES\(Navegar Pelos Arquivos Locais\)**, e então você deve estar na pasta onde está instalado o Discord Bot Maker.
 
-![](../.gitbook/assets/1.JPG)
+![Clique em propriedades](../.gitbook/assets/1.JPG)
 
-![](../.gitbook/assets/2.JPG)
+![clique em LOCAL FILES, por &#xFA;ltimo, BROWSE LOCAL FILES](../.gitbook/assets/2.JPG)
 
 Com a pasta do seu bot aberta e o do Discord Bot Maker também, copie a pasta chamada **actions** do diretório do seu DBM e cole-á na pasta do seu bot.
 
@@ -27,7 +27,9 @@ Caso não saiba compactar os arquivos, clique em um dos tutoriais do seu sistema
 * [Windows](https://bit.ly/2gQwedJ)
 * [Linux](https://bit.ly/2KTSYNe)
 
-## ✍ Registrando o seu bot na DisCloud
+![Exemplo no Linux](../.gitbook/assets/3.JPG)
+
+## ✍ Registrando o seu Bot na DisCloud
 
 Após ter compactado o seus arquivos, entre no [site da DisCloud](https://discloudbot.com/) e clique em **Entrar**. Você apenas precisará do seu Discord para fazer o seu registro.
 
