@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Bem-vindo](README.md)
-* [Suporte](https://discord.gg/CvxevT5)
 * [Termos de Serviço](terms.md)
 * [Política de Uso](policy.md)
+* [Suporte](https://discord.gg/CvxevT5)
 
 ## Tutoriais
 
@@ -13,8 +13,8 @@
 * [Discord Bot Maker](tutoriais/dbm.md)
 * [Discord Bot Controls](tutoriais/dbc.md)
 
-## Hospedando pelo <a id="pelo"></a>
+## Hospedando pelo <a id="host"></a>
 
-* [Website](pelo/website.md)
-* [Discord](pelo/discord.md)
+* [Website](host/website.md)
+* [Discord](host/discord.md)
 

@@ -8,7 +8,7 @@ description: >-
 
 ## 📜 Importante
 
-Antes de você já ir jogando os seus arquivos no website, consulte um dos tutoriais correspondentes a linguagem do seu bot.
+Antes de você já ir jogando os seus arquivos no website, consulte um dos tutoriais correspondentes a linguagem do seu Bot.
 
 ## ✍ Registro
 
