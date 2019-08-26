@@ -31,15 +31,9 @@ Caso não saiba compactar os arquivos, clique em um dos tutoriais do seu sistema
 
 ## ✍ Registrando o seu Bot na DisCloud
 
-Após ter compactado o seus arquivos, entre no [site da DisCloud](https://discloudbot.com/) e clique em **Entrar**. Você apenas precisará do seu Discord para fazer o seu registro.
-
-![](../.gitbook/assets/image%20%2817%29.png)
-
-
-
-Entre no [painel de controle](https://discloudbot.com/dashboard) e clique no botão [Adicionar Bot](https://discloudbot.com/dashboard/upload). Logo irá pedir as informações obrigatórias, e então preencha.
-
-![](../.gitbook/assets/image%20%2825%29.png)
+{% hint style="info" %}
+Você pode aprender a hospedar seu bot na [versão website](../host/website.md) ou [Discord](../host/discord.md)
+{% endhint %}
 
 ## ✅ Finalizado
 

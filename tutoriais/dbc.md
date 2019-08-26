@@ -45,23 +45,9 @@ Após ter feito isso, serão criados mais arquivos, e então, você apenas selec
 
 ## ✍ Registrando o seu bot na DisCloud
 
-Depois de todo o processo feito, vá para o [site da DisCloud](https://discloudbot.com) e faça o **login** utilizando a conta do seu Discord. 
-
-![](../.gitbook/assets/image%20%282%29.png)
-
-
-
-Vá para o [painel de controle](https://discloudbot.com/dashboard) e clique em [adicionar bot](https://discloudbot.com/dashboard/upload). Após isso, preencha as informações obrigatórias como o ID do seu bot, o arquivo principal \(que é o `bot.js`\) e por último a pasta do seu projeto. Você pode fazer upload da pasta do seu projeto movendo ou clicando no site.
-
-![](../.gitbook/assets/image%20%284%29.png)
-
-![](../.gitbook/assets/image%20%287%29.png)
-
-
-
-E por último, clique em **Adicionar Bot** ou **Create Instance**.
-
-![](../.gitbook/assets/image%20%2823%29.png)
+{% hint style="info" %}
+Você pode aprender a hospedar seu bot na [versão website](../host/website.md) ou [Discord](../host/discord.md)
+{% endhint %}
 
 ## ✅ Finalizado
 
