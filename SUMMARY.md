@@ -19,3 +19,7 @@
 * [Website](host/website.md)
 * [Discord](host/discord.md)
 
+## FAQ
+
+* [Como pegar o ID do meu Bot ?](faq/como-pegar-o-id-do-meu-bot.md)
+
