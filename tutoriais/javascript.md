@@ -8,8 +8,6 @@ description: Aprenda a hospedar seu bot em JavaScript na DisCloud
 Créditos ao [MagnataEffects](https://docs.absolutproject.gq) pelo tutorial apresentado
 {% endhint %}
 
-{% embed url="https://www.youtube.com/watch?v=xFsmC8xv9LM" %}
-
 ## 📥 Arquivos principais
 
 Antes de tudo, **não envie todos os arquivos** de uma vez, você precisará colocar os arquivos do seu bot em uma pasta `.zip`. Não é necessário o upload dos arquivos `node_modules` e `package-lock.json`. 
