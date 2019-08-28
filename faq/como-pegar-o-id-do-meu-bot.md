@@ -1,4 +1,4 @@
-# Como pegar o ID do meu Bot ?
+# Como pegar o ID do meu Bot?
 
 ## 💁 Pelo Discord
 
