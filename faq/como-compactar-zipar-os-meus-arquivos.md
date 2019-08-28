@@ -1,4 +1,4 @@
-# Como compactar \(zipar\) os arquivos do meu Bot?
+# Como compactar \(zipar\) os meus arquivos?
 
 ## Windows
 

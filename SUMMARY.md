@@ -6,13 +6,13 @@
 * [Doações](doacoes.md)
 * [Suporte](https://discord.gg/CvxevT5)
 
-## Tutoriais
+## Linguagens
 
-* [JavaScript](tutoriais/javascript.md)
-* [Python](tutoriais/python.md)
-* [Java](tutoriais/java.md)
-* [Discord Bot Maker](tutoriais/dbm.md)
-* [Discord Bot Controls](tutoriais/dbc.md)
+* [JavaScript](linguagens/javascript/README.md)
+  * [Discord Bot Maker](linguagens/javascript/dbm.md)
+  * [Discord Bot Controls](linguagens/javascript/dbc.md)
+* [Python](linguagens/python.md)
+* [Java](linguagens/java.md)
 
 ## Hospedando pelo <a id="host"></a>
 
@@ -22,5 +22,5 @@
 ## FAQ
 
 * [Como pegar o ID do meu Bot ?](faq/como-pegar-o-id-do-meu-bot.md)
-* [Como compactar \(zipar\) os arquivos do meu Bot?](faq/como-compactar-zipar-os-meus-arquivos.md)
+* [Como compactar \(zipar\) os meus arquivos?](faq/como-compactar-zipar-os-meus-arquivos.md)
 
