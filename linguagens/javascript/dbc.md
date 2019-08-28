@@ -55,3 +55,7 @@ Pronto, o seu bot já está no ar.
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
+{% embed url="https://www.youtube.com/watch?v=FyFVwb4Sy\_g" %}
+
+
+
