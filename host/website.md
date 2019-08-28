@@ -40,7 +40,5 @@ Se você ainda não separou os arquivos do seu bot, entre na aba **Tutoriais** e
 
 ![](../.gitbook/assets/image%20%2834%29.png)
 
-{% embed url="https://www.youtube.com/watch?v=XvnBzJAFH0I" %}
-
 
 
