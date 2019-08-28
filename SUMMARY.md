@@ -22,5 +22,5 @@
 ## FAQ
 
 * [Como pegar o ID do meu Bot ?](faq/como-pegar-o-id-do-meu-bot.md)
-* [Como compactar \(zipar\) os meus arquivos?](faq/como-compactar-zipar-os-meus-arquivos.md)
+* [Como compactar \(zipar\) os arquivos do meu Bot?](faq/como-compactar-zipar-os-meus-arquivos.md)
 
