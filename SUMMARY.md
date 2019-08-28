@@ -3,6 +3,7 @@
 * [Bem-vindo](README.md)
 * [Termos de Serviço](terms.md)
 * [Política de Uso](policy.md)
+* [Doações](doacoes.md)
 * [Suporte](https://discord.gg/CvxevT5)
 
 ## Tutoriais
