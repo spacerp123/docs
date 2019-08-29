@@ -4,7 +4,7 @@
 * [Termos de Serviço](terms.md)
 * [Política de Uso](policy.md)
 * [Doações](doacoes.md)
-* [Suporte](https://discord.gg/CvxevT5)
+* [Site](https://discloudbot.com/)
 
 ## Linguagens
 
