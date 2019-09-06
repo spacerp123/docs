@@ -20,7 +20,7 @@ Com a pasta do seu bot aberta e o do Discord Bot Maker também, copie a pasta ch
 
 Por último, compacte os arquivos do seu bot em um `.zip`, e não a pasta do seu bot! Zipe juntos os seguintes arquivos: **actions**, **data**, **fonts**, **resources**, **bot.js** e **package.json**.
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 Caso não saiba compactar os arquivos, clique em um dos tutoriais do seu sistema operacional:
 
@@ -39,7 +39,7 @@ Você pode aprender a hospedar seu bot na [versão website](../../host/website.m
 
 Pronto, seu bot já está no ar.
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 {% embed url="https://www.youtube.com/watch?v=XvnBzJAFH0I" %}
 
