@@ -26,17 +26,17 @@ Quaisquer outros arquivos sem ser esses dois podem ser adicionados, e você pode
 
 • Faça um **`.zip`** com os arquivos.
 
-![Exemplo no Windows](../.gitbook/assets/image%20%289%29.png)
+![Exemplo no Windows](../../.gitbook/assets/image%20%289%29.png)
 
-{% page-ref page="../faq/como-compactar-zipar-os-meus-arquivos.md" %}
+{% page-ref page="../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
 ####  
 
 ### Escolha o método para upar seu Bot para a Discloud:
 
-{% page-ref page="../host/website.md" %}
+{% page-ref page="../../host/website.md" %}
 
-{% page-ref page="../host/discord.md" %}
+{% page-ref page="../../host/discord.md" %}
 
 
 

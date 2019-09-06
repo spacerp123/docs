@@ -11,7 +11,8 @@
 * [JavaScript](linguagens/javascript/README.md)
   * [Discord Bot Maker](linguagens/javascript/dbm.md)
   * [Discord Bot Controls](linguagens/javascript/dbc.md)
-* [Python](linguagens/python.md)
+* [Python](linguagens/python/README.md)
+  * [Exemplo do requirements.txt](linguagens/python/exemplo-do-requirements.txt.md)
 * [Java](linguagens/java.md)
 
 ## Hospedando pelo <a id="host"></a>
