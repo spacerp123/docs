@@ -12,7 +12,7 @@ Créditos ao [MagnataEffects](https://absolutproject.com) pelo tutorial apresent
 
 Antes de tudo, **não envie todos os arquivos** de uma vez, você precisará colocar os arquivos do seu bot em uma pasta `.zip`. Não é necessário o upload dos arquivos `node_modules` e `package-lock.json`. 
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 ## ✍ Registrando o seu bot
 
@@ -24,5 +24,5 @@ Você pode aprender a hospedar seu bot na [versão website](../../host/website.m
 
 Pronto, em alguns segundos ou minutos, o seu bot estará online.
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 

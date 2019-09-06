@@ -20,13 +20,15 @@ description: Aprenda a hospedar seu bot em Python na DisCloud
 As bibliotecas **NÃO SÃO as que você importa**, e sim as que você instala.   
 Ex.: `import PIL` mas você instala usando `pip install pillow`, logo deve ser colocado **pillow** e não **PIL**.
 
+{% page-ref page="exemplo-do-requirements.txt.md" %}
+
 Quaisquer outros arquivos sem ser esses dois podem ser adicionados, e você pode usa-los no código do seu Bot.\(Isso vale para as cogs também\).
 
 ## Preparando seu Bot para enviar para a Discloud
 
 • Faça um **`.zip`** com os arquivos.
 
-![Exemplo no Windows](../../.gitbook/assets/image%20%289%29.png)
+![Exemplo no Windows](../../.gitbook/assets/image%20%2811%29.png)
 
 {% page-ref page="../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
