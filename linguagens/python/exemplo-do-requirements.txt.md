@@ -30,3 +30,17 @@ Você pode usar o próprio **bloco de notas** para criar seu arquivo **`requirem
 
 ![Exemplo de do arquivo criado com algumas depend&#xEA;ncias j&#xE1; definidas  ](../../.gitbook/assets/image%20%282%29.png)
 
+## Gerando automaticamente o arquivo requirements.txt
+
+ Um jeito simples de criar o seu próprio arquivo de dependências é usando o comando **`pip freeze`** da seguinte forma:
+
+```text
+pip freeze > requirements.txt
+```
+
+O comando **`pip freeze`** lista no terminal os pacotes **Python** instalados no seu ambiente já no formato que o **pip install** consegue entender, ao associá-lo com o operador de redireção `>` você consegue escrever a mesma lista que aparece no terminal dentro do arquivo de texto.
+
+{% hint style="success" %}
+#### Massa né? Agora é só criar arquivos de dependências para todos projetos 😜
+{% endhint %}
+
