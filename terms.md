@@ -41,9 +41,9 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 ## 4. As taxas de utilização dos Serviços da DisCloud
 
-4.1 Para todos os recursos e serviços adquiridos por doadores, a cobrança é realizada com base no tempo de uso. Os créditos são adicionados de forma pré-paga, através do PayPal.
+4.1 Para todos os recursos e serviços adquiridos por doadores, a cobrança é realizada com base mensal. Os créditos são adicionados de forma pré-paga, através do PayPal e Mercado Pago e cada doação dura 30 dias.
 
-4.2 DisCloud pode alterar as suas seu plano para o gratuito caso não renove sua doação.
+4.2 DisCloud pode alterar o seu plano para o gratuito caso não renove sua doação mensal.
 
 ## 5. Conteúdo nos Serviços da DisCloud e Remoção
 
