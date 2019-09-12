@@ -1,5 +1,5 @@
 ---
-description: Aprenda a hospedar seu bot no Discord Bot Maker na DisCloud
+description: Aprenda a hospedar seu bot do Discord Bot Maker na DisCloud
 ---
 
 # Discord Bot Maker
