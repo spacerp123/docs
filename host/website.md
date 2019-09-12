@@ -38,6 +38,10 @@ Aparecerá esta página, e então clique em **Adicionar Bot**.
 
 Se você ainda não separou os arquivos do seu bot, entre na aba **Tutoriais** e consulte a linguagem do seu bot. Se você já tiver os arquivos separados em uma pasta compactada \(`.zip`\), arraste para o website e preencha as informações obrigatórias e, para concluir, clique no botão **Adicionar Bot**.
 
+{% hint style="info" %}
+Se você tiver alguma dúvida em questão a como preencher corretamente informações obrigatórias do seu bot na DisCloud, visite a categoria FAQ em nossa documentação!
+{% endhint %}
+
 ![](../.gitbook/assets/image%20%2838%29.png)
 
 
