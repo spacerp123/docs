@@ -20,5 +20,8 @@ Se você estiver com o cargo **CloudAccess**, significa que você se registrou c
 
 Feito isso, aparecerá um canal de texto com o seu usuário e tag \(exemplo: `#discloud-1234`\). Lá, aparecerá as instruções e deverão ser preenchidas corretamente para evitar problemas.
 
-Você pode consultar os comandos utilizando `.help` ou `.help <comando>` para saber como utilizar o comando mencionado.
+> Você pode consultar os comandos utilizando `.help` ou `.help <comando>` para saber como utilizar o comando mencionado.
 
+{% hint style="info" %}
+Se você tiver alguma dúvida em questão a como preencher corretamente informações obrigatórias do seu bot na DisCloud, visite a categoria FAQ em nossa documentação!
+{% endhint %}
