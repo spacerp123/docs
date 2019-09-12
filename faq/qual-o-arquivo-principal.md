@@ -4,4 +4,4 @@ O arquivo principal é o código fundamental do seu bot, fazendo com o que seu b
 
 # Exceções (padrões)
 
-Alguns softwares de criação de bots como o **Discord Bot Maker** e **Discord Bot Controls**, tem um arquivo principal padrão já setado, sendo ele: ``bot.js``.
+Alguns softwares de criação de bots, como o **Discord Bot Maker** e **Discord Bot Controls**, tem um arquivo principal padrão já setado, sendo ele: ``bot.js``.
