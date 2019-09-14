@@ -16,11 +16,11 @@ Créditos ao [Cap](https://twitter.com/CapOliveiraBr) pelo tutorial apresentado
 
 **3.** Clique com o botão direito do mouse sobre **Discord Bot Maker** na sua Steam, e clique em **Propriedades**. 
 
-![Clique em propriedades](../../.gitbook/assets/1.JPG)
+![Clique em Propriedades](../../.gitbook/assets/1.JPG)
 
 **4.** Dentro de **Propriedades**, clique em **ARQUIVOS LOCAIS**, por último em **NAVEGAR PELOS ARQUIVOS LOCAIS**, e então você deve está na pasta aonde está instalado o Discord Bot Maker.
 
-![clique em LOCAL FILES, por &#xFA;ltimo, BROWSE LOCAL FILES](../../.gitbook/assets/2.JPG)
+![Clique em ARQUIVOS LOCAIS, por &#xFA;ltimo, NAVEGAR PELOS ARQUIVOS LOCAIS](../../.gitbook/assets/2.JPG)
 
 **4.** Com a pasta do seu bot aberta, e a do Discord Bot Maker também, copie a pasta chamada **actions** do diretório do seu DBM e cole-á na pasta do seu bot.
 
