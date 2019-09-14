@@ -32,8 +32,7 @@ Caso não saiba compactar os arquivos, visite nossa FAQ:
 
 {% page-ref page="../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
-## ✍ Registrando o seu Bot na DisCloud
-Escolha um método para hospedar seu bot:
+## ✍ Registrando seu Bot na DisCloud
 
 {% page-ref page="../../host/website.md" %}
 
