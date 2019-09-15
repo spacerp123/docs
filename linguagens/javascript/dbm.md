@@ -38,6 +38,6 @@ Créditos ao [Cap](https://twitter.com/CapOliveiraBr) pelo tutorial apresentado
 
 {% page-ref page="../../host/discord.md" %}
 
-• ![:YouTube:](https://cdn.discordapp.com/emojis/430925378681569282.png?v=1) **``Vídeo tutorial``**:
+# 🎥 **``Vídeo tutorial``**:
 
 {% embed url="https://www.youtube.com/watch?v=XvnBzJAFH0I" caption="" %}
