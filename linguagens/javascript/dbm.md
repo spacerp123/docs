@@ -33,11 +33,12 @@ Créditos ao [Cap](https://twitter.com/CapOliveiraBr) pelo tutorial apresentado
 {% page-ref page="../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
 ## ✍ Registrando o seu bot na DisCloud
+Escolha alguns dos métodos de hospedagem:
 
 {% page-ref page="../../host/website.md" %}
 
 {% page-ref page="../../host/discord.md" %}
 
-# 🎥 **``Vídeo tutorial``**:
+### 🎥 **``Vídeo tutorial``**:
 
 {% embed url="https://www.youtube.com/watch?v=XvnBzJAFH0I" caption="" %}
