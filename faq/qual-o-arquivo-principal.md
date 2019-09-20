@@ -12,7 +12,7 @@ Alguns softwares de criação de bots, como o **Discord Bot Maker** e **Discord 
 ### JavaScript
 - O arquivo principal é aquele que você usa para ligar seu bot:
   - ao executar o comando **node ArquivoPrincipal.js**
-  - que geralmente está no package.json em **scripts -> start**
+  - que geralmente está no package.json em **main**
 
 ### Python
 - O arquivo principal é aquele que você usa para ligar seu bot:
