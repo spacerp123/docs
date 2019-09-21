@@ -39,6 +39,6 @@ Escolha alguns dos métodos de hospedagem:
 
 {% page-ref page="../../host/discord.md" %}
 
-### 🎥 **``Vídeo tutorial``**:
+### 🎥 **Vídeo tutorial**:
 
 {% embed url="https://www.youtube.com/watch?v=XvnBzJAFH0I" caption="" %}
