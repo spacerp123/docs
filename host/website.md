@@ -44,3 +44,9 @@ Se você tiver alguma dúvida em questão a como preencher corretamente informa�
 
 ![](../.gitbook/assets/image%20%2838%29.png)
 
+{% page-ref page="../faq/como-pegar-o-id-do-meu-bot.md" %}
+
+{% page-ref page="../faq/qual-o-arquivo-principal.md" %}
+
+{% page-ref page="../faq/como-compactar-zipar-os-meus-arquivos.md" %}
+
