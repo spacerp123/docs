@@ -26,3 +26,9 @@ Feito isso, aparecerá um canal de texto com o seu usuário e tag \(exemplo: `#d
 Se você tiver alguma dúvida em questão a como preencher corretamente informações obrigatórias do seu bot na DisCloud, visite a categoria FAQ em nossa documentação!
 {% endhint %}
 
+{% page-ref page="../faq/como-pegar-o-id-do-meu-bot.md" %}
+
+{% page-ref page="../faq/qual-o-arquivo-principal.md" %}
+
+{% page-ref page="../faq/como-compactar-zipar-os-meus-arquivos.md" %}
+
