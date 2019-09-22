@@ -1,4 +1,4 @@
-https://dbmbr.gitbook.io/docs/faq/como-entrar-na-beta-do-dbm---
+---
 description: Tem dúvidas a como entrar na beta do DBM? Aprenda agora mesmo.
 ---
 
