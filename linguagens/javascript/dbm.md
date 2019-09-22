@@ -9,7 +9,7 @@ Créditos ao [Cap](https://twitter.com/CapOliveiraBr) pelo tutorial apresentado
 {% endhint %}
 
 {% hint style="danger" %}
-**Tutorial para apenas a versão beta do DBM!**
+**Tutorial para apenas a versão [beta do DBM](https://dbmbr.gitbook.io/docs/faq/como-entrar-na-beta-do-dbm)!**
 {% endhint %}
 
 ## 📥 Preparando os arquivos
