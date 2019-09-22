@@ -8,13 +8,17 @@ description: Aprenda a hospedar seu bot do Discord Bot Maker na DisCloud
 Créditos ao [Cap](https://twitter.com/CapOliveiraBr) pelo tutorial apresentado
 {% endhint %}
 
+{% hint style="danger" %}
+Tutorial para versão DBM BETA
+{% endhint %}
+
 ## 📥 Preparando os arquivos
 
 **1.** Acesse a pasta do seu bot.
 
 **2.** Abra sua Steam e acesse a biblioteca aonde está o Discord Bot Maker.
 
-**3.** Clique com o botão direito do mouse sobre **Discord Bot Maker** na sua Steam, e clique em **Propriedades**. 
+**3.** Clique com o botão direito do mouse sobre **Discord Bot Maker** na sua Steam, e clique em **Propriedades**.
 
 ![Clique em Propriedades](../../.gitbook/assets/1.JPG)
 
@@ -33,6 +37,7 @@ Créditos ao [Cap](https://twitter.com/CapOliveiraBr) pelo tutorial apresentado
 {% page-ref page="../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
 ## ✍ Registrando o seu bot na DisCloud
+
 Escolha alguns dos métodos de hospedagem:
 
 {% page-ref page="../../host/website.md" %}
@@ -42,3 +47,4 @@ Escolha alguns dos métodos de hospedagem:
 ### 🎥 **Vídeo tutorial**:
 
 {% embed url="https://www.youtube.com/watch?v=XvnBzJAFH0I" caption="" %}
+
