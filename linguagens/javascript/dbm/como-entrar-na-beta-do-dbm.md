@@ -16,4 +16,4 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 
 ![](../../../.gitbook/assets/assets_-lp01j6rr6vzibztsimm_-lph-sgzsqphantj0c9p_-lph-a2niovjrvzog3a9_beta-dbm.gif)
 
-**Fonte**: [DBM-BR Docs](https://dbmbr.gitbook.io/docs/faq/como-entrar-na-beta-do-dbm)
+**Fonte**: [DBM-BR Docs](https://dbmbr.gitbook.io/docs/faq/como-entrar-na-beta-do-dbm).
