@@ -27,7 +27,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 6 - Jogos online;
 
-7 - Outra atividade ilegal, incluindo, sem limitação de exportação ilegal de substâncias controladas ou software ilegal;
+7 - Outra atividade ilegal, incluindo, sem limitação de exposição ilegal de substâncias controladas ou software ilegal;
 
 8 - Phishing;
 
