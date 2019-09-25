@@ -14,7 +14,7 @@ Antes de tudo, **não envie todos os arquivos** de uma vez, você precisará col
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 
-## ✍ Registrando o seu bot
+## ✍ Hospedando o seu bot
 
 {% hint style="info" %}
 Você pode aprender a hospedar seu bot na [versão website](../../host/website.md) ou [Discord](../../host/discord.md)
