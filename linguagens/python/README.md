@@ -33,7 +33,7 @@ Como criar o requirements.txt:
 
 {% page-ref page="../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
-### Escolha o método para upar seu Bot para a Discloud:
+### Escolha o método para hospedar seu Bot para a Discloud:
 
 {% page-ref page="../../host/website.md" %}
 
