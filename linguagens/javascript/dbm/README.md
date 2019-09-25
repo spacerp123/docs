@@ -38,9 +38,9 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 
 {% page-ref page="../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
-## ✍ Registrando o seu bot na DisCloud
+## ✍ Hospedando o seu Bot na DisCloud
 
-Escolha alguns dos métodos de hospedagem:
+Você pode aprender a hospedar seu Bot na versão website ou Discord
 
 {% page-ref page="../../../host/website.md" %}
 

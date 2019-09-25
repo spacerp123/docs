@@ -43,11 +43,13 @@ Após ter feito isso, serão criados mais arquivos, e então, você apenas selec
 
 ![](../../.gitbook/assets/image%20%288%29.png)
 
-## ✍ Registrando o seu bot na DisCloud
+## ✍ Hospedando o seu bot na DisCloud
 
-{% hint style="info" %}
-Você pode aprender a hospedar seu bot na [versão website](../../host/website.md) ou [Discord](../../host/discord.md)
-{% endhint %}
+Você pode aprender a hospedar seu Bot na versão website ou Discord
+
+{% page-ref page="../../host/website.md" %}
+
+{% page-ref page="../../host/discord.md" %}
 
 ## ✅ Finalizado
 
