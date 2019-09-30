@@ -12,7 +12,7 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 **Tutorial apenas para a versão beta do DBM!**
 {% endhint %}
 
-👇
+👇 Veja abaixo como entrar:
 
 {% page-ref page="como-entrar-na-beta-do-dbm.md" %}
 
