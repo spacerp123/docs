@@ -13,7 +13,6 @@
 * [Python](linguagens/python/README.md)
   * [Como funciona o requirements.txt](linguagens/python/exemplo-do-requirements.txt.md)
 * [Java](linguagens/java.md)
-* [Site](https://discloudbot.com/)
 
 ## Conexão
 
@@ -30,4 +29,5 @@
 * [Como compactar \(zipar\) os meus arquivos?](faq/como-compactar-zipar-os-meus-arquivos.md)
 * [Qual o arquivo principal?](faq/qual-o-arquivo-principal.md)
 * [Doações](faq/doacoes.md)
+* [Site](https://discloudbot.com/)
 
