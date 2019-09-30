@@ -2,7 +2,7 @@
 description: Banco Mongo hospedado na nuvem A partir de US $ 0/mês.
 ---
 
-# MongoDB Atlas - Erro de Conexão
+# MongoDB Atlas \(mLab\)
 
 ![](../.gitbook/assets/maxresdefault.jpg)
 

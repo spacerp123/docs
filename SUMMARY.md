@@ -18,7 +18,7 @@
 
 ## Conexão
 
-* [MongoDB Atlas - Erro de Conexão](conexao/mlab-mongodb-atlas.md)
+* [MongoDB Atlas \(mLab\)](conexao/mlab-mongodb-atlas.md)
 
 ## Hospedando pelo <a id="host"></a>
 
