@@ -6,8 +6,8 @@ description: Aprenda a hospedar seu bot em Python na DisCloud
 
 ## Arquivos principais:
 
-* Arquivo a ser executado, é o arquivo principal do seu bot, ou seja, o local onde está o bot.run(). GERALMENTE é `main.py`.   
-* `requirements.txt`. 
+* Arquivo a ser executado, é o arquivo principal do seu bot, ou seja, o local onde está o bot.run\(\). GERALMENTE é `main.py`.   
+* `requirements.txt`.
 
   Quaisquer outros arquivos sem ser esses dois podem ser adicionados, e você pode usa-los no código do seu Bot.\(Isso vale para as cogs também\).
 
@@ -17,7 +17,7 @@ O `requirements.txt` deve conter as bíbliotecas usadas no seu bot, por padrão,
 
 IMPORTANTE!
 
-* As bibliotecas **NÃO SÃO as que você importa**, e sim as que você instala.   
+* As bibliotecas **NÃO SÃO as que você importa**, e sim as que você instala.
 
   Ex.: `import PIL` mas você instala usando `pip install pillow`, logo deve ser colocado **pillow** e não **PIL**.
 
