@@ -4,10 +4,6 @@ description: Aprenda a hospedar seu bot do Discord Bot Maker na DisCloud
 
 # Discord Bot Maker
 
-{% hint style="info" %}
-Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutorial apresentado
-{% endhint %}
-
 {% hint style="danger" %}
 **Tutorial apenas para a versão beta do DBM!**
 {% endhint %}
@@ -15,6 +11,10 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 > Visite nossa FAQ para aprender:
 
 {% page-ref page="como-entrar-na-beta-do-dbm.md" %}
+
+{% hint style="info" %}
+Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutorial apresentado
+{% endhint %}
 
 ## 📥 Preparando os arquivos
 
