@@ -1,5 +1,5 @@
 ---
-description: Banco Mongo hospedado na nuvem A partir de US $ 0/mês.
+description: Configurando seu Banco Mongo em um Bot hospedado na Discloud.
 ---
 
 # MongoDB Atlas \(mLab\)
