@@ -16,11 +16,9 @@
 * [Java](linguagens/java.md)
 * [Site](https://discloudbot.com/)
 
-## Conecções
+## Conexão
 
-* [Untitled](coneccoes/untitled.md)
-* [mLab MongoDB Atlas](coneccoes/mlab-mongodb-atlas.md)
-* [Untitled](coneccoes/untitled-1.md)
+* [mLab MongoDB Atlas Erro de Conexão](conexao/mlab-mongodb-atlas.md)
 
 ## Hospedando pelo <a id="host"></a>
 
