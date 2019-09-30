@@ -12,11 +12,11 @@ description: Aprenda a hospedar seu bot do Discord Bot Maker na DisCloud
 
 {% page-ref page="como-entrar-na-beta-do-dbm.md" %}
 
+## 📥 Preparando os arquivos
+
 {% hint style="info" %}
 Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutorial apresentado
 {% endhint %}
-
-## 📥 Preparando os arquivos
 
 **1.** Acesse a pasta do seu bot.
 
