@@ -20,6 +20,10 @@ Antes de tudo, **não envie todos os arquivos** de uma vez, você precisará col
 Você pode aprender a hospedar seu bot na [versão website](../../como-hospedar/website.md) ou [Discord](../../como-hospedar/discord.md)
 {% endhint %}
 
+{% page-ref page="../../como-hospedar/website.md" %}
+
+{% page-ref page="../../como-hospedar/discord.md" %}
+
 ## ✅ Finalizado
 
 Pronto, em alguns segundos ou minutos, o seu bot estará online.
