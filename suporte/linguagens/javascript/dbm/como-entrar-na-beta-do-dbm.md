@@ -14,7 +14,7 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 
 **3° -** Por último clique em **BETAS** e selecione a opção **"beta - For testing new features"**.[ ](https://dbmbr.gitbook.io/docs/faq/como-instalar-e-atualizar-os-mods)
 
-![](../../../.gitbook/assets/assets_-lp01j6rr6vzibztsimm_-lph-sgzsqphantj0c9p_-lph-a2niovjrvzog3a9_beta-dbm.gif)
+![](../../../../.gitbook/assets/assets_-lp01j6rr6vzibztsimm_-lph-sgzsqphantj0c9p_-lph-a2niovjrvzog3a9_beta-dbm.gif)
 
 **Fonte**: [DBM-BR Docs](https://dbmbr.gitbook.io/docs/faq/como-entrar-na-beta-do-dbm).
 

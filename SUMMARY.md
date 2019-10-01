@@ -4,24 +4,21 @@
 * [Termos de Serviço](terms.md)
 * [Política de Uso](policy.md)
 
-## Linguagens
+## Suporte
 
-* [JavaScript](linguagens/javascript/README.md)
-  * [Discord Bot Maker](linguagens/javascript/dbm/README.md)
-    * [Como entrar na versão beta do DBM?](linguagens/javascript/dbm/como-entrar-na-beta-do-dbm.md)
-  * [Discord Bot Controls](linguagens/javascript/dbc.md)
-* [Python](linguagens/python/README.md)
-  * [Como funciona o requirements.txt](linguagens/python/exemplo-do-requirements.txt.md)
-* [Java](linguagens/java.md)
-
-## Conexão
-
-* [MongoDB Atlas \(mLab\)](conexao/mlab-mongodb-atlas.md)
-
-## Hospedando pelo <a id="host"></a>
-
-* [Website](host/website.md)
-* [Discord](host/discord.md)
+* [Linguagens](suporte/linguagens/README.md)
+  * [JavaScript](suporte/linguagens/javascript/README.md)
+    * [Discord Bot Maker](suporte/linguagens/javascript/dbm/README.md)
+      * [Como entrar na versão beta do DBM?](suporte/linguagens/javascript/dbm/como-entrar-na-beta-do-dbm.md)
+    * [Discord Bot Controls](suporte/linguagens/javascript/dbc.md)
+  * [Python](suporte/linguagens/python/README.md)
+    * [Como funciona o requirements.txt](suporte/linguagens/python/exemplo-do-requirements.txt.md)
+  * [Java](suporte/linguagens/java.md)
+* [Conexões](suporte/conexoes/README.md)
+  * [MongoDB Atlas \(mLab\)](suporte/conexoes/mlab-mongodb-atlas.md)
+* [Como Hospedar](suporte/como-hospedar/README.md)
+  * [Website](suporte/como-hospedar/website.md)
+  * [Discord](suporte/como-hospedar/discord.md)
 
 ## FAQ
 

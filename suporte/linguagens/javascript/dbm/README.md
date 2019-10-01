@@ -22,29 +22,29 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 
 **3.** Clique com o botão direito do mouse sobre **Discord Bot Maker** na sua Steam, e clique em **Propriedades**.
 
-![Clique em Propriedades](../../../.gitbook/assets/1.JPG)
+![Clique em Propriedades](../../../../.gitbook/assets/1.JPG)
 
 **4.** Dentro de **Propriedades**, clique em **ARQUIVOS LOCAIS**, e por último, em **NAVEGAR PELOS ARQUIVOS LOCAIS**, e então você deve está na pasta aonde está instalado o Discord Bot Maker.
 
-![Clique em ARQUIVOS LOCAIS, por &#xFA;ltimo, NAVEGAR PELOS ARQUIVOS LOCAIS](../../../.gitbook/assets/2.JPG)
+![Clique em ARQUIVOS LOCAIS, por &#xFA;ltimo, NAVEGAR PELOS ARQUIVOS LOCAIS](../../../../.gitbook/assets/2.JPG)
 
 **4.** Com a pasta do seu bot aberta, e a do Discord Bot Maker também, copie a pasta **actions** do diretório do seu DBM e cole-á na pasta do seu bot.
 
 **5.** Por fim, compacte os arquivos do seu bot em um `.zip`, e não a pasta do seu bot! Zipe juntos os seguintes arquivos: **actions**, **data**, **fonts**, **resources**, **bot.js** e **package.json**.
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](../../../../.gitbook/assets/image%20%2836%29.png)
 
 > Caso não saiba compactar os arquivos, visite nossa FAQ:
 
-{% page-ref page="../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
+{% page-ref page="../../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
 ## ✍ Hospedando o seu Bot na DisCloud
 
 Você pode aprender a hospedar seu Bot na versão website ou Discord
 
-{% page-ref page="../../../host/website.md" %}
+{% page-ref page="../../../como-hospedar/website.md" %}
 
-{% page-ref page="../../../host/discord.md" %}
+{% page-ref page="../../../como-hospedar/discord.md" %}
 
 ### 🎥 **Vídeo tutorial**:
 

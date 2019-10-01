@@ -29,13 +29,13 @@ Como criar o requirements.txt:
 
 • Faça um **`.zip`** com os arquivos.
 
-![Exemplo no Windows](../../.gitbook/assets/image%20%2811%29.png)
+![Exemplo no Windows](../../../.gitbook/assets/image%20%2811%29.png)
 
-{% page-ref page="../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
+{% page-ref page="../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
 ### Escolha o método para hospedar seu Bot para a Discloud:
 
-{% page-ref page="../../host/website.md" %}
+{% page-ref page="../../como-hospedar/website.md" %}
 
-{% page-ref page="../../host/discord.md" %}
+{% page-ref page="../../como-hospedar/discord.md" %}
 
