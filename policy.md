@@ -13,6 +13,10 @@ Por favor, note que nós podemos mudar nossa Política de Uso, a qualquer moment
 
 Caso persista alguma dúvida sobre este documento entre em contato através do e-mail: [support@discloudbot.com](mailto:support@discloudbot.com).
 
+## Conteúdo permitido
+
+1. A plataforma atualmente é destinada exclusivamente para a hospedagem de Bots Discord que estejam dentro dos [Termos de serviço](https://discordapp.com/terms) \(TOS\) da Discord Inc.
+
 ## Conteúdo proibido
 
 1 - Conteúdo que viole os direitos de terceiros \(por exemplo, direitos de autor\) de acordo com a legislação aplicável;
@@ -36,6 +40,10 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 10 - Arquivos de backup que não sejam do seu próprio bot ou aplicação;
 
 11 - Outros materiais, produtos ou serviços que violem ou encorajam conduta que viole as leis penais, quaisquer outras leis aplicáveis, nem quaisquer direitos de terceiros.
+
+12 - Bots com conteúdo NSFW
+
+13 - Qualquer aplicação que vai contra o [conteúdo permitido](https://docs.discloudbot.com/policy#conteudo-permitido).
 
 ## Ações proibidas
 
@@ -72,6 +80,10 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 17 - Exibir qualquer conteúdo no Serviço que contenha qualquer conteúdo relacionado com ódio ou violência ou contém quaisquer outros materiais, produtos ou serviços que violem ou encorajem conduta que viole as leis penais, quaisquer outras leis aplicáveis, ou quaisquer direitos de terceiros;
 
 18 - É completamente proibido burlar o plano free criando 2 contas no Discord para assim ter 2 bots hospedados em nossa plataforma, caso pego todos os bots serão deletados e sua conta adicionada a Blacklist.
+
+19 -   É proibido automatizar contas de usuário normais da Discord \(geralmente chamadas de "self-bots"\).
+
+
 
 `Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Google, Inc. não possui vínculo e não patrocina ou endossa a DisCloud ou o seu uso da obra.`
 
