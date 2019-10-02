@@ -43,7 +43,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 12 - Bots com conteúdo NSFW
 
-13 - Qualquer aplicação que vai contra o conteúdo permitido desse documento.
+13 - Qualquer aplicação que vai contra o **conteúdo permitido** desse documento.
 
 ## Ações proibidas
 
