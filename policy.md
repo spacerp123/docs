@@ -4,7 +4,7 @@ description: É importante ler a Política de Uso da DisCloud antes de hospedar 
 
 # Política de Uso
 
-* Última atualização: 02 de agosto de 2019
+* Última atualização: 02 de outubro de 2019
 * Efetividade: 23 de junho de 2019
 
 Este Termo estabelece as regras para utilização da Plataforma DisCloud. Informamos que através da sua aceitação você está contratando nossos serviços e aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não finalize seu cadastro, nem utilize nossos serviços. A utilização da plataforma implica em contratação tácita de nossos serviços e por força dessa contratação a concordância com as cláusulas aqui apresentadas.
