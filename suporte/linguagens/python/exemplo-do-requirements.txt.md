@@ -1,4 +1,8 @@
-# Como funciona o requirements.txt
+---
+description: Como funciona o requirements.txt
+---
+
+# Criando seu requirements.txt
 
  Segundo a [documentação do pip sobre arquivos requirements](https://pip.pypa.io/en/stable/user_guide/#requirements-files):
 
@@ -22,7 +26,7 @@ pandas>=0.18.1
 3. **seaborn==0.8.1**: No caso do seaborn, estamos instalando a versão **`0.8.1`**. Fixar a versão dessa forma é interessante pois garante que o seu projeto vai sempre estar funcionando já que mudanças nos pacotes são indicadas pela alteração no número da versão. 
 4.  **pandas&gt;=0.18.1**: Da mesma forma que o sinal de **`==`** define uma versão específica a ser instalada, quando usamos o sinal de **`>=`** nessa lista estamos dizendo que queremos instalar qualquer versão da biblioteca, nesse caso o pandas, seja ela a versão **`0.18.1`** ou uma mais recente. Interessante nesse caso é notar que você pode definir um intervalo de versões, por exemplo, **`pandas>=0.15.0,<=0.18.1`**.
 
-## Criando seu requirements.txt
+## Como crio o meu requirements.txt ?
 
 Você pode usar o próprio **bloco de notas** para criar seu arquivo **`requirements.txt`**
 

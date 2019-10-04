@@ -22,7 +22,7 @@ O `requirements.txt` deve conter as bibliotecas usadas no seu Bot, por padrão, 
 
 {% hint style="warning" %}
 As bibliotecas **NÃO SÃO as que você importa**, e sim as que você instala.  
-Ex.: `import PIL` mas você instala usando `pip install pillow`, logo deve ser colocado **pillow** e não **PIL**.
+Ex.: **`import PIL`** mas você instala usando **`pip install pillow`**, logo deve ser colocado **pillow** e não **PIL** no seu arquivo `requirements.txt`
 {% endhint %}
 
 {% page-ref page="exemplo-do-requirements.txt.md" %}
