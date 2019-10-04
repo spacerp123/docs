@@ -1,7 +1,3 @@
----
-description: Como funciona o requirements.txt
----
-
 # Criando seu requirements.txt
 
  Segundo a [documentação do pip sobre arquivos requirements](https://pip.pypa.io/en/stable/user_guide/#requirements-files):
