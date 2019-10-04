@@ -8,7 +8,7 @@ description: Aprenda a hospedar seu bot em Python na DisCloud
 
 **`main.py`** e **`requirements.txt`**
 
-![O arquivo principal do seu bot, ou seja, o local onde est&#xE1; o bot.run\(\). GERALMENTE &#xE9; main.py](../../../.gitbook/assets/capturar.PNG)
+![O arquivo principal do seu bot, ou seja, o local onde est&#xE1; o bot.run\(\). GERALMENTE &#xE9; main.py](../../../.gitbook/assets/capturar%20%281%29.PNG)
 
 {% hint style="warning" %}
 **Quaisquer outros arquivos que seja necessário em seu Bot sem ser esses dois podem ser adicionados**. \(Isso vale para as cogs também\).
@@ -51,7 +51,5 @@ Escolha o método para hospedar seu Bot na Discloud:
 
 Pronto, em alguns segundos ou minutos, o seu Bot estará online.
 
-![](../../../.gitbook/assets/image%20%287%29.png)
-
-Pronto, em alguns segundos ou minutos, o seu Bot estará online.
+![](../../../.gitbook/assets/capturar.PNG)
 
