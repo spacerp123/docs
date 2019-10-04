@@ -4,24 +4,26 @@ description: Aprenda a hospedar seu bot em Python na DisCloud
 
 # Python
 
-## Arquivos principais:
+## 📥 Arquivos principais
 
-* Arquivo a ser executado, é o arquivo principal do seu bot, ou seja, o local onde está o bot.run\(\). GERALMENTE é `main.py`.   
-* `requirements.txt`.
+**`main.py`** e **`requirements.txt`**
 
-  Quaisquer outros arquivos sem ser esses dois podem ser adicionados, e você pode usa-los no código do seu Bot.\(Isso vale para as cogs também\).
+![O arquivo principal do seu bot, ou seja, o local onde est&#xE1; o bot.run\(\). GERALMENTE &#xE9; main.py](../../../.gitbook/assets/capturar.PNG)
+
+{% hint style="warning" %}
+**Quaisquer outros arquivos que seja necessário em seu Bot sem ser esses dois podem ser adicionados**. \(Isso vale para as cogs também\).
+{% endhint %}
 
 {% page-ref page="../../../faq/qual-o-arquivo-principal.md" %}
 
-### Requirements:
+## Requirements
 
-O `requirements.txt` deve conter as bíbliotecas usadas no seu bot, por padrão, deve no mínimo conter a livraria `discord.py`, caso use a livraria `disco-py` basta substituir.
+O `requirements.txt` deve conter as bibliotecas usadas no seu Bot, por padrão, deve no mínimo conter a livraria `discord.py`, caso use a livraria `disco-py` basta substituir.
 
-IMPORTANTE!
-
-* As bibliotecas **NÃO SÃO as que você importa**, e sim as que você instala.
-
-  Ex.: `import PIL` mas você instala usando `pip install pillow`, logo deve ser colocado **pillow** e não **PIL**.
+{% hint style="warning" %}
+As bibliotecas **NÃO SÃO as que você importa**, e sim as que você instala.  
+Ex.: `import PIL` mas você instala usando `pip install pillow`, logo deve ser colocado **pillow** e não **PIL**.
+{% endhint %}
 
 {% page-ref page="exemplo-do-requirements.txt.md" %}
 
@@ -29,11 +31,17 @@ IMPORTANTE!
 
 • Faça um **`.zip`** com os arquivos.
 
-![Exemplo no Windows](../../../.gitbook/assets/image%20%2811%29.png)
-
 {% page-ref page="../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
-### Escolha o método para hospedar seu Bot para a Discloud:
+![Exemplo no Windows](../../../.gitbook/assets/image%20%2811%29.png)
+
+
+
+## ✍ Hospedando o seu Bot
+
+{% hint style="info" %}
+Escolha o método para hospedar seu Bot na Discloud:
+{% endhint %}
 
 {% page-ref page="../../como-hospedar/website.md" %}
 
