@@ -47,3 +47,11 @@ Escolha o método para hospedar seu Bot na Discloud:
 
 {% page-ref page="../../como-hospedar/discord.md" %}
 
+## ✅ Finalizado <a id="finalizado"></a>
+
+Pronto, em alguns segundos ou minutos, o seu Bot estará online.
+
+![](../../../.gitbook/assets/image%20%287%29.png)
+
+Pronto, em alguns segundos ou minutos, o seu Bot estará online.
+
