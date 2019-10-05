@@ -4,7 +4,7 @@ description: >-
   qualidade para Bots Discord.
 ---
 
-# Bem-vindo
+# Documentação
 
 ## 📜 Informações
 

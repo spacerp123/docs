@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bem-vindo](README.md)
+* [Documentação](README.md)
 * [Termos de Serviço](terms.md)
 * [Política de Uso](policy.md)
 
