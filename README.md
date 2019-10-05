@@ -2,7 +2,7 @@
 description: Bem-vindo a documentação oficial da DisCloud
 ---
 
-# Documentação
+# Bem-Vindo
 
 ## 📜 Informações
 
