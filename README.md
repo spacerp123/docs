@@ -1,7 +1,5 @@
 ---
-description: >-
-  A DisCloud nasceu com a vontade de oferecer hospedagem fácil, gratuita e de
-  qualidade para Bots Discord.
+description: Bem-vindo a documentação oficial da DisCloud
 ---
 
 # Documentação
