@@ -1,5 +1,5 @@
 ---
-description: De onde surgiu o nome Discloud
+description: Significados por traz do nome Discloud
 ---
 
 # Origem do Nome
