@@ -7,7 +7,7 @@ description: >-
 # Identidade Visual
 
 {% hint style="warning" %}
-**Em geral, não use o nome, logotipos ou gráficos da DisCloud\("materiais da marca"\) de maneiras que possam ser confusas, enganosas ou sugerir nosso patrocínio, endosso ou afiliação.**
+**Em geral, não use o nome ou logotipos da DisCloud de maneiras que possam ser confusas, enganosas ou sugerir nosso patrocínio, endosso ou afiliação.**
 {% endhint %}
 
 ## Logo
