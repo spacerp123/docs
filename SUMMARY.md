@@ -28,3 +28,7 @@
 * [Doações](faq/doacoes.md)
 * [Site](https://discloudbot.com/)
 
+## Info
+
+* [Nossa Marca](info/nossa-marca.md)
+
