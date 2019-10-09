@@ -1,2 +1,2 @@
-# DisCloud Brand
+# Discloud Brand
 

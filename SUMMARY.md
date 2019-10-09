@@ -30,7 +30,7 @@
 
 ## Sobre
 
-* [DisCloud Brand](sobre/discloud-brand/README.md)
+* [Discloud Brand](sobre/discloud-brand/README.md)
   * [Origem do Nome](sobre/discloud-brand/origem-do-nome.md)
   * [Identidade Visual](sobre/discloud-brand/identidade-visual.md)
 
