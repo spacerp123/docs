@@ -26,11 +26,11 @@
 * [Como compactar \(zipar\) os meus arquivos?](faq/como-compactar-zipar-os-meus-arquivos.md)
 * [Qual o arquivo principal?](faq/qual-o-arquivo-principal.md)
 * [Doações](faq/doacoes.md)
-* [Site](https://discloudbot.com/)
 
 ## Sobre
 
 * [Discloud Brand](sobre/discloud-brand/README.md)
   * [Origem do Nome](sobre/discloud-brand/origem-do-nome.md)
   * [Identidade Visual](sobre/discloud-brand/identidade-visual.md)
+  * [Site](https://discloudbot.com/)
 
