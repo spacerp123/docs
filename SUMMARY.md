@@ -30,6 +30,6 @@
 
 ## Info
 
-* [Nossa Marca](info/nossa-marca.md)
 * [Origem do Nome](info/origem-do-nome.md)
+* [Nossa Marca](info/nossa-marca.md)
 
