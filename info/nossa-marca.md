@@ -13,11 +13,15 @@ description: >-
 ## Logo
 
 {% tabs %}
-{% tab title=" logotipo horizontal escuro" %}
+{% tab title=" Logotipo horizontal escuro" %}
 ![](../.gitbook/assets/spoiler_discloud_dark.png)
 {% endtab %}
 
-{% tab title=" logotipo horizontal branco" %}
+{% tab title=" Logotipo horizontal branco" %}
+![](../.gitbook/assets/spoiler_discloud_branco.png)
+{% endtab %}
+
+{% tab title=" Logotipo horizontal branco sombra" %}
 ![](../.gitbook/assets/discloud2.png)
 {% endtab %}
 {% endtabs %}
