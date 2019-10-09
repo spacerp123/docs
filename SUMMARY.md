@@ -28,8 +28,9 @@
 * [Doações](faq/doacoes.md)
 * [Site](https://discloudbot.com/)
 
-## Info
+## Sobre
 
-* [Origem do Nome](info/origem-do-nome.md)
-* [Nossa Marca](info/nossa-marca.md)
+* [DisCloud Brand](sobre/discloud-brand/README.md)
+  * [Origem do Nome](sobre/discloud-brand/origem-do-nome.md)
+  * [Identidade Visual](sobre/discloud-brand/identidade-visual.md)
 
