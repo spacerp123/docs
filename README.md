@@ -4,9 +4,7 @@ description: Bem-vindo a documentação oficial da DisCloud
 
 # Bem-Vindo
 
-{% hint style="success" %}
-Documentação é o conjunto de todos **documentos**, que são **todas as fontes** contendo informações que ajudem a tomar decisões, comuniquem decisões tomadas e **registrem assuntos de interesse da organização**.
-{% endhint %}
+> Documentação é o conjunto de todos **documentos**, que são **todas as fontes** contendo informações que ajudem a tomar decisões, comuniquem decisões tomadas e **registrem assuntos de interesse da organização**.
 
 ## 📜 Informações
 
