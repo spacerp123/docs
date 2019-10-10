@@ -1,26 +1,18 @@
----
-description: Configurando seu Banco Mongo em um Bot hospedado na Discloud.
----
+description
+Setting up your Mongo Bank on a Discloud hosted Bot.
+MongoDB Atlas (mLab)
 
-# MongoDB Atlas \(mLab\)
 
-![](../../.gitbook/assets/maxresdefault.jpg)
+When connecting your MongoDB database to a DisCloud-hosted Bot Discord you may come across the possible error:
+{% hint style = "danger"%}
 
-### Ao conectar seu banco [MongoDB](https://mlab.com/) a um Bot Discord hospedado na DisCloud você pode se deparar com o possível erro:
+Error Connecting to MyDB : MongoNetworkError : connection 0 to meudb - shard - 00 - 00 - 9m7sg . mongodb . net : 27017 closed
+{% endhint%}
 
-{% hint style="danger" %}
-```javascript
-Erro ao Conectar na MeuDB: MongoNetworkError: connection 0 to meudb-shard-00-00-9m7sg.mongodb.net:27017 closed
-```
-{% endhint %}
+According to a Github issue I encountered, you will get this error message if you have not whitelisted MongoDB Atlas addresses, the IP where your Bot is hosted.
 
-Você receberá essa mensagem de erro se não tiver incluído na lista branca os endereços do MongoDB Atlas,  o IP de onde seu Bot está hospedado.
+{% hint style = "info"%} Due to the way DisCloud works, we cannot provide you with an IP address. {% endhint%}
 
-{% hint style="info" %}
-**Devido ao modo como o DisCloud funciona, não podemos fornecer um endereço IP para você.**
-{% endhint %}
 
-Então de acordo com o [documentação](https://docs.atlas.mongodb.com/security-whitelist/) do MongoDB Atlas, a única maneira de fazer com que as instancias da DisCloud se conecte ao seu banco, é adicionar **`0.0.0.0/0`**\(ou seja, todos os endereços\) à sua lista de permissões do MongoDB Atlas.
-
-![](../../.gitbook/assets/capturar%20%283%29.PNG)
+So according to the MongoDB Atlas documentation , the only way to make DisCloud instances connect to your bank is to add 0.0.0.0/0(ie all addresses) to your MongoDB Atlas whitelist.
 
