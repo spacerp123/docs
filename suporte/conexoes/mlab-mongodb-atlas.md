@@ -13,19 +13,6 @@ According to a Github issue I encountered, you will get this error message if yo
 
 {% hint style = "info"%} Due to the way DisCloud works, we cannot provide you with an IP address. {% endhint%}
 
+
 So according to the MongoDB Atlas documentation , the only way to make DisCloud instances connect to your bank is to add 0.0.0.0/0(ie all addresses) to your MongoDB Atlas whitelist.
 
-
-
-© 2019 GitHub , Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
