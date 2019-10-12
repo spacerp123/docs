@@ -6,7 +6,7 @@ description: Configurando seu Banco Mongo em um Bot hospedado na Discloud.
 
 ![](../../.gitbook/assets/maxresdefault.jpg)
 
-### Ao conectar seu banco [MongoDB](https://mlab.com/) a um Bot Discord hospedado na DisCloud você pode se deparar com o possível erro:
+## Ao conectar seu banco [MongoDB](https://mlab.com/) a um Bot Discord hospedado na DisCloud você pode se deparar com o possível erro:
 
 {% hint style="danger" %}
 ```javascript
@@ -14,7 +14,7 @@ Erro ao Conectar na MeuDB: MongoNetworkError: connection 0 to meudb-shard-00-00-
 ```
 {% endhint %}
 
-Você receberá essa mensagem de erro se não tiver incluído na lista branca os endereços do MongoDB Atlas,  o IP de onde seu Bot está hospedado.
+Você receberá essa mensagem de erro se não tiver incluído na lista branca os endereços do MongoDB Atlas, o IP de onde seu Bot está hospedado.
 
 {% hint style="info" %}
 **Devido ao modo como o DisCloud funciona, não podemos fornecer um endereço IP para você.**
