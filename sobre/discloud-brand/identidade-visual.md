@@ -57,6 +57,6 @@ A fonte usada para o logotipo da DisCloud é uma versão modificada do [Uni Sans
 {% endtabs %}
 
 {% hint style="danger" %}
-**Não edite, altere, distorça, mude a cor ou reconfigure o logotipo do Discord.**
+**Não edite, altere, distorça, mude a cor ou reconfigure o logotipo do Discloud.**
 {% endhint %}
 
