@@ -41,7 +41,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 11 - Outros materiais, produtos ou serviços que violem ou encorajam conduta que viole as leis penais, quaisquer outras leis aplicáveis, nem quaisquer direitos de terceiros.
 
-12 - Bots com conteúdo NSFW
+12 - Bots com conteúdo criminoso
 
 13 - Qualquer aplicação que vai contra o **conteúdo permitido** desse documento.
 

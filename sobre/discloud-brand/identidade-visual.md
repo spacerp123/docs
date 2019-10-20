@@ -44,17 +44,11 @@ description: >-
 
 ## Fonte
 
-{% tabs %}
-{% tab title="Fonte Discloud" %}
 A fonte usada para o logotipo da DisCloud é uma versão modificada do [Uni Sans Heavy](https://www.myfonts.com/fonts/font-fabric/uni-sans/), que foi projetada por Svet Simov em 2009.
 
 {% file src="../../.gitbook/assets/font\_discloud.otf" %}
-{% endtab %}
 
-{% tab title="Wallpaper Discloud" %}
 ![](../../.gitbook/assets/discloud-background.png)
-{% endtab %}
-{% endtabs %}
 
 {% hint style="danger" %}
 **Não faça qualquer tipo de modificação na logotipo do DisCloud.**
