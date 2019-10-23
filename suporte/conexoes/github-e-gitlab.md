@@ -6,8 +6,6 @@ description: Integração do seu repositório Git com a sua intrância Discloud
 
 ![](../../.gitbook/assets/github-vs-gitlabpost%20%281%29.png)
 
-text
-
 | GitHub                               |GitLab                                |
 |--------------------------------------|------------------------------------- |
 |![](../../.gitbook/assets/github.gif) | ![](../../.gitbook/assets/gitlab.gif)|
