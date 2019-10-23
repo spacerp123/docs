@@ -1,5 +1,5 @@
 ---
-description: Integração do seu repositório Git com a sua intrância Discloud
+description: Integração do seu repositório Git com a sua instância Discloud
 ---
 
 # GitHub e GitLab
