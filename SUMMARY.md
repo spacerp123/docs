@@ -6,6 +6,9 @@
 
 ## Suporte
 
+* [Como Hospedar](suporte/como-hospedar/README.md)
+  * [Website](suporte/como-hospedar/website.md)
+  * [Discord](suporte/como-hospedar/discord.md)
 * [Linguagens](suporte/linguagens/README.md)
   * [JavaScript](suporte/linguagens/javascript/README.md)
     * [Discord Bot Maker](suporte/linguagens/javascript/dbm/README.md)
@@ -18,9 +21,6 @@
   * [GitHub e GitLab](suporte/conexoes/github-e-gitlab.md)
   * [Banco de Dados](suporte/conexoes/banco-de-dados/README.md)
     * [MongoDB Atlas \(mLab\)](suporte/conexoes/banco-de-dados/mlab-mongodb-atlas.md)
-* [Como Hospedar](suporte/como-hospedar/README.md)
-  * [Website](suporte/como-hospedar/website.md)
-  * [Discord](suporte/como-hospedar/discord.md)
 
 ## FAQ
 

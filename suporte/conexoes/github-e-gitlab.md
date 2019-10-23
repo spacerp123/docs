@@ -6,5 +6,5 @@
 
 ![](../../.gitbook/assets/gitlab.gif)
 
-![](../../.gitbook/assets/exemplo.gif)
+![](../../.gitbook/assets/exemplo%20%283%29.gif)
 

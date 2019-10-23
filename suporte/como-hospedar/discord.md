@@ -22,12 +22,20 @@ Apenas hospede pelo Discord se o seu arquivo for menos que 8 MB. Caso for maior,
 
 Se você estiver com o cargo **CloudAccess**, significa que você se registrou com sucesso na DisCloud. Para hospedar, entre no canal de texto `🔌▏cmd-discloud` e digite `.up`.
 
-Feito isso, aparecerá um canal de texto com o seu usuário e tag \(exemplo: `#discloud-1234`\). Lá, aparecerá as instruções e deverão ser preenchidas corretamente para evitar problemas.
+![ ](../../.gitbook/assets/image%20%2831%29.png)
+
+Feito isso, aparecerá um canal de texto com o seu Nickname e Tag \(exemplo: `#SeuNick-1234`\). 
+
+![](../../.gitbook/assets/image%20%285%29.png)
+
+Dentro desse chat aparecerá as instruções que deverão ser preenchidas corretamente para evitar problemas. 
+
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 > Você pode consultar os comandos utilizando `.help` ou `.help <comando>` para saber como utilizar o comando mencionado.
 
 {% hint style="info" %}
-Se você tiver alguma dúvida em questão a como preencher corretamente informações obrigatórias do seu bot na DisCloud, visite a categoria FAQ em nossa documentação!
+Se você tiver alguma dúvida em questão a como preencher corretamente informações obrigatórias do seu Bot na DisCloud, visite a categoria FAQ em nossa documentação!
 {% endhint %}
 
 {% page-ref page="../../faq/como-pegar-o-id-do-meu-bot.md" %}
