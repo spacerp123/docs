@@ -18,5 +18,5 @@ Contamos com a colaboração de doadores para se manter no ar e melhorar a quali
 • ![:YouTube:](https://cdn.discordapp.com/emojis/430925378681569282.png?v=1) **`YouTube:`** [**https://youtube.com/c/pedroricardor**](https://youtube.com/c/pedroricardor)   
 • ![:discord:](https://cdn.discordapp.com/emojis/274789236421427200.png?v=1) **`Discord:`** [**https://discord.gg/CvxevT5**](https://discord.gg/CvxevT5)
 
-![](.gitbook/assets/intro-img.svg)
+![](.gitbook/assets/secure_1.png)
 

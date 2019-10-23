@@ -6,5 +6,7 @@
 
 ![](../../.gitbook/assets/gitlab.gif)
 
+![](../../.gitbook/assets/github-vs-gitlabpost.png)
+
 ![](../../.gitbook/assets/exemplo%20%283%29.gif)
 
