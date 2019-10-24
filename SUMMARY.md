@@ -3,7 +3,6 @@
 * [Bem-Vindo](README.md)
 * [Termos de Serviço](terms.md)
 * [Política de Uso](policy.md)
-* [Changelog](changelog.md)
 
 ## Suporte
 
