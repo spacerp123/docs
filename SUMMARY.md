@@ -11,7 +11,7 @@
   * [Website](suporte/como-hospedar/website.md)
   * [Discord](suporte/como-hospedar/discord.md)
 * [Linguagens](suporte/linguagens/README.md)
-  * [🎋JavaScript](suporte/linguagens/javascript/README.md)
+  * [📦JavaScript](suporte/linguagens/javascript/README.md)
     * [Discord Bot Maker](suporte/linguagens/javascript/dbm/README.md)
       * [Como entrar na versão beta do DBM?](suporte/linguagens/javascript/dbm/como-entrar-na-beta-do-dbm.md)
     * [Discord Bot Controls](suporte/linguagens/javascript/dbc.md)
