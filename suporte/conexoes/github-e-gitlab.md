@@ -6,7 +6,13 @@ description: Integração do seu repositório Git com a sua instância Discloud
 
 ![](../../.gitbook/assets/github-vs-gitlabpost%20%281%29.png)
 
-## Configurando um Webhook
+## Como usar o Github
+
+{% embed url="https://www.youtube.com/watch?v=Fj3gtbaF8WA" %}
+
+
+
+## Configurando Webhook para integração
 
 Começaremos configurando um webhook para seu repositório. Essa etapa é importante porque, sem ela, o Github não sabe quais eventos enviar quando as coisas acontecem ou para onde enviá-las.
 
