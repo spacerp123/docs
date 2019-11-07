@@ -6,24 +6,21 @@
 
 ## Suporte
 
-* [Linguagens](suporte/linguagens.md)
 * [Como Hospedar](suporte/como-hospedar/README.md)
   * [Website](suporte/como-hospedar/website.md)
   * [Discord](suporte/como-hospedar/discord.md)
-* [Linguagens](suporte/linguagens-1/README.md)
-  * [📦JavaScript](suporte/linguagens-1/javascript/README.md)
-    * [Discord Bot Maker](suporte/linguagens-1/javascript/dbm/README.md)
-      * [Como entrar na versão beta do DBM?](suporte/linguagens-1/javascript/dbm/como-entrar-na-beta-do-dbm.md)
-    * [Discord Bot Controls](suporte/linguagens-1/javascript/dbc.md)
-  * [🐍Python](suporte/linguagens-1/python/README.md)
-    * [Criando seu requirements.txt](suporte/linguagens-1/python/exemplo-do-requirements.txt.md)
-  * [☕Java](suporte/linguagens-1/java.md)
-* [Conexões](suporte/conexoes.md)
-* [Integrações](suporte/conexoes-1/README.md)
-  * [GitHub e GitLab](suporte/conexoes-1/github-e-gitlab.md)
-  * [Banco de Dados](suporte/conexoes-1/banco-de-dados/README.md)
-    * [MongoDB Atlas \(mLab\)](suporte/conexoes-1/banco-de-dados/mlab-mongodb-atlas.md)
-* [Como hospedar](suporte/hospedar.md)
+* [Linguagens](suporte/linguagens/README.md)
+  * [📦JavaScript](suporte/linguagens/javascript/README.md)
+    * [Discord Bot Maker](suporte/linguagens/javascript/dbm/README.md)
+      * [Como entrar na versão beta do DBM?](suporte/linguagens/javascript/dbm/como-entrar-na-beta-do-dbm.md)
+    * [Discord Bot Controls](suporte/linguagens/javascript/dbc.md)
+  * [🐍Python](suporte/linguagens/python/README.md)
+    * [Criando seu requirements.txt](suporte/linguagens/python/exemplo-do-requirements.txt.md)
+  * [☕Java](suporte/linguagens/java.md)
+* [Integrações](suporte/conexoes/README.md)
+  * [GitHub e GitLab](suporte/conexoes/github-e-gitlab.md)
+  * [Banco de Dados](suporte/conexoes/banco-de-dados/README.md)
+    * [MongoDB Atlas \(mLab\)](suporte/conexoes/banco-de-dados/mlab-mongodb-atlas.md)
 
 ## FAQ
 

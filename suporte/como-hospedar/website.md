@@ -10,9 +10,9 @@ description: >-
 
 Antes de você já ir jogando os seus arquivos no website, consulte um dos tutoriais correspondentes a linguagem do seu Bot.
 
-{% page-ref page="../linguagens-1/javascript/" %}
+{% page-ref page="../linguagens/javascript/" %}
 
-{% page-ref page="../linguagens-1/python/" %}
+{% page-ref page="../linguagens/python/" %}
 
 ## ✍ Registro
 
