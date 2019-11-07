@@ -4,7 +4,7 @@ description: É importante ler os Termos de Serviço da DisCloud antes de hosped
 
 # Termos de Serviço
 
-* Última atualização: 07 de novembro de 2019
+* Última atualização: 09 de setembro de 2019
 * Efetividade: 1 de junho de 2019
 
 Este Termo estabelece as regras para utilização da Plataforma DisCloud. Informamos que através da sua aceitação você está contratando nossos serviços e aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não finalize seu cadastro, nem utilize nossos serviços. A utilização da plataforma implica em contratação tácita de nossos serviços e por força dessa contratação a concordância com as cláusulas aqui apresentadas.
@@ -44,8 +44,6 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 4.1 Para todos os recursos e serviços adquiridos por doadores, a cobrança é realizada com base mensal. Os créditos são adicionados de forma pré-paga, através do PayPal e Mercado Pago e cada doação dura 30 dias.
 
 4.2 DisCloud pode alterar o seu plano para o gratuito caso não renove sua doação mensal.
-
-4.3 Você tem o direito de pedir reembolso em até 4 dias após a data de sua doação.
 
 ## 5. Conteúdo nos Serviços da DisCloud e Remoção
 
