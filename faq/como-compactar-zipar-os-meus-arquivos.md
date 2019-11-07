@@ -10,9 +10,9 @@ Selecione os arquivos necessários \(dito nos tutoriais\), aperte com botão dir
 
 ![Exemplo de um Bot em Python](../.gitbook/assets/capturar%20%281%29.PNG)
 
-{% page-ref page="../suporte/linguagens/javascript/" %}
+{% page-ref page="../suporte/linguagens-1/javascript/" %}
 
-{% page-ref page="../suporte/linguagens/python/" %}
+{% page-ref page="../suporte/linguagens-1/python/" %}
 
 ## Linux
 
