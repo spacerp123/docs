@@ -17,10 +17,11 @@
   * [🐍Python](suporte/linguagens/python/README.md)
     * [Criando seu requirements.txt](suporte/linguagens/python/exemplo-do-requirements.txt.md)
   * [☕Java](suporte/linguagens/java.md)
-* [Integrações](suporte/conexoes/README.md)
-  * [GitHub e GitLab](suporte/conexoes/github-e-gitlab.md)
-  * [Banco de Dados](suporte/conexoes/banco-de-dados/README.md)
-    * [MongoDB Atlas \(mLab\)](suporte/conexoes/banco-de-dados/mlab-mongodb-atlas.md)
+* [Integrações](suporte/integracao/README.md)
+  * [GitHub e GitLab](suporte/integracao/github-e-gitlab/README.md)
+    * [Como usar o Github](suporte/integracao/github-e-gitlab/como-usar-o-github.md)
+  * [Banco de Dados](suporte/integracao/banco-de-dados/README.md)
+    * [MongoDB Atlas \(mLab\)](suporte/integracao/banco-de-dados/mlab-mongodb-atlas.md)
 
 ## FAQ
 
