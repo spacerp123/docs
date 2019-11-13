@@ -12,31 +12,31 @@ Créditos ao [Vinicio Henrique](https://steempeak.com/@viniciotricolor) pelo tut
 
 Abra o seu projeto clicando no nome do seu projeto, abaixo de **Current projects**.
 
-![](../../../.gitbook/assets/image%20%2841%29.png)
+![](../../../.gitbook/assets/image%20%2843%29.png)
 
 
 
 Clique em **EXPORTS** e faça a exportação dos arquivos do seu projeto em **Windows setup** ou **Ubuntu setup**.
 
-![](../../../.gitbook/assets/image%20%2824%29.png)
+![](../../../.gitbook/assets/image%20%2826%29.png)
 
 
 
 Após isso, será salvo os arquivos do seu bot em `.zip`.
 
-![](../../../.gitbook/assets/image%20%2839%29.png)
+![](../../../.gitbook/assets/image%20%2841%29.png)
 
 
 
 Apague todos os arquivos, menos `install.bat`, `start.bat`, `bot.js`, `configs.json` e `package.json`. Feito isso, clique em `install.bat` \(apenas se você tiver instalado o [NodeJS](https://nodejs.org/dist/v10.16.3/node-v10.16.3-x86.msi)\)
 
-![](../../../.gitbook/assets/image%20%2828%29.png)
+![](../../../.gitbook/assets/image%20%2830%29.png)
 
 
 
 Seus arquivos serão compilados e o cmd será fechado automaticamente.
 
-![](../../../.gitbook/assets/image%20%2816%29.png)
+![](../../../.gitbook/assets/image%20%2817%29.png)
 
   
 Após ter feito isso, serão criados mais arquivos, e então, você apenas selecionará: `bot.js`, `configs.json`, `package.json` e `package-lock.json` e adicione esses arquivos em uma pasta `.zip`.

@@ -18,6 +18,7 @@
     * [Criando seu requirements.txt](suporte/linguagens/python/exemplo-do-requirements.txt.md)
   * [☕Java](suporte/linguagens/java.md)
 * [Integrações](suporte/integracao/README.md)
+  * [Módulos Status](suporte/integracao/modulos-status.md)
   * [GitHub e GitLab](suporte/integracao/github-e-gitlab/README.md)
     * [Como usar o Github](suporte/integracao/github-e-gitlab/como-usar-o-github.md)
   * [Banco de Dados](suporte/integracao/banco-de-dados/README.md)

@@ -32,7 +32,7 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 
 **5.** Por fim, compacte os arquivos do seu bot em um `.zip`, e não a pasta do seu bot! Zipe juntos os seguintes arquivos: **actions**, **data**, **fonts**, **resources**, **bot.js** e **package.json**.
 
-![](../../../../.gitbook/assets/image%20%2840%29.png)
+![](../../../../.gitbook/assets/image%20%2842%29.png)
 
 > Caso não saiba compactar os arquivos, visite nossa FAQ:
 
