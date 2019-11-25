@@ -21,6 +21,10 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 1.3 Você concorda que suas compras de Serviços da DisCloud não estão condicionadas à entrega de qualquer funcionalidade ou futuros recursos, ou dependente de quaisquer comentários públicos orais ou escritos feitas pela DisCloud ou qualquer de suas afiliadas em relação a funcionalidade ou recursos futuros.
 
+1.4 Para usar os Serviços da DisCloud você precisa seguir, aceitar e concordar com nossas [Políticas de uso](https://docs.discloudbot.com/policy), caso contrario está impedido de usar o serviço.
+
+1.5 Esteja ciente que para conseguir utilizar nossos serviços você precisa ser um membro do nosso servidor [Discord ](https://discord.gg/CvxevT5)e possuir um de nossos cargos de verificação como por exemplo; **CloudAccess** ou **English.** A partir do momento que sair do servidor você perde o acesso ao serviço e seus Bots são desligados e removidos.
+
 ## 2. Sua Conta e Utilização dos Serviços da DisCloud
 
 2.1 Você deve fornecer informações precisas e completas sempre que se registrar para usar os Serviços da DisCloud, tais como seu ID Discord, email e IP. Você é responsável pela segurança de sua conta e pelo uso da sua conta. Se você tomar conhecimento de qualquer uso não autorizado de sua senha ou da sua conta, você concorda em notificar imediatamente a DisCloud.
