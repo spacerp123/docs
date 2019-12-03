@@ -36,6 +36,10 @@ description: >-
 {% tab title="Logotipo GIF" %}
 ![](../../.gitbook/assets/icongif%20%281%29.gif)
 {% endtab %}
+
+{% tab title="Logo GIF Natal" %}
+![](../../.gitbook/assets/natal.gif)
+{% endtab %}
 {% endtabs %}
 
 ## Fonte
