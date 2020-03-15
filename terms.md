@@ -49,7 +49,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 4.2 DisCloud pode alterar o seu plano para o gratuito caso não renove sua doação mensal.
 
-4.3 Você tem o direito de pedir reembolso em até 4 dias após a data de sua doação.
+4.3 Você tem o direito de pedir reembolso em até 2 dias após a data de sua doação.
 
 ## 5. Conteúdo nos Serviços da DisCloud e Remoção
 
