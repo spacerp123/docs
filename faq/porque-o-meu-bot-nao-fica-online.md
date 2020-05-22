@@ -7,8 +7,8 @@
 
 ## Se seu bot cair, há 3 motivos para isso:
 1. Falta de memória RAM. Pode exceder o limite de RAM ao ligar ao bot, ou ao usar um comando que exiga muito (especialmente os de música)
-2. Erro em alguma parte específica do código do seu bot(Use `.terminal`e reaja com ![:file:](https://cdn.discordapp.com/emojis/628284247827939359.png) para ver os últimos 2000 caracteres, e com ![:enviar:](https://cdn.discordapp.com/emojis/590334436130684930.png) para ver tudo pelo hastebin).
-3. Você ficou 7 dias sem usar algum comando que reinicie o timer de 7 dias para seu bot cair na DisCloud(`.reiniciar` `.resetweek` `.commit`).
+2. Erro em alguma parte específica do código do seu bot (Use `.terminal`e reaja com ![:file:](https://cdn.discordapp.com/emojis/628284247827939359.png) para ver os últimos 2000 caracteres, e com ![:enviar:](https://cdn.discordapp.com/emojis/590334436130684930.png) para ver tudo pelo hastebin).
+3. Você ficou 7 dias sem usar algum comando que reinicie o timer de 7 dias para seu bot cair na DisCloud (`.reiniciar` `.resetweek` `.commit`).
 
 {% hint style="warning" %}
 💻 **Obs:** Todos os comandos citados devem ser usados no chat **`#🔌┃cmd-discloud`** do nosso servidor.
