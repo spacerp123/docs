@@ -1,12 +1,24 @@
-# Como fazer Commit?
+---
+description: Como atualizar os arquivos do seu Bot hospedado na DisCloud
+---
 
-## 👨🔬 Preparando os arquivos
+# Como fazer um Commit ?
+
+### 👨🔬 Preparando os arquivos
 
 Selecione os arquivos que deseja atualizar em seu diretório, caso eles estejam dentro de alguma pasta, envie a pasta junto dos arquivos para que sejam alocados corretamente em seu diretório. Após preparar os arquivos, selecione-os e zipe \(o formato de sua pasta compactada deve ser **`.zip`**\).
 
 Caso não saiba como compactar seu arquivos, veja este [guia](https://docs.discloudbot.com/faq/como-compactar-zipar-os-meus-arquivos).
 
-## ![](../../.gitbook/assets/discloudlogo.png) Website
+## Commit com Deploy Automático
+
+Para atualizar os ficheiros do seu Bot você pode utilizar o método automático através da nossa integração com o **Github** ou **Gitlab.** 
+
+{% page-ref page="../../suporte/integracao/github-e-gitlab/" %}
+
+## Commit com Deploy Manual
+
+### ![](../../.gitbook/assets/discloudlogo.png) Website
 
 Primeiro você deve fazer **Login** no site da DisCloud, em seguida, clique na sua foto de perfil e selecione **Painel de Controle**. 
 
@@ -16,7 +28,7 @@ Depois selecione o bot que deseja atualizar, em seguida, envie o arquivo `.zip` 
 
 ![](https://i.imgur.com/A07VjIP.png)
 
-## ![](../../.gitbook/assets/discordlogo1.png) Discord
+### ![](../../.gitbook/assets/discordlogo1.png) Discord
 
 Vá ao canal `🔌┃cmd-discloud` e digite `.commit` \(caso você tenha mais de um bot é necessário informar o ID\).
 
