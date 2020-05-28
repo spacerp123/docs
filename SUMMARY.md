@@ -29,8 +29,9 @@
 * [Como pegar o ID do meu Bot?](faq/como-pegar-o-id-do-meu-bot.md)
 * [Como compactar \(zipar\) os meus arquivos?](faq/como-compactar-zipar-os-meus-arquivos.md)
 * [Qual o arquivo principal?](faq/qual-o-arquivo-principal.md)
-* [Como fazer Commit?](faq/como-fazer-commit.md)
-* [Premium](premium.md)
+* [Funcionalidades](faq/funcionalidades/README.md)
+  * [Como fazer Commit?](faq/funcionalidades/como-fazer-commit.md)
+* [Premium](faq/premium.md)
 
 ## Sobre
 
