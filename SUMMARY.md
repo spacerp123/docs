@@ -29,7 +29,7 @@
 * [Como pegar o ID do meu Bot?](faq/como-pegar-o-id-do-meu-bot.md)
 * [Como compactar \(zipar\) os meus arquivos?](faq/como-compactar-zipar-os-meus-arquivos.md)
 * [Qual o arquivo principal?](faq/qual-o-arquivo-principal.md)
-* [Funcionalidades](faq/funcionalidades/README.md)
+* [Perguntas Frequentes](faq/funcionalidades/README.md)
   * [Como fazer um Commit ?](faq/funcionalidades/como-fazer-commit.md)
 * [Nosso Planos](faq/premium.md)
 
