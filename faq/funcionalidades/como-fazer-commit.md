@@ -4,7 +4,7 @@ description: Como atualizar os arquivos do seu Bot hospedado na DisCloud
 
 # Como fazer um Commit ?
 
-### 👨🔬 Preparando os arquivos
+## 👨🔬 Preparando os arquivos
 
 Selecione os arquivos que deseja atualizar em seu diretório, caso eles estejam dentro de alguma pasta, envie a pasta junto dos arquivos para que sejam alocados corretamente em seu diretório. Após preparar os arquivos, selecione-os e zipe \(o formato de sua pasta compactada deve ser **`.zip`**\).
 
