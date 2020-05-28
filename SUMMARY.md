@@ -31,7 +31,7 @@
 * [Qual o arquivo principal?](faq/qual-o-arquivo-principal.md)
 * [Funcionalidades](faq/funcionalidades/README.md)
   * [Como fazer um Commit ?](faq/funcionalidades/como-fazer-commit.md)
-* [Premium](faq/premium.md)
+* [Nosso Planos](faq/premium.md)
 
 ## Sobre
 

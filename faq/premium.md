@@ -5,7 +5,7 @@ description: >-
   operacionais.
 ---
 
-# Premium
+# Nosso Planos
 
 ## 💎 Planos
 
