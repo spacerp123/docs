@@ -23,14 +23,14 @@
     * [Como usar o Github](suporte/integracao/github-e-gitlab/como-usar-o-github.md)
   * [Banco de Dados](suporte/integracao/banco-de-dados/README.md)
     * [MongoDB Atlas \(mLab\)](suporte/integracao/banco-de-dados/mlab-mongodb-atlas.md)
+* [Perguntas Frequentes](suporte/funcionalidades/README.md)
+  * [Como fazer um Commit ?](suporte/funcionalidades/como-fazer-commit.md)
 
 ## FAQ
 
 * [Como pegar o ID do meu Bot?](faq/como-pegar-o-id-do-meu-bot.md)
 * [Como compactar \(zipar\) os meus arquivos?](faq/como-compactar-zipar-os-meus-arquivos.md)
 * [Qual o arquivo principal?](faq/qual-o-arquivo-principal.md)
-* [Perguntas Frequentes](faq/funcionalidades/README.md)
-  * [Como fazer um Commit ?](faq/funcionalidades/como-fazer-commit.md)
 * [Nosso Planos](faq/premium.md)
 
 ## Sobre
