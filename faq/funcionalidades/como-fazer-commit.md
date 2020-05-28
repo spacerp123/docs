@@ -12,7 +12,7 @@ Caso não saiba como compactar seu arquivos, veja este [guia](https://docs.discl
 
 ## Commit com Deploy Automático
 
-Através da nossa integração com o **Github** e **Gitlab** você tem a facilidade e rapidez de atualizar suas instancias DisCloud junto com seu repositório Git. 
+Através da nossa integração com o **Github** e **Gitlab** você tem a facilidade e rapidez de atualizar suas instancias DisCloud sincronizadas com seu repositório Git. 
 
 {% page-ref page="../../suporte/integracao/github-e-gitlab/" %}
 
