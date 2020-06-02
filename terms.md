@@ -63,7 +63,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 5.5 Você concorda que DisCloud não tem qualquer responsabilidade ou obrigação pela exclusão ou falha no armazenamento de qualquer Conteúdo e outras comunicações mantidas ou transmitidas através da utilização do Serviço. Você também reconhece que é o único responsável pela segurança e backup de seus aplicativos e qualquer Conteúdo.
 
-5.6 DisCloud assume que possui backup dos dados armazenados em sua estrutura, que é acionado somente e exclusivamente em caso de falha crítica na estrutura física onde seus dados estão alocados.
+5.6 DisCloud assume que não possui backup dos dados armazenados em sua estrutura.
 
 ## 6. Direitos de Propriedade
 
