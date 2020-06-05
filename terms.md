@@ -107,7 +107,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 11.4 Você é o único responsável pela exportação de seu conteúdo e Aplicação \(s\) a partir dos Serviços da DisCloud antes do término de sua conta, por qualquer razão, desde que se encerrar sua conta, iremos fornecer-lhe uma oportunidade razoável para recuperar o seu conteúdo e aplicação \(ões\).
 
-11.5 Após o término dos Serviços da DisCloud ou de sua conta, estes Termos também terminarão, mas Seções 6.1, 11, 12, 13, 14 e 18 devem continuar sendo eficazes depois destes Termos terminados.
+11.5 Após o término dos Serviços da DisCloud ou de sua conta, estes Termos também terminarão, mas Seções 5, 6, 1, 11, 12, 13, 14 e 17 devem continuar sendo eficazes depois destes Termos terminados.
 
 **11.1 Nada nestes termos, inclusive as seções 12 e 13, deve excluir ou limitar responsabilidade ou garantia da discloud por perdas que não possam ser legalmente excluídas ou limitadas pela lei aplicável.**
 
