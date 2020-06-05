@@ -23,7 +23,7 @@ description: >-
 
 ## ![](../.gitbook/assets/paypal.png) PayPal
 
-Para realizar compras via PayPal, acesse o site da [**DisCloud**](https://discloudbot.com/) ****e selecione o plano que deseja. Em seguida, um pop up aparecerá para que você preencha suas informações e dê continuidade a compra.
+Para realizar uma doação via PayPal, acesse o site da [**DisCloud**](https://discloudbot.com/) ****e selecione o plano que deseja. Em seguida, um pop up aparecerá para que você preencha suas informações e dê continuidade a doação.
 
 {% hint style="info" %}
 \*\*\*\*🤩 **Obs:** O plano será ativado imediatamente após a conclusão do pagamento.
@@ -31,7 +31,7 @@ Para realizar compras via PayPal, acesse o site da [**DisCloud**](https://disclo
 
 ## ![](../.gitbook/assets/mercadopago.png) Mercado Pago
 
-Para efetuar compras via Mercado Pago, você deve enviar o valor do plano de sua escolha para o e-mail `pedroricardorn@gmail.com`. Em seguida, mande o comprovante para o DM \(Direct Message\) do BOT **`@Mailbox#3226`** \(ou de um membro da **`@DisCloud Staff`** caso o BOT esteja indisponível\).
+Para efetuar uma doação via Mercado Pago, você deve enviar o valor do plano de sua escolha para o e-mail `pedroricardorn@gmail.com`. Em seguida, mande o comprovante para o DM \(Direct Message\) do BOT **`@Mailbox#3226`** \(ou de um membro da **`@DisCloud Staff`** caso o BOT esteja indisponível\).
 
 Para mais informações sobre nossos planos, basta digitar `.planos` no canal de comandos do servidor ou acessar nosso [site](https://discloudbot.com/).
 
@@ -41,7 +41,7 @@ Para mais informações sobre nossos planos, basta digitar `.planos` no canal de
 
 ## ![](../.gitbook/assets/paysafe.png) PaySafe Card
 
-Para comprar via Paysafe, você deve gerar um código de 16 dígitos \(**XXXX-XXXX-XXXX-XXXX**\) com o valor do plano de sua escolha. Em seguida, envie o código para o DM \(Direct Message\) de **Bruno Marley`#0790`** validá-lo e prosseguir com a finalização da compra.
+Para doar via Paysafe, você deve gerar um código de 16 dígitos \(**XXXX-XXXX-XXXX-XXXX**\) com o valor do plano de sua escolha. Em seguida, envie o código para o DM \(Direct Message\) de **Bruno Marley`#0790`** validá-lo e prosseguir com a finalização da doação.
 
 Para mais informações sobre nossos planos, basta digitar `.planos` no canal de comandos do servidor ou acessar nosso [site](https://discloudbot.com/).
 
