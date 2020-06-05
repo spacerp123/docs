@@ -5,7 +5,7 @@ description: >-
   operacionais.
 ---
 
-# Nosso Planos
+# Doações
 
 ## 💎 Planos
 

@@ -31,7 +31,7 @@
 * [Como pegar o ID do meu Bot?](faq/como-pegar-o-id-do-meu-bot.md)
 * [Como compactar \(zipar\) os meus arquivos?](faq/como-compactar-zipar-os-meus-arquivos.md)
 * [Qual o arquivo principal?](faq/qual-o-arquivo-principal.md)
-* [Nosso Planos](faq/premium.md)
+* [Doações](faq/doacoes.md)
 
 ## Sobre
 
