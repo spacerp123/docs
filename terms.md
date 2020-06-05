@@ -33,7 +33,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 2.3 Você concorda em \(a\) não acessar \(ou tentar acessar\) a interface administrativa dos Serviços da DisCloud \(BOT ou WEB\), por qualquer meio que não seja através da interface que é fornecido pela DisCloud, a menos que tenha sido especificamente autorizado a fazê-lo em um acordo separado com a DisCloud, ou \(b\) se envolver em qualquer atividade que interfira ou interrompa o funcionamento dos Serviços da DisCloud \(ou os servidores e redes conectados ao Serviço\).
 
-2.4 A sua conta tem limites de uso, como citado em seu painel, de acordo com seu plano. Não permitimos que você exceda os limites de utilização. DisCloud reserva-se o direito de impor limites de seu exclusivo critério, que podem resultar na interrupção dos serviços ou até mesmo no bloqueio da sua conta.
+2.4 A sua conta tem limites de uso, como citado em seu painel, de acordo com a sua doação. Não permitimos que você exceda os limites de utilização. DisCloud reserva-se o direito de impor limites de seu exclusivo critério, que podem resultar na interrupção dos serviços ou até mesmo no bloqueio da sua conta.
 
 ## 3. Políticas de Serviços e Privacidade
 
@@ -45,9 +45,9 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 ## 4. As taxas de utilização dos Serviços da DisCloud
 
-4.1 Para todos os recursos e serviços adquiridos por doadores, a cobrança é realizada com base mensal. Os créditos são adicionados de forma pré-paga, através do PayPal e Mercado Pago e cada doação dura 30 dias.
+4.1 Não temos como obrigação entregar recursos em troca de doações, todas as doações aqui são solidarias e contribuem para que possamos oferece planos gratuitos para quem precisa. Porém como o objetivo da DisCloud é ajudar a todos oferecemos benéficos extras como cortesia para quem apoia o projeto. **Se você não concorda com isso pro favor não use o nosso serviço**.
 
-4.2 DisCloud pode alterar o seu plano para o gratuito caso não renove sua doação mensal.
+4.2 DisCloud pode remover seus benefícios extras  caso não renove sua doação a cada 30 dias.
 
 4.3 Você tem o direito de pedir reembolso em até 2 dias após a data de sua doação.
 
