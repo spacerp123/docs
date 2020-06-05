@@ -7,9 +7,9 @@ description: >-
 
 # Doações
 
-## 💎 Planos
+## 💎 Benefícios
 
-| Plano | Memória | CPU | Max. Bots | Preço \(R$\) | Moderadores | Git | Slot ilimitado | Timer |
+| Benéfico | Memória | CPU | Max. Bots | Preço \(R$\) | Moderadores | Git | Slot ilimitado | Timer |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![](../.gitbook/assets/free.png) Free | **100mb** | 0.25 | 1 | - | 0 | Não  | Não | Sim |
 | ![](../.gitbook/assets/booster.png) Booster | **100mb** | 0.25 | 1 | - | 0 | Não | Sim | Não |
@@ -23,29 +23,29 @@ description: >-
 
 ## ![](../.gitbook/assets/paypal.png) PayPal
 
-Para realizar uma doação via PayPal, acesse o site da [**DisCloud**](https://discloudbot.com/) ****e selecione o plano que deseja. Em seguida, um pop up aparecerá para que você preencha suas informações e dê continuidade a doação.
+Para realizar uma doação via PayPal, acesse o site da [**DisCloud**](https://discloudbot.com/) ****e selecione o benéfico que deseja. Em seguida, um pop up aparecerá para que você preencha suas informações e dê continuidade a doação.
 
 {% hint style="info" %}
-\*\*\*\*🤩 **Obs:** O plano será ativado imediatamente após a conclusão do pagamento.
+\*\*\*\*🤩 **Obs:** O benéfico será ativado imediatamente após a conclusão do pagamento.
 {% endhint %}
 
 ## ![](../.gitbook/assets/mercadopago.png) Mercado Pago
 
-Para efetuar uma doação via Mercado Pago, você deve enviar o valor do plano de sua escolha para o e-mail `pedroricardorn@gmail.com`. Em seguida, mande o comprovante para o DM \(Direct Message\) do BOT **`@Mailbox#3226`** \(ou de um membro da **`@DisCloud Staff`** caso o BOT esteja indisponível\).
+Para efetuar uma doação via Mercado Pago, você deve enviar o valor do benéfico de sua escolha para o e-mail `pedroricardorn@gmail.com`. Em seguida, mande o comprovante para o DM \(Direct Message\) do BOT **`@Mailbox#3226`** \(ou de um membro da **`@DisCloud Staff`** caso o BOT esteja indisponível\).
 
-Para mais informações sobre nossos planos, basta digitar `.planos` no canal de comandos do servidor ou acessar nosso [site](https://discloudbot.com/).
+Para mais informações sobre nossos benéficos, basta digitar `.planos` no canal de comandos do servidor ou acessar nosso [site](https://discloudbot.com/).
 
 {% hint style="warning" %}
-👨💻 **Nota:** O plano será ativado manualmente por algum Staff.
+👨💻 **Nota:** O benéfico será ativado manualmente por algum Staff.
 {% endhint %}
 
 ## ![](../.gitbook/assets/paysafe.png) PaySafe Card
 
-Para doar via Paysafe, você deve gerar um código de 16 dígitos \(**XXXX-XXXX-XXXX-XXXX**\) com o valor do plano de sua escolha. Em seguida, envie o código para o DM \(Direct Message\) de **Bruno Marley`#0790`** validá-lo e prosseguir com a finalização da doação.
+Para doar via Paysafe, você deve gerar um código de 16 dígitos \(**XXXX-XXXX-XXXX-XXXX**\) com o valor do benéfico de sua escolha. Em seguida, envie o código para o DM \(Direct Message\) de **Bruno Marley`#0790`** validá-lo e prosseguir com a finalização da doação.
 
-Para mais informações sobre nossos planos, basta digitar `.planos` no canal de comandos do servidor ou acessar nosso [site](https://discloudbot.com/).
+Para mais informações sobre nossos benéficos, basta digitar `.planos` no canal de comandos do servidor ou acessar nosso [site](https://discloudbot.com/).
 
 {% hint style="warning" %}
-\*\*\*\*😁 **Nota:** O plano será ativado manualmente pelo Staff citado anteriormente.
+\*\*\*\*😁 **Nota:** O benéfico será ativado manualmente pelo Staff citado anteriormente.
 {% endhint %}
 
