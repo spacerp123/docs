@@ -79,7 +79,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 17 - Exibir qualquer conteúdo no Serviço que contenha qualquer conteúdo relacionado com ódio ou violência ou contém quaisquer outros materiais, produtos ou serviços que violem ou encorajem conduta que viole as leis penais, quaisquer outras leis aplicáveis, ou quaisquer direitos de terceiros;
 
-18 - É completamente proibido burlar o plano free criando 2 contas no Discord para assim ter 2 bots hospedados em nossa plataforma, caso pego todos os bots serão deletados e sua conta adicionada a Blacklist.
+18 - É completamente proibido burlar o benéfico free criando 2 contas no Discord para assim ter 2 bots hospedados em nossa plataforma, caso pego todos os bots serão deletados e sua conta adicionada a Blacklist.
 
 19 -   É proibido automatizar contas de usuário normais da Discord \(geralmente chamadas de "self-bots"\).
 
