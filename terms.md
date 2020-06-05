@@ -19,7 +19,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 1.2 Você não poderá usar os Serviços da DisCloud se você for uma pessoa impedida de receber os Serviços da DisCloud sob as leis de qualquer país, incluindo o país onde o usuário é residente ou a partir do qual usa os Serviços da DisCloud.
 
-1.3 Você concorda que suas compras de Serviços da DisCloud não estão condicionadas à entrega de qualquer funcionalidade ou futuros recursos, ou dependente de quaisquer comentários públicos orais ou escritos feitas pela DisCloud ou qualquer de suas afiliadas em relação a funcionalidade ou recursos futuros.
+1.3 Você concorda que sua doação para a DisCloud não estão condicionadas à entrega de qualquer funcionalidade ou futuros recursos, ou dependente de quaisquer comentários públicos orais ou escritos feitas pela DisCloud ou qualquer de suas afiliadas em relação a funcionalidade ou recursos futuros.
 
 1.4 Para usar os Serviços da DisCloud você precisa seguir, aceitar e concordar com nossas [Políticas de uso](https://docs.discloudbot.com/policy), caso contrario está impedido de usar o serviço.
 
