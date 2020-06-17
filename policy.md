@@ -83,6 +83,8 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 19 -   É proibido automatizar contas de usuário normais da Discord \(geralmente chamadas de "self-bots"\).
 
+20 -   É Proibido a hospedagem de BOTs que fazem compartilhamento de arquivos ou links mal intencionados, Mass DM, e qualquer ação proibida pelos termos de serviço do Discord.
+
 
 
 `Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Google, Inc. não possui vínculo e não patrocina ou endossa a DisCloud ou o seu uso da obra.`

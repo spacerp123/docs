@@ -49,3 +49,4 @@ Você pode aprender a hospedar seu Bot na versão website ou Discord
 {% page-ref page="../../../como-hospedar/website.md" %}
 
 {% page-ref page="../../../como-hospedar/discord.md" %}
+

@@ -2,7 +2,7 @@
 description: Aprenda a hospedar seu bot em Python na DisCloud
 ---
 
-# 🐍 Python
+# 🐍Python
 
 ## 📥 Arquivos principais
 
@@ -34,8 +34,6 @@ Ex.: **`import PIL`** mas você instala usando **`pip install pillow`**, logo de
 {% page-ref page="../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
 ![Exemplo no Windows](../../../.gitbook/assets/image%20%2813%29.png)
-
-
 
 ## ✍ Hospedando o seu Bot
 
