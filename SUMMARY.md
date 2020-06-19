@@ -24,6 +24,7 @@
   * [Banco de Dados](suporte/integracao/banco-de-dados/README.md)
     * [MongoDB Atlas \(mLab\)](suporte/integracao/banco-de-dados/mlab-mongodb-atlas.md)
 * [Perguntas Frequentes](suporte/perguntas-frequentes/README.md)
+  * [Comandos](suporte/perguntas-frequentes/comandos.md)
   * [Como fazer um Commit ?](suporte/perguntas-frequentes/como-fazer-commit.md)
 
 ## FAQ
