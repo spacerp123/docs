@@ -26,7 +26,7 @@ Primeiro você deve fazer **Login** no site da DisCloud, em seguida, clique na s
 
 Depois selecione o bot que deseja atualizar, em seguida, envie o arquivo `.zip` com os arquivos que serão atualizados. Por fim, clique em **Commitar Alterações**.
 
-![](https://i.imgur.com/A07VjIP.png)
+![](https://i.imgur.com/i4XPfGD.png)
 
 ### ![](../../.gitbook/assets/discordlogo1.png) Discord
 
