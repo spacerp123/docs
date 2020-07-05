@@ -2,7 +2,7 @@
 description: Como atualizar os arquivos do seu Bot hospedado na DisCloud
 ---
 
-# Como fazer um Commit ?
+# Como fazer um Commit?
 
 ## 👨🔬 Preparando os arquivos
 
