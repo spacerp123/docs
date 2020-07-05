@@ -11,7 +11,7 @@
   * [Discord](suporte/como-hospedar/discord.md)
 * [Linguagens](suporte/linguagens/README.md)
   * [📦JavaScript](suporte/linguagens/javascript/README.md)
-    * [Discord Bot Maker](suporte/linguagens/javascript/discord-bot-maker.md)
+    * [Discord Bot Maker](suporte/linguagens/javascript/dbm.md)
     * [Discord Bot Controls](suporte/linguagens/javascript/dbc.md)
   * [🐍Python](suporte/linguagens/python/README.md)
     * [Criando seu requirements.txt](suporte/linguagens/python/exemplo-do-requirements.txt.md)
