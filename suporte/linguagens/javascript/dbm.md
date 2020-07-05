@@ -30,7 +30,7 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 Na atualização **1.5.9 do DBM** existe também agora a pasta **extensions** e **events**, compacte elas se você usa alguma extension ou event da pasta no seu bot!
 {% endhint %}
 
-![](../../../../.gitbook/assets/image%20%2842%29.png)
+![](../../../.gitbook/assets/image%20%2842%29.png)
 
 > Caso não saiba compactar os arquivos, visite nossa FAQ:
 
@@ -40,6 +40,6 @@ Na atualização **1.5.9 do DBM** existe também agora a pasta **extensions** e 
 
 Você pode aprender a hospedar seu bot na versão website ou Discord
 
-{% page-ref page="../../../como-hospedar/website.md" %}
+{% page-ref page="../../como-hospedar/website.md" %}
 
-{% page-ref page="../../../como-hospedar/discord.md" %}
+{% page-ref page="../../como-hospedar/discord.md" %}
