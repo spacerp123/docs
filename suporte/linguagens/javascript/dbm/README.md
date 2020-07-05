@@ -8,10 +8,6 @@ description: Aprenda a hospedar seu bot do Discord Bot Maker na DisCloud
 Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutorial apresentado
 {% endhint %}
 
-{% hint style="danger" %}
-**Tutorial apenas para a versão beta do DBM!**
-{% endhint %}
-
 {% page-ref page="como-entrar-na-beta-do-dbm.md" %}
 
 ## 📥 Preparando os arquivos
@@ -33,7 +29,7 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 **5.** Por fim, compacte os arquivos do seu bot em um `.zip`, e não a pasta do seu bot! Zipe juntos os seguintes arquivos: **actions**, **data**, **fonts**, **resources**, **bot.js** e **package.json**.
 
 {% hint style="danger" %}
-Na última atualização **1.5.9 do DBM** agora existe também a pasta extensions e events, compacte elas se você usa alguma extension ou event da pasta no seu bot!
+Na atualização **1.5.9 do DBM** existe também agora a pasta **extensions** e **events**, compacte elas se você usa alguma extension ou event da pasta no seu bot!
 {% endhint %}
 
 ![](../../../../.gitbook/assets/image%20%2842%29.png)
@@ -42,7 +38,7 @@ Na última atualização **1.5.9 do DBM** agora existe também a pasta extension
 
 {% page-ref page="../../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
-## ✍ Hospedando o seu Bot na DisCloud
+## ✍ Hospedando seu Bot na DisCloud
 
 Você pode aprender a hospedar seu Bot na versão website ou Discord
 
