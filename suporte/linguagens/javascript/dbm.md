@@ -16,11 +16,11 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 
 **3.** Clique com o botão direito do mouse sobre **Discord Bot Maker** na sua Steam, e clique em **Propriedades**.
 
-![Clique em Propriedades](../../../../.gitbook/assets/1.JPG)
+![Clique em Propriedades](../../../.gitbook/assets/1.JPG)
 
 **4.** Dentro de **Propriedades**, clique em **ARQUIVOS LOCAIS**, e por último, em **NAVEGAR PELOS ARQUIVOS LOCAIS**, e então você deve está na pasta aonde está instalado o Discord Bot Maker.
 
-![Clique em ARQUIVOS LOCAIS, por &#xFA;ltimo, NAVEGAR PELOS ARQUIVOS LOCAIS](../../../../.gitbook/assets/2.JPG)
+![Clique em ARQUIVOS LOCAIS, por &#xFA;ltimo, NAVEGAR PELOS ARQUIVOS LOCAIS](../../../.gitbook/assets/2.JPG)
 
 **4.** Com a pasta do seu bot aberta, e a do Discord Bot Maker também, copie a pasta **actions** do diretório do seu DBM e cole-á na pasta do seu bot.
 
@@ -39,4 +39,5 @@ Na atualização **1.5.9 do DBM** existe também agora a pasta **extensions** e 
 Você pode aprender a hospedar seu bot na versão website ou Discord
 
 {% page-ref page="../../como-hospedar/website.md" %}
+
 {% page-ref page="../../como-hospedar/discord.md" %}
