@@ -1,11 +1,11 @@
 ---
-description: Aprenda a hospedar seu bot do Discord Bot Maker na DisCloud
+description: Aprenda a hospedar seu bot do Discord Bot Maker na DisCloud.
 ---
 
 # Discord Bot Maker
 
 {% hint style="info" %}
-Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutorial apresentado
+Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutorial apresentado.
 {% endhint %}
 
 ## 📥 Preparando os arquivos
@@ -41,9 +41,9 @@ Na atualização **1.5.9 do DBM** existe também agora a pasta **extensions** e 
 
 {% page-ref page="../../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
-## ✍ Hospedando seu Bot na DisCloud
+## ✍ Hospedando seu bot na DisCloud
 
-Você pode aprender a hospedar seu bot na versão website ou Discord
+Você pode aprender a hospedar seu bot na versão website ou Discord.
 
 {% page-ref page="../../como-hospedar/website.md" %}
 
