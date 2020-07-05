@@ -2,7 +2,7 @@
 description: Aprenda a hospedar seu bot em JavaScript na DisCloud
 ---
 
-# 📦 JavaScript
+# 📦JavaScript
 
 {% hint style="info" %}
 Créditos ao [MagnataEffects](https://absolutproject.com) pelo tutorial apresentado

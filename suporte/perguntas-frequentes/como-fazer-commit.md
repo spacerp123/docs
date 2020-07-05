@@ -2,7 +2,7 @@
 description: Como atualizar os arquivos do seu Bot hospedado na DisCloud
 ---
 
-# Como fazer um Commit?
+# Como fazer um Commit ?
 
 ## 👨🔬 Preparando os arquivos
 
@@ -12,7 +12,7 @@ Caso não saiba como compactar seu arquivos, veja este [guia](https://docs.discl
 
 ## Commit com Deploy Automático
 
-Através da nossa integração com o **Github** e **Gitlab** você tem a facilidade e rapidez de atualizar suas instancias DisCloud sincronizadas com seu repositório Git. 
+Através da nossa integração com o **Github** e **Gitlab** você tem a facilidade e rapidez de atualizar suas instancias DisCloud sincronizadas com seu repositório Git.
 
 {% page-ref page="../integracao/github-e-gitlab/" %}
 
@@ -20,7 +20,7 @@ Através da nossa integração com o **Github** e **Gitlab** você tem a facilid
 
 ### ![](../../.gitbook/assets/discloudlogo.png) Website
 
-Primeiro você deve fazer **Login** no site da DisCloud, em seguida, clique na sua foto de perfil e selecione **Painel de Controle**. 
+Primeiro você deve fazer **Login** no site da DisCloud, em seguida, clique na sua foto de perfil e selecione **Painel de Controle**.
 
 ![](../../.gitbook/assets/bx3ukaf-imgur.gif)
 
@@ -34,7 +34,7 @@ Vá ao canal `🔌┃cmd-discloud` e digite `.commit` \(caso você tenha mais de
 
 ![](../../.gitbook/assets/foc5si4-imgur.gif)
 
-Feito isso, aparecerá um canal de texto com o seu Nickname e Tag \(exemplo: `#SeuNick-1234`\). 
+Feito isso, aparecerá um canal de texto com o seu Nickname e Tag \(exemplo: `#SeuNick-1234`\).
 
 ![](https://i.imgur.com/W8f4Iu4.png)
 

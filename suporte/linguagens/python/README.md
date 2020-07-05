@@ -2,7 +2,7 @@
 description: Aprenda a hospedar seu bot em Python na DisCloud
 ---
 
-# 🐍 Python
+# 🐍Python
 
 ## 📥 Arquivos principais
 
