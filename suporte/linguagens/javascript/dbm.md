@@ -24,7 +24,14 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 
 **4.** Com a pasta do seu bot aberta, e a do Discord Bot Maker também, copie a pasta **actions** do diretório do seu DBM e cole-á na pasta do seu bot.
 
-**5.** Por fim, compacte os arquivos do seu bot em um `.zip`, e não a pasta do seu bot! Zipe juntos os seguintes arquivos: **actions**, **data**, **fonts**, **resources**, **bot.js** e **package.json**.
+**5.** Por fim, compacte os arquivos do seu bot em um `.zip`, e não a pasta do seu bot! Zipe juntos os seguintes arquivos:
+```
+- actions
+- fonts
+- resources
+- bot.js
+- package.json
+```
 
 {% hint style="danger" %}
 Na atualização **1.5.9 do DBM** existe também agora a pasta **extensions** e **events**, compacte elas se você usa alguma extension ou event da pasta no seu bot!
