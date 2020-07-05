@@ -38,7 +38,7 @@ Na atualização **1.5.9 do DBM** existe também agora a pasta **extensions** e 
 
 ## ✍ Hospedando seu Bot na DisCloud
 
-Você pode aprender a hospedar seu Bot na versão website ou Discord
+Você pode aprender a hospedar seu bot na versão website ou Discord
 
 {% page-ref page="../../../como-hospedar/website.md" %}
 
