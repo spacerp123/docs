@@ -39,13 +39,3 @@ Para mais informações sobre nossos benéficos, basta digitar `.planos` no cana
 👨💻 **Nota:** O benéfico será ativado manualmente por algum Staff.
 {% endhint %}
 
-## ![](.gitbook/assets/paysafe.png) PaySafe Card
-
-Para doar via Paysafe, você deve gerar um código de 16 dígitos \(**XXXX-XXXX-XXXX-XXXX**\) com o valor do benéfico de sua escolha. Em seguida, envie o código para o DM \(Direct Message\) de **Bruno Marley`#0790`** validá-lo e prosseguir com a finalização da doação.
-
-Para mais informações sobre nossos benéficos, basta digitar `.planos` no canal de comandos do servidor ou acessar nosso [site](https://discloudbot.com/).
-
-{% hint style="warning" %}
-\*\*\*\*😁 **Nota:** O benéfico será ativado manualmente pelo Staff citado anteriormente.
-{% endhint %}
-
