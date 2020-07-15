@@ -25,7 +25,8 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 **4.** Com a pasta do seu bot aberta, e a do Discord Bot Maker também, copie a pasta **actions** do diretório do seu DBM e cole-á na pasta do seu bot.
 
 **5.** Por fim, compacte os arquivos do seu bot em um `.zip`, e não a pasta do seu bot! Zipe juntos os seguintes arquivos:
-```
+
+```text
 - actions
 - fonts
 - resources
@@ -39,7 +40,7 @@ Na atualização **1.5.9 do DBM** existe também agora a pasta **extensions** e 
 
 > Caso não saiba compactar os arquivos, visite nossa FAQ:
 
-{% page-ref page="../../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
+{% page-ref page="../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
 ## ✍ Hospedando seu bot na DisCloud
 
@@ -48,3 +49,4 @@ Você pode aprender a hospedar seu bot na versão website ou Discord.
 {% page-ref page="../../como-hospedar/website.md" %}
 
 {% page-ref page="../../como-hospedar/discord.md" %}
+
