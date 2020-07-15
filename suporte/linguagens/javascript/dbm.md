@@ -40,7 +40,7 @@ Na atualização **1.5.9 do DBM** existe também agora a pasta **extensions** e 
 
 > Caso não saiba compactar os arquivos, visite nossa FAQ:
 
-{% page-ref page="../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
+{% page-ref page="../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 
 ## ✍ Hospedando seu bot na DisCloud
 

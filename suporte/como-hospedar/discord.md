@@ -38,9 +38,9 @@ Dentro desse chat aparecerá as instruções que deverão ser preenchidas corret
 Se você tiver alguma dúvida em questão a como preencher corretamente informações obrigatórias do seu Bot na DisCloud, visite a categoria FAQ em nossa documentação!
 {% endhint %}
 
-{% page-ref page="../../faq/como-pegar-o-id-do-meu-bot.md" %}
+{% page-ref page="../faq/como-pegar-o-id-do-meu-bot.md" %}
 
-{% page-ref page="../../faq/qual-o-arquivo-principal.md" %}
+{% page-ref page="../faq/qual-o-arquivo-principal.md" %}
 
-{% page-ref page="../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
+{% page-ref page="../faq/como-compactar-zipar-os-meus-arquivos.md" %}
 

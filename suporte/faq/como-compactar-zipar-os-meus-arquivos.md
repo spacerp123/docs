@@ -4,15 +4,15 @@
 
 Selecione os arquivos necessários \(dito nos tutoriais\), aperte com botão direito sobre eles, arraste o mouse para **Enviar para** e clique em **Pasta compactada**.
 
-![](../.gitbook/assets/exemplo.gif)
+![](../../.gitbook/assets/exemplo.gif)
 
-{% page-ref page="../suporte/linguagens/javascript/" %}
+{% page-ref page="../linguagens/javascript/" %}
 
-{% page-ref page="../suporte/linguagens/python/" %}
+{% page-ref page="../linguagens/python/" %}
 
 ## Linux
 
 Selecione os arquivos necessários \(dito nos tutoriais\), aperte com botão direito sobre eles, clique em Comprimir e selecione `.zip`.
 
-![](../.gitbook/assets/3.JPG)
+![](../../.gitbook/assets/3.JPG)
 
