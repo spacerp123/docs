@@ -24,7 +24,7 @@
     * [Como usar o Github](suporte/integracao/github-e-gitlab/como-usar-o-github.md)
   * [Banco de Dados](suporte/integracao/banco-de-dados/README.md)
     * [MongoDB Atlas \(mLab\)](suporte/integracao/banco-de-dados/mlab-mongodb-atlas.md)
-* [Perguntas Frequentes](suporte/faq/README.md)
+* [Perguntas Frequentes \(FAQ\)](suporte/faq/README.md)
   * [Comandos](suporte/faq/comandos.md)
   * [Como compactar \(zipar\) os meus arquivos?](suporte/faq/como-compactar-zipar-os-meus-arquivos.md)
   * [Como fazer um Commit ?](suporte/faq/como-fazer-commit.md)
