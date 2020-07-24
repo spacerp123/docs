@@ -27,7 +27,7 @@
 * [Perguntas Frequentes \(FAQ\)](suporte/faq/README.md)
   * [Comandos](suporte/faq/comandos.md)
   * [Como compactar \(zipar\) os meus arquivos?](suporte/faq/como-compactar-zipar-os-meus-arquivos.md)
-  * [Como fazer um Commit ?](suporte/faq/como-fazer-commit.md)
+  * [Como fazer um Commit?](suporte/faq/como-fazer-commit.md)
   * [Como pegar o ID do meu Bot?](suporte/faq/como-pegar-o-id-do-meu-bot.md)
   * [Qual o arquivo principal?](suporte/faq/qual-o-arquivo-principal.md)
 
