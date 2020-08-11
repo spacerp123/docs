@@ -28,6 +28,7 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 
 ```text
 - actions
+- data
 - fonts
 - resources
 - bot.js
