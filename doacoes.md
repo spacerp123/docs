@@ -26,7 +26,7 @@ description: >-
 Para realizar uma doação via PayPal, acesse o site da [**DisCloud**](https://discloudbot.com/) _\*\*_e selecione o benéfico que deseja. Em seguida, um pop up aparecerá para que você preencha suas informações e dê continuidade a doação.
 
 {% hint style="info" %}
-\*\*\*\*🤩 **Obs:** O benéfico será ativado imediatamente após a conclusão do pagamento.
+🤩 **Obs:** O benefício será ativado imediatamente após a conclusão do pagamento.
 {% endhint %}
 
 ## ![](.gitbook/assets/mercadopago.png) Mercado Pago
@@ -36,6 +36,6 @@ Para efetuar uma doação via Mercado Pago, você deve enviar o valor do benéfi
 Para mais informações sobre nossos benéficos, basta digitar `.planos` no canal de comandos do servidor ou acessar nosso [site](https://discloudbot.com/).
 
 {% hint style="warning" %}
-👨💻 **Nota:** O benéfico será ativado manualmente por algum Staff.
+👨💻 **Nota:** O benefício será ativado manualmente por algum Staff.
 {% endhint %}
 
