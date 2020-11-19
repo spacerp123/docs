@@ -27,11 +27,22 @@ description: Lista de comandos da DisCloud.
   - **Aliases:** **`.b`**
   
 - ****
- 
 
-.bots       :: Lista todos os bots de um cliente.
+## Informação de Cliente
+
+- **Ver a informação de um cliente.**
+  - **Uso:** **`.userinfo <ID-do-Cliente>`**
+  - **Aliases:** **`.uinfo`**, **`.ui`**
+  
+- **Lista todos os bots de um cliente.**
+  - **Uso:** **`.bots <ID-do-Cliente>`**
+  - **Aliases:** **`.bot`**
+
+## Utilitários
+
+- **Uso:**
+
 .cleardm    :: Limpar todas as mensagens enviadas pelo bot nas suas mensagens diretas.
-
 .dir        :: Ver a estrutura do diretório do seu bot.
 .gift       :: gift.desc
 .git        :: Sincronizar um repositório git ao seu bot para atualizações automáticas.
@@ -48,5 +59,3 @@ description: Lista de comandos da DisCloud.
 .resetweek  :: Resetar o tempo em que o seu bot vai desligar.
 .status     :: Ver o status de um bot.
 .terminal   :: Mostra o terminal do seu bot.
-
-.userinfo   :: Ver a informação de um cliente.
