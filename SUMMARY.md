@@ -1,44 +1,50 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Termos de Serviço](terms.md)
-* [Política de Uso](policy.md)
+* [Service Terms](service-terms.md)
+* [Usage Policy](usage-policy.md)
 
-## Suporte
+## Support
 
-* [Como Hospedar](suporte/como-hospedar/README.md)
-  * [Website](suporte/como-hospedar/website.md)
-  * [Discord](suporte/como-hospedar/discord.md)
-* [Linguagens](suporte/linguagens/README.md)
-  * [📦JavaScript](suporte/linguagens/javascript/README.md)
-    * [Discord Bot Maker](suporte/linguagens/javascript/dbm.md)
-    * [Discord Bot Controls](suporte/linguagens/javascript/dbc.md)
-  * [🐍Python](suporte/linguagens/python/README.md)
-    * [Criando seu requirements.txt](suporte/linguagens/python/exemplo-do-requirements.txt.md)
-  * [☕Java](suporte/linguagens/java.md)
-* [Integrações](suporte/integracao/README.md)
-  * [Lavalink](suporte/integracao/lavalink/README.md)
-    * [NodeJS](suporte/integracao/lavalink/nodejs.md)
-  * [Módulos Status](suporte/integracao/modulos-status.md)
-  * [GitHub e GitLab](suporte/integracao/github-e-gitlab/README.md)
-    * [Como usar o Github](suporte/integracao/github-e-gitlab/como-usar-o-github.md)
-  * [Banco de Dados](suporte/integracao/banco-de-dados/README.md)
-    * [MongoDB Atlas \(mLab\)](suporte/integracao/banco-de-dados/mlab-mongodb-atlas.md)
-* [Perguntas Frequentes \(FAQ\)](suporte/faq/README.md)
-  * [Comandos](suporte/faq/comandos.md)
-  * [Como compactar \(zipar\) os meus arquivos?](suporte/faq/como-compactar-zipar-os-meus-arquivos.md)
-  * [Como fazer um Commit?](suporte/faq/como-fazer-commit.md)
-  * [Como pegar o ID do meu Bot?](suporte/faq/como-pegar-o-id-do-meu-bot.md)
-  * [Qual o arquivo principal?](suporte/faq/qual-o-arquivo-principal.md)
+* [How to Host](support/how-to-host/README.md)
+  * [Website](support/how-to-host/website.md)
+  * [Discord](support/how-to-host/discord.md)
+* [Languages](support/languages/README.md)
+  * [📦JavaScript](support/languages/javascript/README.md)
+    * [Discord Bot Maker](support/languages/javascript/discord-bot-maker.md)
+    * [Discord Bot Controls](support/languages/javascript/discord-bot-controls.md)
+  * [🐍Python](support/languages/python/README.md)
+    * [Creating your requirements.txt](support/languages/python/creating-your-requirements.txt.md)
+  * [☕Java](support/languages/java.md)
+* [Integrations](support/integrations/README.md)
+  * [Lavalink](support/integrations/lavalink/README.md)
+    * [NodeJS](support/integrations/lavalink/nodejs.md)
+  * [Module Status](support/integrations/modulos-status.md)
+  * [GitHub and GitLab](support/integrations/github-and-gitlab/README.md)
+    * [How to use Github](support/integrations/github-and-gitlab/how-to-use-github.md)
+  * [Database](support/integrations/database/README.md)
+    * [MongoDB Atlas \(mLab\)](support/integrations/database/mongodb-atlas-mlab.md)
+* [Frequently Asked Questions \(FAQ\)](support/faq/README.md)
+  * [Commands](support/faq/commands.md)
+  * [How to compress \(zip\) my files?](support/faq/how-to-compress-zip-my-files.md)
+  * [How to make a Commit?](support/faq/how-to-make-a-commit.md)
+  * [How do I get my Bot ID?](support/faq/how-do-i-get-my-bot-id.md)
+  * [What is the main file?](support/faq/what-is-the-main-file.md)
 
 ---
 
-* [Doações](doacoes.md)
+* [Donations](donations.md)
 
-## Sobre
+## About <a id="about-1"></a>
 
-* [Discloud Brand](sobre/discloud-brand/README.md)
-  * [Origem do Nome](sobre/discloud-brand/origem-do-nome.md)
-  * [Identidade Visual](sobre/discloud-brand/identidade-visual.md)
-  * [Site](https://discloudbot.com/)
+---
+
+* [Discloud Brand](discloud-brand/README.md)
+  * [Name origin](discloud-brand/name-origin.md)
+  * [Visual identity](discloud-brand/visual-identity.md)
+  * [Website](https://discloudbot.com/)
+
+## Other
+
+* [Documentation \(PORTUGUESE\)](https://docs.discloudbot.com/)
 
