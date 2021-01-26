@@ -1,16 +1,17 @@
 ---
-description: Bem-vindo a documentação oficial da DisCloud
+description: Welcome to official DisCloud documentation
 ---
 
-# Bem-Vindo
+# Welcome
 
-> Documentação é o conjunto de todos **documentos**, que são **todas as fontes** contendo informações que ajudem a tomar decisões, comuniquem decisões tomadas e **registrem assuntos de interesse da organização**.
+> Documentation is the set of all documents, which are all sources containing information to help make decisions, communicate decisions made and record matters of interest to the organization.
 
-## 📜 Informações
+## 📜 Information <a id="informacoes"></a>
 
-Somos uma plataformaa de nuvem baseada em contêiner flexível, gratuita e fácil de usar, oferecemos aos desenvolvedores uma forma simples e rápida de colocar seus Bots Discord online 24/7.
+We are a flexible, free and easy to use container-based cloud platform, we offer developers a simple and quick way to get their Bots Discord online 24/7. 
 
-Contamos com a colaboração de doadores para se manter no ar e melhorar a qualidade de nossos serviços. Não possuímos nenhum tipo de vínculo com a Discord Inc.
+We rely on donor collaboration to stay on the airservices.  
+We have no relationship with Discord Inc.
 
 • ![:DiscordStaff:](https://cdn.discordapp.com/emojis/452955567795732480.png?v=1) **`Tech Support:`** support@discloudbot.com  
 • ![:TrustSafety:](https://cdn.discordapp.com/emojis/606720108164939776.png?v=1) **`Trust & Safety:`** abuse@discloudbot.com  
