@@ -4,14 +4,12 @@ description: Module to read metrics from the modern Linux container cgroup
 
 # Module Status
 
-
-
 ![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lta0svQ7bxcnUv5TpPv%2F-Lta2errpYYWP77G0dGd%2Fimage.png?alt=media&token=72171819-d3e6-4850-9821-1c6cc5037a1c)
 
 ## Information <a id="information"></a>
 
-The limit of memory defined in the containers is imposed via cgroups, and most Linux tools that provide metrics of system resources were created even before the existence of cgroups \(for example: free or top\).  
-  
+The limit of memory defined in the containers is imposed via cgroups, and most Linux tools that provide metrics of system resources were created even before the existence of cgroups \(for example: free or top\).
+
 They often read memory metrics from the file system:`/proc/meminfo`, `/proc/vmstat`, `/proc/PID/smaps` and others. This means that they are not aware of cgroup. They will always display the memory numbers of the host system \(physical or virtual machine\) as a whole, which is useless for modern Linux containers.
 
 This Nodejs module works only on Linux, and was created exclusively to serve users of [discloudbot.com](https://discloudbot.com/)​
@@ -75,8 +73,6 @@ print(tr) # 1GB
 [https://pypi.org/project/discloud/](https://pypi.org/project/discloud/)​
 {% endtab %}
 {% endtabs %}
-
-###  <a id="instalacao-do-modulo"></a>
 
 ​
 

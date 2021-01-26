@@ -10,16 +10,16 @@ That is, this file is nothing more than a text file, containing a list of **item
 
 ### Let's take an example: <a id="example"></a>
 
- Considering this `requirements.txt` here:
+Considering this `requirements.txt` here:
 
 ```text
 discord.pyseaborn==0.8.1pandas>=0.18.1
 ```
 
-1.  **-e git+https://github.com/jtemporal/caipyra.git@master\#egg=caipyra**: That way we were able to install Python packages that are available on GitHub but not on PyPI. This is a really cool tip when, for example, you need the development version of a library or when you prefer to use a fork instead of the traditional version of the package.
+1. **-e git+**[https://github.com/jtemporal/caipyra.git@master\#egg=caipyra](https://github.com/jtemporal/caipyra.git@master#egg=caipyra): That way we were able to install Python packages that are available on GitHub but not on PyPI. This is a really cool tip when, for example, you need the development version of a library or when you prefer to use a fork instead of the traditional version of the package.
 2. **discord.py**: When we don't specify a version, **pip** will always try to install the latest version of the specified package.
 3. **seaborn==0.8.1**: In the case of seaborn, we are installing version `0.8.1`. Fixing the version in this way is interesting because it ensures that your project will always be working since changes in the packages are indicated by the change in the version number.
-4.  **pandas&gt;=0.18.1**: In the same way that the `==` sign defines a specific version to be installed, when we use the `>=` sign in this list we are saying that we want to install any version of the library, in this case pandas, be it version `0.18.1` or a last. Interesting in this case is to note that you can define a range of versions, for example, pandas **`>= 0.15.0, <= 0.18.1`**.
+4. **pandas&gt;=0.18.1**: In the same way that the `==` sign defines a specific version to be installed, when we use the `>=` sign in this list we are saying that we want to install any version of the library, in this case pandas, be it version `0.18.1` or a last. Interesting in this case is to note that you can define a range of versions, for example, pandas **`>= 0.15.0, <= 0.18.1`**.
 
 ## ✍ How do I create my requirements.txt? <a id="how-do-i-create-my-requirements"></a>
 

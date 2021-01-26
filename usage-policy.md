@@ -19,7 +19,7 @@ If you have any questions about this document, please contact us by e-mail: [sup
 
 ## Prohibited content <a id="prohibited-content"></a>
 
-1 - Content that violates the rights of third parties  \(for example, copyright\) in accordance with applicable law;
+1 - Content that violates the rights of third parties \(for example, copyright\) in accordance with applicable law;
 
 2 - Excessively profane content;
 
@@ -47,7 +47,7 @@ If you have any questions about this document, please contact us by e-mail: [sup
 
 ## Prohibited actions <a id="prohibited-actions"></a>
 
-1 - Send  \(upload\), distribute, disseminate or offer to do the same with respect to any content of a 2-defamatory, offensive, abusive, fraudulent, infringing, obscene or otherwise objectionable nature;
+1 - Send \(upload\), distribute, disseminate or offer to do the same with respect to any content of a 2-defamatory, offensive, abusive, fraudulent, infringing, obscene or otherwise objectionable nature;
 
 3 - Intentionally distribute viruses, worms, defects, Trojan horses, corrupted files, prank calls, or any other items of a destructive or misleading nature;
 
@@ -55,7 +55,7 @@ If you have any questions about this document, please contact us by e-mail: [sup
 
 5 - Transmit content that may be harmful to minors;
 
-6 - Impersonate another person  \(using a Discord account or otherwise\) or misrepresent yourself or the origin of any email;
+6 - Impersonate another person \(using a Discord account or otherwise\) or misrepresent yourself or the origin of any email;
 
 7 - Illegally transmit intellectual property or other proprietary information without the permission of the owner or licensor;
 
@@ -75,13 +75,13 @@ If you have any questions about this document, please contact us by e-mail: [sup
 
 15 - Use the Service in connection with illegal peer-to-peer file sharing;
 
-16 - Use the Service for bitcoins and other digital currencies  \(cryptocurrencies\);
+16 - Use the Service for bitcoins and other digital currencies \(cryptocurrencies\);
 
 17 - Display any content on the Service that contains any content related to hatred or violence or contains any other materials, products or services that violate or encourage conduct that violates criminal laws, any other applicable laws, or any third party rights;
 
 18 - It is completely forbidden to circumvent the beneficial free by creating 2 accounts on Discord in order to have 2 bots hosted on our platform, in case I get all the bots will be deleted and your account added to Blacklist.
 
-19 - It is prohibited to automate normal Discord  user accounts \(usually called "self-bots"\).
+19 - It is prohibited to automate normal Discord user accounts \(usually called "self-bots"\).
 
 20 - It is forbidden to host BOTs that share files or malicious links, Mass DM, and any action prohibited by Discord's terms of service.
 

@@ -13,7 +13,7 @@ Last updated on: December 29, 2020
 
 | Command | Aliases | Description |
 | :--- | :--- | :--- |
-| .help &lt;command&gt;  | h, ajuda | View information for a command |
+| .help &lt;command&gt; | h, ajuda | View information for a command |
 | .iniciar | start, i | Start your bot/application. |
 | .parar | stop, para, p | Stop your bot/application. |
 | .reiniciar | restart, reboot, r, reset | Restart your bot/application. |
@@ -25,12 +25,12 @@ Last updated on: December 29, 2020
 | .dir | d, diretorio, ls | See your bot's directory structure. |
 | .status | s, stats | View the status of a bot. |
 
-##  Moderator commands
+## Moderator commands
 
 {% hint style="warning" %}
-**This moderator function is for paid plans only.  
-  
-Which is?** This system allows you to add another person to start / restart / stop / view the terminal of a bot \(in the future it will be added in order to make changes\)
+\*\*This moderator function is for paid plans only.
+
+Which is?\*\* This system allows you to add another person to start / restart / stop / view the terminal of a bot \(in the future it will be added in order to make changes\)
 {% endhint %}
 
 ### Commands only owner:

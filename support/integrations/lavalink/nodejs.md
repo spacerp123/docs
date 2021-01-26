@@ -5,11 +5,8 @@
 To use this code just do:
 
 1. Download in [`Releases`](https://github.com/discloud/lavalink-nodejs/releases) or [Click here](https://github.com/discloud/lavalink-nodejs/releases/latest/download/lavalink-nodejs.zip)
-
 2. Once downloaded, simply place your Bot code in the bot directory
-
-3. In the `config.json` file in `fileRunBot` change the name of the main file \(in this case, it is `bot.js` but if it is another name \(such as `index.js`\) change to the correct name\)  
-  
+3. In the `config.json` file in `fileRunBot` change the name of the main file \(in this case, it is `bot.js` but if it is another name \(such as `index.js`\) change to the correct name\)
 4. In your code, area where you connect Lavalink please enter this data:
 
 > ```javascript

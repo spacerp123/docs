@@ -1,6 +1,6 @@
 # Name origin
 
-![](../.gitbook/assets/246513.jpg)
+![](../../.gitbook/assets/246513.jpg)
 
 ## Meanings
 

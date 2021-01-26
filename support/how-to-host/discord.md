@@ -13,7 +13,7 @@ Before you start playing your files on the website, consult one of the tutorials
 ## 📥 How to host your bot <a id="how-to-host-your-bot"></a>
 
 {% hint style="info" %}
-Only host through Discord if your file is less than 8 MB. If it is bigger, it will have to be hosted on the website version. 
+Only host through Discord if your file is less than 8 MB. If it is bigger, it will have to be hosted on the website version.
 {% endhint %}
 
 If you are in the **CloudAccess** position, it means that you have successfully registered with DisCloud. To host, enter the canalcommands text channel and type `.up`.

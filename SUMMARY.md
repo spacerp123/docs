@@ -37,14 +37,8 @@
 
 ## About <a id="about-1"></a>
 
----
-
-* [Discloud Brand](discloud-brand/README.md)
-  * [Name origin](discloud-brand/name-origin.md)
-  * [Visual identity](discloud-brand/visual-identity.md)
+* [Discloud Brand](about-1/discloud-brand/README.md)
+  * [Name origin](about-1/discloud-brand/name-origin.md)
+  * [Visual identity](about-1/discloud-brand/visual-identity.md)
   * [Website](https://discloudbot.com/)
-
-## Other
-
-* [Documentation \(PORTUGUESE\)](https://docs.discloudbot.com/)
 

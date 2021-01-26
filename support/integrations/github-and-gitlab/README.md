@@ -16,7 +16,5 @@ We will start by setting up a webhook for your repository. This step is importan
 
 ![Example on Github](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-LrrLy1bjfFBqW44qTq1%2F-LrrMhp-cvy7zdXC67W8%2Fexemplo.gif?alt=media&token=77555b58-7ab6-460f-915d-8178df50da82)
 
-{% embed url="https://youtu.be/vMJIG4XvzA8" %}
-
-
+{% embed url="https://youtu.be/vMJIG4XvzA8" caption="" %}
 

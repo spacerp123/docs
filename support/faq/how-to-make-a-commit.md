@@ -28,8 +28,6 @@ Then select the bot you want to update, then send the `.zip` file with the files
 
 ![](https://i.imgur.com/AknNPZ9.png)
 
-### 
-
 ### Discord
 
 Go to the command channel you have access to and type `.commit` \(if you have more than one bot it is necessary to inform the ID\).

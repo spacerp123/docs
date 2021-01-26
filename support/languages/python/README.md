@@ -21,7 +21,7 @@ The main file of your bot, that is, the location of bot.run \(\). **GENERAL is m
 The `requirements.txt` must contain the libraries used in your Bot, by default, it should at least contain the `discord.py` library, if you use the `disco-py` library just replace it.
 
 {% hint style="warning" %}
-Libraries **are NOT** the ones **you import**, but the ones you install.   
+Libraries **are NOT** the ones **you import**, but the ones you install.  
 **Example**: **import PIL** but **you install using pip install pillow**, so you must put **pillow** and not **PIL** in your requirements.txt file.
 {% endhint %}
 

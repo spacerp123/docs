@@ -12,21 +12,21 @@ description: >-
 
 ## Logo <a id="logo"></a>
 
- Dark Logotipo horizontal
+Dark Logotipo horizontal
 
- White with shadows Logotipo horizontal
+White with shadows Logotipo horizontal
 
- White Logotipo horizontal  
-   
- Dark Logotipo horizontal
+White Logotipo horizontal
+
+Dark Logotipo horizontal
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE_7ijG6VKAzZX%2F-Lqi8uQV-TGeei8-oZK-%2FSPOILER_Discloud_Dark.png?alt=media&token=7716ebd5-257c-428c-aeb0-fff3c5b57ec7)
 
- White Logotipo horizontal
+White Logotipo horizontal
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-LqiKgX61-0U2D9vbG7t%2F-LqiKk8A0c8-yWx0Bim9%2FSPOILER_Discloud_branco.png?alt=media&token=23c14e9a-5c3f-4865-bfaa-7c8ed15fd4e4)
 
- White with shadows Logotipo horizontal
+White with shadows Logotipo horizontal
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE_7ijG6VKAzZX%2F-Lqi9RhIw8jURrSFPuGv%2Fdiscloud2.png?alt=media&token=5a6dd0cd-cf53-4759-aa1d-ef85b655087e)
 
