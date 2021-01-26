@@ -8,7 +8,7 @@ description: Bem-vindo a documentação oficial da DisCloud
 
 ## 📜 Informações
 
-Somos uma plataforma de nuvem baseada em contêiner flexível, gratuita e fácil de usar, oferecemos aos desenvolvedores uma forma simples e rápida de colocar seus Bots Discord online 24/7.
+Somos uma plataformaa de nuvem baseada em contêiner flexível, gratuita e fácil de usar, oferecemos aos desenvolvedores uma forma simples e rápida de colocar seus Bots Discord online 24/7.
 
 Contamos com a colaboração de doadores para se manter no ar e melhorar a qualidade de nossos serviços. Não possuímos nenhum tipo de vínculo com a Discord Inc.
 
