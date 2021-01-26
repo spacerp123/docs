@@ -8,7 +8,7 @@ description: Welcome to official DisCloud documentation
 
 ## 📜 Information <a id="informacoes"></a>
 
-We are a flexible, free and easy to use container-based cloud platform, we offer developers a simple and quick way to get their Bots Discord online 24/7.
+We are a flexible, free and easy to use container-based cloud platform, we offer developers a simple and quick way to get their Bots Discord online 24/7. 
 
 We rely on donor collaboration to stay on the airservices.  
 We have no relationship with Discord Inc.
