@@ -37,16 +37,20 @@ description: >-
 ![](../../.gitbook/assets/discloudhalloween.png)
 {% endtab %}
 
-{% tab title="Logotipo GIF" %}
+{% tab title="Gif Logo" %}
 ![](../../.gitbook/assets/icongif%20%281%29%20%281%29%20%281%29.gif)
 {% endtab %}
 
-{% tab title="Logo GIF Natal" %}
+{% tab title="Gif Natal" %}
 ![](../../.gitbook/assets/natal.gif)
 {% endtab %}
 
-{% tab title="Logo Gif Halloween" %}
+{% tab title="Gif Halloween" %}
 ![](../../.gitbook/assets/gif1.gif)
+{% endtab %}
+
+{% tab title="Gif AnoNovo" %}
+![](../../.gitbook/assets/ww-1-.gif)
 {% endtab %}
 {% endtabs %}
 
