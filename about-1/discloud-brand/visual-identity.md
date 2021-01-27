@@ -10,27 +10,49 @@ description: >-
 **In general, do not use the DisCloud name or logos in ways that could be confusing, misleading or suggest our sponsorship, endorsement or affiliation.**
 {% endhint %}
 
-## Logo <a id="logo"></a>
+## Logo
 
-Dark Logotipo horizontal
+{% tabs %}
+{% tab title=" Logotipo horizontal escuro" %}
+![](../../.gitbook/assets/spoiler_discloud_dark.png)
+{% endtab %}
 
-White with shadows Logotipo horizontal
+{% tab title=" Logotipo horizontal branco" %}
+![](../../.gitbook/assets/spoiler_discloud_branco.png)
+{% endtab %}
 
-White Logotipo horizontal
+{% tab title=" Logotipo horizontal branco sombra" %}
+![](../../.gitbook/assets/discloud2%20%281%29%20%281%29.png)
+{% endtab %}
+{% endtabs %}
 
-Dark Logotipo horizontal
+## Icon
 
-![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE_7ijG6VKAzZX%2F-Lqi8uQV-TGeei8-oZK-%2FSPOILER_Discloud_Dark.png?alt=media&token=7716ebd5-257c-428c-aeb0-fff3c5b57ec7)
+{% tabs %}
+{% tab title="Logotipo Normal" %}
+![](../../.gitbook/assets/discloudlogo%20%281%29.png)
+{% endtab %}
 
-White Logotipo horizontal
+{% tab title="Logotipo Halloween" %}
+![](../../.gitbook/assets/discloudhalloween.png)
+{% endtab %}
 
-![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-LqiKgX61-0U2D9vbG7t%2F-LqiKk8A0c8-yWx0Bim9%2FSPOILER_Discloud_branco.png?alt=media&token=23c14e9a-5c3f-4865-bfaa-7c8ed15fd4e4)
+{% tab title="Gif Logo" %}
+![](../../.gitbook/assets/icongif%20%281%29%20%281%29%20%281%29.gif)
+{% endtab %}
 
-White with shadows Logotipo horizontal
+{% tab title="Gif Natal" %}
+![](../../.gitbook/assets/natal.gif)
+{% endtab %}
 
-![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE_7ijG6VKAzZX%2F-Lqi9RhIw8jURrSFPuGv%2Fdiscloud2.png?alt=media&token=5a6dd0cd-cf53-4759-aa1d-ef85b655087e)
+{% tab title="Gif Halloween" %}
+![](../../.gitbook/assets/gif1.gif)
+{% endtab %}
 
-## Icon <a id="icon"></a>
+{% tab title="Gif AnoNovo" %}
+![](../../.gitbook/assets/ww-1-.gif)
+{% endtab %}
+{% endtabs %}
 
 ## Font <a id="fonte"></a>
 
