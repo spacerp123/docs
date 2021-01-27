@@ -4,7 +4,7 @@
 
 Select the necessary files \(said in the tutorials\), right click on them, drag the mouse to **Send** to and click **Compressed folder**.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-LrrRgjLrRyFJbJV0AQC%2F-LrrT0vMWFKbMwhjJ1cZ%2Fexemplo.gif?alt=media&token=d87ee2a2-8e22-47c3-add4-4eb9a87e4e62)[📦](../languages/javascript/)
+![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-LrrRgjLrRyFJbJV0AQC%2F-LrrT0vMWFKbMwhjJ1cZ%2Fexemplo.gif?alt=media&token=d87ee2a2-8e22-47c3-add4-4eb9a87e4e62)
 
 {% page-ref page="../languages/javascript/" %}
 
