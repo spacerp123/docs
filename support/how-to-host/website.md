@@ -42,3 +42,11 @@ If you have any questions about how to correctly fill in your bot's mandatory in
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Ln5Sc8rtQvGZjVaGv-f%2F-Ln5ZqmDhmTxrk2DV-JJ%2Fimage.png?alt=media&token=1546ea00-023a-49fd-a6a6-b69d10b72440)
 
+{% page-ref page="../faq/how-do-i-get-my-bot-id.md" %}
+
+{% page-ref page="../faq/what-is-the-main-file.md" %}
+
+{% page-ref page="../faq/how-to-compress-zip-my-files.md" %}
+
+
+

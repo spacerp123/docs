@@ -34,3 +34,9 @@ Within this chat will appear the instructions that must be filled out correctly 
 If you have any questions about how to correctly fill in your Bot's mandatory information at DisCloud, visit the FAQ category in our documentation!
 {% endhint %}
 
+{% page-ref page="../faq/how-do-i-get-my-bot-id.md" %}
+
+{% page-ref page="../faq/what-is-the-main-file.md" %}
+
+{% page-ref page="../faq/how-to-compress-zip-my-files.md" %}
+
