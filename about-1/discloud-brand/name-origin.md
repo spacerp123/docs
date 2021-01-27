@@ -12,8 +12,6 @@ The name comes from the junction of the Latin prefix of the Portuguese language,
 
 > We are **dissolving**, **dividing**, **sharing** cloud computing between people.
 
-exit: Ctrl+↩
-
 {% hint style="success" %}
 There are also other meanings that can be easily assimilated as **Dis**~~cord~~ **Cloud** which also expresses the definition of our service.
 {% endhint %}
