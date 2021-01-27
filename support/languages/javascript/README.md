@@ -1,7 +1,5 @@
 # 📦JavaScript
 
-Credits to [MagnataEffects](https://absolutproject.com/) for the tutorial presented.
-
 ## 📥 Main files <a id="main-files"></a>
 
 First of all, **do not upload all files at once**, you will need to place your bot files in a `.zip` folder. There is no need to upload the `node_modules` and `package-lock.json` files.
