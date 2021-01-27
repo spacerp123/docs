@@ -4,7 +4,7 @@ description: Módulo para ler métricas do cgroup de contêineres modernos Linux
 
 # Módulos Status
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2825%29%20%281%29%20%281%29.png)
 
 ## Informações
 

@@ -30,7 +30,7 @@ Feito isso, aparecerá um canal de texto com o seu Nickname e Tag \(exemplo: `#S
 
 Dentro desse chat aparecerá as instruções que deverão ser preenchidas corretamente para evitar problemas. 
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 > Você pode consultar os comandos utilizando `.help` ou `.help <comando>` para saber como utilizar o comando mencionado.
 
