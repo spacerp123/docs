@@ -8,17 +8,17 @@ description: >-
 
 ## 💎 Beneficial
 
-| Beneficial | Memory | CPU | Max. Bots | Price \(R$\) | Moderators | Git | Unlimited slot | Timer |
+| Beneficial | Memory | CPU | Max. Bots | Price \($\) | Moderators | Git | Unlimited slot | Timer |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Free | **100mb** | 0.25 | 1 | - | 0 | No | No | Yes |
-| Booster | **100mb** | 0.25 | 1 | - | 0 | No | Yes | No |
-| Carbon | **200mb** | 0.25 | 1 | 1,99 | 0 | Yes | Yes | No |
-| Gold | **512mb** | 0.5 | 5 | 5,99 | 1 | Yes | Yes | No |
-| Platinum | **1Gb** | 1 | 10 | 10,99 | 2 | Yes | Yes | No |
-| Diamond | **2Gb** | 2 | 20 | 24,00 | 3 | Yes | Yes | No |
-| Diamond | **4Gb** | 3 | 40 | 48,00 | 4 | Yes | Yes | No |
-| Sapphire | **8Gb** | 4 | 80 | 96,00 | 5 | Yes | Yes | No |
-| Sapphire | **16Gb** | 4 | 160 | 192,00 | 6 | Yes | Yes | No |
+| ![](.gitbook/assets/free.png) Free | **100mb** | 0.25 | 1 | - | 0 | No | No | Yes |
+| ![](.gitbook/assets/booster.png) Booster | **100mb** | 0.25 | 1 | - | 0 | No | Yes | No |
+| ![](.gitbook/assets/carbon.png) Carbon | **200mb** | 0.25 | 1 | 0,99 | 0 | Yes | Yes | No |
+| ![](.gitbook/assets/gold.png) Gold | **512mb** | 0.5 | 5 | 2,00 | 1 | Yes | Yes | No |
+| ![](.gitbook/assets/platinum.png) Platinum | **1Gb** | 1 | 10 | 3,00 | 2 | Yes | Yes | No |
+| ![](.gitbook/assets/diamond.png) Diamond | **2Gb** | 2 | 20 | 6,00 | 3 | Yes | Yes | No |
+| ![](.gitbook/assets/diamond.png) Diamond | **4Gb** | 3 | 40 | 12,00 | 4 | Yes | Yes | No |
+| ![](.gitbook/assets/sapphire.png) Sapphire | **8Gb** | 4 | 80 | 24,00 | 5 | Yes | Yes | No |
+| ![](.gitbook/assets/sapphire.png) Sapphire | **16Gb** | 4 | 160 | 48,00 | 6 | Yes | Yes | No |
 
 ## ​ ![](.gitbook/assets/paypal.png) PayPal <a id="paypal"></a>
 
