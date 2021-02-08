@@ -45,7 +45,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 ## 4. As taxas de utilização dos Serviços da DisCloud
 
-4.1 Não temos como obrigação entregar recursos em troca de doações, todas as doações aqui são solidarias e contribuem para que possamos oferece planos gratuitos para quem precisa. Porém como o objetivo da DisCloud é ajudar a todos oferecemos benéficos extras como cortesia para quem apoia o projeto. **Se você não concorda com isso pro favor não use o nosso serviço**.
+4.1 Não temos como obrigação entregar recursos em troca de doações, todas as doações aqui são solidarias e contribuem para que possamos oferece planos gratuitos para quem precisa. Porém como o objetivo da DisCloud é ajudar a todos oferecemos benéficos extras como cortesia para quem apoia o projeto. **Se você não concorda com isso por favor não use o nosso serviço**.
 
 4.2 DisCloud pode remover seus benefícios extras  caso não renove sua doação a cada 30 dias.
 
