@@ -35,6 +35,6 @@ To make a donation via Mercado Pago, you must send the benefit amount of your ch
 For more information about our benefits, just type .plans in the server's command channel or access our [website](https://discloudbot.com/).
 
 {% hint style="success" %}
-👨💻 Note: The benefit will **be activated manually** by some Staff.
+👨💻 **Note**: The benefit will **be activated manually** by some Staff.
 {% endhint %}
 
