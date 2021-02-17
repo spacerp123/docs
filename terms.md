@@ -47,7 +47,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 4.1 Não temos como obrigação entregar recursos em troca de doações, todas as doações aqui são solidarias e contribuem para que possamos oferece planos gratuitos para quem precisa. Porém como o objetivo da DisCloud é ajudar a todos oferecemos benéficos extras como cortesia para quem apoia o projeto. **Se você não concorda com isso por favor não use o nosso serviço**.
 
-4.2 DisCloud pode remover seus benefícios extras  caso não renove sua doação a cada 30 dias.
+4.2 DisCloud pode remover seus benefícios extras caso não renove sua doação a cada 30 dias.
 
 4.3 Você tem o direito de pedir reembolso em até 2 dias após a data de sua doação.
 

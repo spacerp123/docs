@@ -72,6 +72,86 @@ print(tr) # 1GB
 
 [https://pypi.org/project/discloud/](https://pypi.org/project/discloud/)
 {% endtab %}
+
+{% tab title="☕Java" %}
+```text
+package util;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.text.CharacterIterator;
+import java.text.StringCharacterIterator;
+
+
+public class discloudStatus {
+	
+	
+	public static String convertMB(long bytes) {
+		/**
+	     *  convert kb to mb/gb/tb/...
+	     */
+	    long absB = bytes == Long.MIN_VALUE ? Long.MAX_VALUE : Math.abs(bytes);
+	    if (absB < 1024) {
+	        return bytes + " B";
+	    }
+	    long value = absB;
+	    CharacterIterator ci = new StringCharacterIterator("KMGTPE");
+	    for (int i = 40; i >= 0 && absB > 0xfffccccccccccccL >> i; i -= 10) {
+	        value >>= 10;
+	        ci.next();
+	    }
+	    value *= Long.signum(bytes);
+	    return String.format("%.1f %ciB", value / 1024.0, ci.current());
+	}
+	
+	public static File file_total(){
+		/**
+	     * convert localization to file
+	     * (/sys/fs/cgroup/memory/memory.max_usage_in_bytes)
+	     */
+		return new File(File.separator+"sys"+File.separator+"fs"+File.separator+"cgroup"+File.separator+"memory"+File.separator+"memory.limit_in_bytes");
+	}
+	
+	public static File file_used() {
+		/**
+	     * convert localization to file
+	     * (/sys/fs/cgroup/memory/memory.limit_in_bytes)
+	     */
+		return new File(File.separator+"sys"+File.separator+"fs"+File.separator+"cgroup"+File.separator+"memory"+File.separator+"memory.max_usage_in_bytes");
+	}
+	
+	@SuppressWarnings("resource")
+	public static int total_ram() throws NumberFormatException, FileNotFoundException, IOException {
+		/**
+	     * get total space memory ram
+	     */
+		return Integer.parseInt(new BufferedReader(new FileReader(file_total())).readLine());
+	}
+	
+	@SuppressWarnings("resource")
+	public static int total_used() throws NumberFormatException, FileNotFoundException, IOException {
+		/**
+	     * get total memory used
+	     */
+		return Integer.parseInt(new BufferedReader(new FileReader(file_used())).readLine());
+	}
+	
+	
+
+	
+	public static String ram() throws NumberFormatException, FileNotFoundException, IOException {
+		/**
+	     *  get memory ram converted to MB!
+	     *  return (memoryused/memorytotal)
+	     */
+		return "("+convertMB(total_used())+"/"+convertMB(total_ram())+")";
+	}
+}
+```
+{% endtab %}
 {% endtabs %}
 
 

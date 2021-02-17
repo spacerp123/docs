@@ -22,7 +22,7 @@ description: >-
 {% endtab %}
 
 {% tab title=" Logotipo horizontal branco sombra" %}
-![](../../.gitbook/assets/discloud2%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/discloud2%20%281%29%20%281%29%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -38,7 +38,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Gif Logo" %}
-![](../../.gitbook/assets/icongif%20%281%29%20%281%29%20%281%29.gif)
+![](../../.gitbook/assets/icongif%20%281%29%20%281%29%20%281%29%20%281%29.gif)
 {% endtab %}
 
 {% tab title="Gif Natal" %}
@@ -60,7 +60,7 @@ A fonte usada para o logotipo da DisCloud é uma versão modificada do [Uni Sans
 
 {% file src="../../.gitbook/assets/font\_discloud.otf" %}
 
-![](../../.gitbook/assets/discloud-background%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/discloud-background%20%281%29%20%281%29%20%281%29.png)
 
 {% hint style="danger" %}
 **Não faça qualquer tipo de modificação na logotipo do DisCloud.**
