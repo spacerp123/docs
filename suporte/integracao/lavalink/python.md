@@ -14,7 +14,7 @@ Para usar este código basta fazer:
 
 2. Depois de baixado, basta colocar o código do seu Bot no diretório `bot` 
 
-3. No arquivo `config.json` no `fileRunBot` altere o nome do arquivo principal \(no caso está `bot.py` mas se for outro nome \(como por exemplo `index.py`\) troque para o nome correto\) 4. No seu codigo, área onde você conecta o Lavalink por favor coloque este dados:
+3. No arquivo `config.json` no `fileRunBot` altere o nome do arquivo principal \(no caso está `main.py` mas se for outro nome \(como por exemplo `bot.py`\) troque para o nome correto\) 4. No seu codigo, área onde você conecta o Lavalink por favor coloque este dados:
 
 > ```python
 > {
