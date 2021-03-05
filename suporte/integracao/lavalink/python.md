@@ -1,6 +1,6 @@
 ---
 description: >-
-  Aprenda a hospedar o seu BOT JavaScript com 1 servidor Lavalink na mesma
+  Aprenda a hospedar o seu BOT Python com 1 servidor Lavalink na mesma
   instancia na DisCloud
 ---
 
