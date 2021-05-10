@@ -1,6 +1,6 @@
 ---
 description: >-
-  Não quer usar o website para hospedar e fazer alterações no seu bot? Confira
+  Não quer usar o website para hospedar e fazer alterações em sua aplicação? Confira
   logo abaixo!
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ## 📜 Importante
 
-Antes de você já ir jogando os seus arquivos no website, consulte um dos tutoriais correspondentes a linguagem do seu bot. **Antes de começar**, faça o seu registro pelo website. Caso não saiba, [clique aqui](website.md).
+Antes de você já ir jogando os seus arquivos no website, consulte um dos tutoriais correspondentes a linguagem da sua aplicação **Antes de começar**, faça o seu registro pelo website. Caso não saiba, [clique aqui](website.md).
 
 {% page-ref page="../linguagens/javascript/" %}
 
@@ -35,7 +35,7 @@ Dentro desse chat aparecerá as instruções que deverão ser preenchidas corret
 > Você pode consultar os comandos utilizando `.help` ou `.help <comando>` para saber como utilizar o comando mencionado.
 
 {% hint style="info" %}
-Se você tiver alguma dúvida em questão a como preencher corretamente informações obrigatórias do seu Bot na DisCloud, visite a categoria FAQ em nossa documentação!
+Se você tiver alguma dúvida em questão a como preencher corretamente informações obrigatórias de sua aplicação na DisCloud, visite a categoria FAQ em nossa documentação!
 {% endhint %}
 
 {% page-ref page="../faq/como-pegar-o-id-do-meu-bot.md" %}

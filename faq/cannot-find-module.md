@@ -7,7 +7,7 @@
 * Se precisar instale o modulo executando o seguinte comando no VSC/IDE que é ``npm i (nome_do_modulo) --save``.
   * **exemplo:** ``npm i moment --save``.
 
-* Verifique se o módulo se encontra listado no arquivo ``package.json`` antes de hospedar o bot na DisCloud. 
+* Verifique se o módulo se encontra listado no arquivo ``package.json`` antes de hospedar a aplicação na DisCloud. 
 
 * Não coloque nomes com acentuações, letras grandes em seu projeto para não dar conflito no arquivo `package.json`, na parte `"name"`  caso tiver letra maiúscula, caracteres especiais dentre outro, deixa as informações mais simples possível. 
   * **exemplo:** `"name": "meubot",`

@@ -1,5 +1,5 @@
 ---
-description: Aprenda a hospedar seu bot em Java na DisCloud
+description: Aprenda a hospedar sua aplicação em Java na DisCloud!
 ---
 
 # ☕Java

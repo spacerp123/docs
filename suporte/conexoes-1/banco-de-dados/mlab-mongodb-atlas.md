@@ -1,5 +1,5 @@
 ---
-description: Configurando seu Banco Mongo em um Bot hospedado na Discloud.
+description: Configurando seu Banco Mongo em uma aplicação hospedada na Discloud.
 ---
 
 # MongoDB Atlas \(mLab\)
