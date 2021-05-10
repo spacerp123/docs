@@ -2,7 +2,7 @@
 
 ## 💁 Pelo Discord
 
-É bem simples, ative o modo desenvolvedor no seu Discord indo em `Configurações >> Aparência >> Avançado` e ative o **Modo desenvolvedor**.
+É bem simples, ative o modo desenvolvedor no seu Discord indo em `Configurações >> Avançado` e ative o **Modo desenvolvedor**.
 
 ![](../../.gitbook/assets/image%20%2835%29%20%281%29.png)
 
