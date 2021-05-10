@@ -15,5 +15,5 @@
 * O erro também pode ser por causa que você tenha definido um caminho de leitura errada (`./`, `../` , `../../`, e assim por diante) , quando vai puxar as informações do arquivo caso tiver especificado o caminho de leitura de forma errada, ele não vai conseguir ler.
  
 {% hint style="info" %}
- 💻 Nota:  Para verificar os logs/terminal, basta ir no canal ``#🔌┃cmd-discloud`` e executar o comando ``.t`` ou ``.t (ID_DO_BOT)``, alguns módulos pode ter conflito com algumas versões da lib do discord então verifique se tem alguma que não é compatível, Se o erro continuar vá ao canal ``#💻┃javascript`` e pede ajuda.
+ 💻 Nota:  Para verificar os logs/terminal, basta ir no canal ``#🔌┃commands`` e executar o comando ``.t`` ou ``.t (ID_DO_BOT)``, alguns módulos pode ter conflito com algumas versões da lib do discord então verifique se tem alguma que não é compatível, Se o erro continuar vá ao canal ``#💻┃javascript`` e peça ajuda.
 {% endhint %}
