@@ -30,6 +30,7 @@
   * [Como fazer um Commit?](suporte/faq/como-fazer-commit.md)
   * [Como pegar o ID do meu Bot?](suporte/faq/como-pegar-o-id-do-meu-bot.md)
   * [Qual o arquivo principal?](suporte/faq/qual-o-arquivo-principal.md)
+  * [WebDelay](suporte/faq/webdelay.md)
 
 ---
 
