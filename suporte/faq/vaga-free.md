@@ -7,6 +7,6 @@
 ---
 
 [ OBS ] A mensagem de notificação de liberação de vagas free ficam por alguns tempos em #📫┃slots, a mensagem estando lá tecnicamente não significa que tenha vaga disponível, sempre prestar atenção no horário que a mensagem foi enviada.
-:link: https://i.imgur.com/WGMcKnF.png
+🔗 https://i.imgur.com/WGMcKnF.png
 
 [ i ]  Use o discord para upar seu projeto, pois o site é instável, para verificar os comandos existentes use .help em algum canal de comando para que o bot da DisCloud mande a lista de todos os comandos em sua DM.
