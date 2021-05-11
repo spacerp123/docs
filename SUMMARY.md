@@ -31,6 +31,7 @@
   * [Como pegar o ID do meu Bot?](suporte/faq/como-pegar-o-id-do-meu-bot.md)
   * [Qual o arquivo principal?](suporte/faq/qual-o-arquivo-principal.md)
   * [WebDelay](suporte/faq/webdelay.md)
+  * [Vaga Free](suporte/faq/vaga-free.md)
 
 ---
 
