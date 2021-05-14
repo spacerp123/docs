@@ -34,6 +34,7 @@
   * [Vaga Free](suporte/faq/vaga-free.md)
   * [Como reportar um infrator?](suporte/faq/report.md)
   * [Porque meu bot não fica on?](suporte/faq/naoficaon.md)
+  * [Como upar sua aplicação com mais de 8mb](suporte/faq/more8mb.md)
 
 ---
 
