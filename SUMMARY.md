@@ -32,6 +32,7 @@
   * [Qual o arquivo principal?](suporte/faq/qual-o-arquivo-principal.md)
   * [WebDelay](suporte/faq/webdelay.md)
   * [Vaga Free](suporte/faq/vaga-free.md)
+  * [Como reportar um infrator?](suporte/faq/report.md)
 
 ---
 
