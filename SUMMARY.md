@@ -38,6 +38,7 @@
   * [Mailbox](suporte/faq/modmail.md)
   * [Bot Mods](suporte/faq/botmods.md)
   * [Bot muito pesado](suporte/faq/botpesado.md)
+  * ["Você já possui uma conta registrada no sistema"](suporte/faq/2acc.md)
 
 ---
 
