@@ -37,6 +37,7 @@
   * [Como upar sua aplicação com mais de 8mb](suporte/faq/more8mb.md)
   * [Mailbox](suporte/faq/modmail.md)
   * [Bot Mods](suporte/faq/botmods.md)
+  * [Bot muito pesado](suporte/faq/botpesado.md)
 
 ---
 
