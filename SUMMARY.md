@@ -39,6 +39,7 @@
   * [Bot Mods](suporte/faq/botmods.md)
   * [Bot muito pesado](suporte/faq/botpesado.md)
   * ["Você já possui uma conta registrada no sistema"](suporte/faq/2acc.md)
+  * [A host aceita o arquivo .env?](suporte/faq/env.md)
 
 ---
 
