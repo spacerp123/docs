@@ -14,13 +14,13 @@ Segundo a [documentação do pip sobre arquivos requirements](https://pip.pypa.i
 
 ```text
 -e git+https://github.com/jtemporal/caipyra.git@master#egg=caipyra
-discord.py
+discord
 seaborn==0.8.1
 pandas>=0.18.1
 ```
 
 1.  **-e git+https://github.com/jtemporal/caipyra.git@master\#egg=caipyra**: Dessa forma conseguimos instalar pacotes Python que estejam disponíveis no GitHub mas não no PyPI. Essa é uma dica muito legal quando por exemplo, você precisa da versão em desenvolvimento de um biblioteca ou quando você prefere usar um fork no lugar da versão tradicional do pacote. 
-2. **discord.py**: Quando não especificamos uma versão, o **pip** sempre tentará instalar a versão mais recente do pacote especificado. 
+2. **discord**: Quando não especificamos uma versão, o **pip** sempre tentará instalar a versão mais recente do pacote especificado. 
 3. **seaborn==0.8.1**: No caso do seaborn, estamos instalando a versão **`0.8.1`**. Fixar a versão dessa forma é interessante pois garante que o seu projeto vai sempre estar funcionando já que mudanças nos pacotes são indicadas pela alteração no número da versão. 
 4.  **pandas&gt;=0.18.1**: Da mesma forma que o sinal de **`==`** define uma versão específica a ser instalada, quando usamos o sinal de **`>=`** nessa lista estamos dizendo que queremos instalar qualquer versão da biblioteca, nesse caso o pandas, seja ela a versão **`0.18.1`** ou uma mais recente. Interessante nesse caso é notar que você pode definir um intervalo de versões, por exemplo, **`pandas>=0.15.0,<=0.18.1`**.
 

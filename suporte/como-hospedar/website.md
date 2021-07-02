@@ -1,7 +1,7 @@
 ---
 description: >-
-  Não sabe hospedar ou fazer alterações em sua aplicação em nosso website? Confira
-  logo abaixo!
+  Não sabe hospedar ou fazer alterações em sua aplicação em nosso website?
+  Confira logo abaixo!
 ---
 
 # Website

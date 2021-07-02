@@ -1,7 +1,7 @@
 ---
 description: >-
-  Não quer usar o website para hospedar e fazer alterações em sua aplicação? Confira
-  logo abaixo!
+  Não quer usar o website para hospedar e fazer alterações em sua aplicação?
+  Confira logo abaixo!
 ---
 
 # Discord
@@ -24,11 +24,11 @@ Se você estiver com o cargo **CloudAccess**, significa que você se registrou c
 
 ![ ](../../.gitbook/assets/image%20%2833%29.png)
 
-Feito isso, aparecerá um canal de texto com o seu Nickname e Tag \(exemplo: `#SeuNick-1234`\). 
+Feito isso, aparecerá um canal de texto com o seu Nickname e Tag \(exemplo: `#SeuNick-1234`\).
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
-Dentro desse chat aparecerá as instruções que deverão ser preenchidas corretamente para evitar problemas. 
+Dentro desse chat aparecerá as instruções que deverão ser preenchidas corretamente para evitar problemas.
 
 ![](../../.gitbook/assets/image%20%2838%29.png)
 
