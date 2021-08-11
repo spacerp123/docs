@@ -85,6 +85,8 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 20 -   É Proibido a hospedagem de BOTs que fazem compartilhamento de arquivos ou links mal intencionados, Mass DM, e qualquer ação proibida pelos termos de serviço do Discord.
 
+21 - É estritamente proibido a utilização da DisCloud para hospedar scripts  de aprendizado de maquina \(machine learning\) ou qualquer aplicação do gênero.
+
 
 
 `Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Google, Inc. não possui vínculo e não patrocina ou endossa a DisCloud ou o seu uso da obra.`
