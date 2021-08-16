@@ -38,7 +38,7 @@ Para reduzir o peso do download do backup você pode remover:
 
 * O diretório `java`
 * O diretório `node_modules` que se encontra no diretório `Bot` \(já que a DisCloud não consegue controlar esse `node_modules` devido não estar na raiz da Instância\)
-* Caso não queira receber-los no backup dos logs remova também o diretório `logs` (caso os `logMODE` no `config.json` esteja `true`)
+* Caso não queira receber os logs no backup remova também o diretório `logs` (caso os `logMODE` no `config.json` esteja `true`)
 
 ### Porque o meu BOT demora muito para ficar online?
 
