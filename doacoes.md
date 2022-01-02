@@ -31,7 +31,7 @@ Para realizar uma doação via PayPal, acesse o site da [**DisCloud**](https://d
 
 ## ![](.gitbook/assets/mercadopago.png) Mercado Pago
 
-Para efetuar uma doação via Mercado Pago, você deve enviar o valor do benéfico de sua escolha para o e-mail `pedroricardorn@gmail.com`. Em seguida, mande o comprovante para o DM \(Direct Message\) do BOT **`@Mailbox#3226`** \(ou de um membro da **`@DisCloud Staff`** caso o BOT esteja indisponível\).
+Para efetuar uma doação via Mercado Pago, você deve enviar o valor do benéfico de sua escolha para o e-mail `pedroricardorn@gmail.com`. Em seguida, mande o comprovante para o DM \(Direct Message\) do BOT **`@DisCloud ModMail#6424`** \(ou de um membro da **`@DisCloud Staff`** caso o BOT esteja indisponível\).
 
 Para mais informações sobre nossos benéficos, basta digitar `.planos` no canal de comandos do servidor ou acessar nosso [site](https://discloudbot.com/).
 
