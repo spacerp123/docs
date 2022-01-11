@@ -49,7 +49,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 4.2 DisCloud pode remover seus benefícios extras caso não renove sua doação a cada 30 dias.
 
-4.3 Você tem o direito de pedir reembolso, consulta staff para ver as condições e regras.
+4.3 Você tem o direito de pedir reembolso, por favor consulte a staff para ver as condições e regras.
 
 ## 5. Conteúdo nos Serviços da DisCloud e Remoção
 
