@@ -14,15 +14,15 @@ description: >-
 
 {% tabs %}
 {% tab title=" Logotipo horizontal escuro" %}
-![](../../.gitbook/assets/spoiler_discloud_dark.png)
+![](../../.gitbook/assets/spoiler\_discloud\_dark.png)
 {% endtab %}
 
 {% tab title=" Logotipo horizontal branco" %}
-![](../../.gitbook/assets/spoiler_discloud_branco.png)
+![](../../.gitbook/assets/spoiler\_discloud\_branco.png)
 {% endtab %}
 
 {% tab title=" Logotipo horizontal branco sombra" %}
-![](../../.gitbook/assets/discloud2%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](<../../.gitbook/assets/discloud2 (1) (1) (1) (1) (1).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -30,7 +30,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Logotipo Normal" %}
-![](../../.gitbook/assets/discloudlogo%20%281%29.png)
+![](<../../.gitbook/assets/discloudlogo (1).png>)
 {% endtab %}
 
 {% tab title="Logotipo Halloween" %}
@@ -38,7 +38,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Gif Logo" %}
-![](../../.gitbook/assets/icongif%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.gif)
+![](<../../.gitbook/assets/icongif (1) (1) (1) (1) (1) (1).gif>)
 {% endtab %}
 
 {% tab title="Gif Natal" %}
@@ -54,13 +54,12 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-## Font <a id="fonte"></a>
+## Font <a href="#fonte" id="fonte"></a>
 
 The font used for the DisCloud logo is a modified version of the [Uni Sans Heavy](https://www.myfonts.com/fonts/font-fabric/uni-sans/), which was designed by Svet Simov in 2009.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE_7ijG6VKAzZX%2F-LqiHnjhuikLfPyTV8AU%2FDisCloud-Background.png?alt=media&token=033f6251-ce81-4a52-9817-a30394ca2ba3)
+![](https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE\_7ijG6VKAzZX%2F-LqiHnjhuikLfPyTV8AU%2FDisCloud-Background.png?alt=media\&token=033f6251-ce81-4a52-9817-a30394ca2ba3)
 
 {% hint style="danger" %}
 **Do not make any modifications to the DisCloud logo.**
 {% endhint %}
-
