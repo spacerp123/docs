@@ -31,7 +31,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 2.2 A utilização dos Serviços da DisCloud deve cumprir todas as leis, regulamentos e portarias aplicáveis, incluindo quaisquer leis relativas à exportação de dados ou software.
 
-2.3 Você concorda em \(a\) não acessar \(ou tentar acessar\) a interface administrativa dos Serviços da DisCloud \(BOT ou WEB\), por qualquer meio que não seja através da interface que é fornecido pela DisCloud, a menos que tenha sido especificamente autorizado a fazê-lo em um acordo separado com a DisCloud, ou \(b\) se envolver em qualquer atividade que interfira ou interrompa o funcionamento dos Serviços da DisCloud \(ou os servidores e redes conectados ao Serviço\).
+2.3 Você concorda em (a) não acessar (ou tentar acessar) a interface administrativa dos Serviços da DisCloud (BOT ou WEB), por qualquer meio que não seja através da interface que é fornecido pela DisCloud, a menos que tenha sido especificamente autorizado a fazê-lo em um acordo separado com a DisCloud, ou (b) se envolver em qualquer atividade que interfira ou interrompa o funcionamento dos Serviços da DisCloud (ou os servidores e redes conectados ao Serviço).
 
 2.4 A sua conta tem limites de uso, como citado em seu painel, de acordo com a sua doação. Não permitimos que você exceda os limites de utilização. DisCloud reserva-se o direito de impor limites de seu exclusivo critério, que podem resultar na interrupção dos serviços ou até mesmo no bloqueio da sua conta.
 
@@ -41,7 +41,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 3.2 Os Serviços da DisCloud estarão sujeitos à política de privacidade e você concorda com a utilização de seus dados de acordo com as Políticas de Privacidade da DisCloud, que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
 
-3.3 Você concorda que irá proteger a privacidade e os direitos legais dos usuários finais de sua aplicação \(“Usuários finais”\). Você deve fornecer aviso de privacidade legalmente adequado e proteção para usuários finais. Se os usuários finais lhe fornecerem os nomes de usuário, senhas ou outras informações de login ou informações pessoais, você deve tornar os usuários cientes de que a informação estará disponível para sua aplicação e consequentemente para DisCloud.
+3.3 Você concorda que irá proteger a privacidade e os direitos legais dos usuários finais de sua aplicação (“Usuários finais”). Você deve fornecer aviso de privacidade legalmente adequado e proteção para usuários finais. Se os usuários finais lhe fornecerem os nomes de usuário, senhas ou outras informações de login ou informações pessoais, você deve tornar os usuários cientes de que a informação estará disponível para sua aplicação e consequentemente para DisCloud.
 
 ## 4. As taxas de utilização dos Serviços da DisCloud
 
@@ -49,17 +49,17 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 4.2 DisCloud pode remover seus benefícios extras caso não renove sua doação a cada 30 dias.
 
-4.3 Você tem o direito de pedir reembolso em até 2 dias após a data de sua doação.
+4.3 Você tem o direito de pedir reembolso, consulta staff para ver as condições e regras.
 
 ## 5. Conteúdo nos Serviços da DisCloud e Remoção
 
-5.1 Você entende que todas as informações \(tais como arquivos de dados, texto escrito, software de computador, música, arquivos de áudio ou outros sons, fotografias, vídeos ou outras imagens\) a que possa ter acesso como parte dos, ou através do seu uso dos, Serviços da DisCloud são da única responsabilidade da pessoa da qual esse conteúdo foi originado. Toda essa informação é referida abaixo como "Conteúdo".
+5.1 Você entende que todas as informações (tais como arquivos de dados, texto escrito, software de computador, música, arquivos de áudio ou outros sons, fotografias, vídeos ou outras imagens) a que possa ter acesso como parte dos, ou através do seu uso dos, Serviços da DisCloud são da única responsabilidade da pessoa da qual esse conteúdo foi originado. Toda essa informação é referida abaixo como "Conteúdo".
 
-5.2 DisCloud se reserva o direito \(mas não tem qualquer obrigação\) de remover qualquer ou todos os Conteúdos dos Serviços da DisCloud. Você concorda em remover imediatamente qualquer conteúdo que viole a Política de Uso, inclusive por força de um pedido de remoção. No caso de você optar por não atender à um pedido da DisCloud para remover determinado conteúdo, a DisCloud reserva-se o direito de removê-lo ou desativar seus serviços.
+5.2 DisCloud se reserva o direito (mas não tem qualquer obrigação) de remover qualquer ou todos os Conteúdos dos Serviços da DisCloud. Você concorda em remover imediatamente qualquer conteúdo que viole a Política de Uso, inclusive por força de um pedido de remoção. No caso de você optar por não atender à um pedido da DisCloud para remover determinado conteúdo, a DisCloud reserva-se o direito de removê-lo ou desativar seus serviços.
 
 5.3 No caso em que você se tornar ciente de qualquer violação da Política de Uso por um usuário final de sua aplicação, você deve encerrar imediatamente tal conta do usuário final em seu aplicativo. A DisCloud reserva-se o direito de desativar seus bots em resposta a uma violação ou suspeita de violação da Política de Uso.
 
-5.4 Você concorda que é o único responsável \(e que a DisCloud não tem qualquer responsabilidade perante si ou qualquer parceiro\) por conta de bots, aplicativo ou qualquer Conteúdo que crie, transmita ou visualize enquanto utiliza os Serviços da DisCloud e pelas conseqüências de suas ações \(incluindo qualquer perda ou dano que a DisCloud possa sofrer\) ao fazê-lo.
+5.4 Você concorda que é o único responsável (e que a DisCloud não tem qualquer responsabilidade perante si ou qualquer parceiro) por conta de bots, aplicativo ou qualquer Conteúdo que crie, transmita ou visualize enquanto utiliza os Serviços da DisCloud e pelas conseqüências de suas ações (incluindo qualquer perda ou dano que a DisCloud possa sofrer) ao fazê-lo.
 
 5.5 Você concorda que DisCloud não tem qualquer responsabilidade ou obrigação pela exclusão ou falha no armazenamento de qualquer Conteúdo e outras comunicações mantidas ou transmitidas através da utilização do Serviço. Você também reconhece que é o único responsável pela segurança e backup de seus aplicativos e qualquer Conteúdo.
 
@@ -67,17 +67,17 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 ## 6. Direitos de Propriedade
 
-6.1 Você reconhece e concorda que a DisCloud \(ou os licenciadores da DisCloud\) detém todos os direitos legais, títulos e interesses relativos aos Serviços da DisCloud, incluindo quaisquer direitos de propriedade intelectual que subsistam nos Serviços da DisCloud \(quer esses direitos estejam registrados ou não, e em qualquer lugar do mundo\).
+6.1 Você reconhece e concorda que a DisCloud (ou os licenciadores da DisCloud) detém todos os direitos legais, títulos e interesses relativos aos Serviços da DisCloud, incluindo quaisquer direitos de propriedade intelectual que subsistam nos Serviços da DisCloud (quer esses direitos estejam registrados ou não, e em qualquer lugar do mundo).
 
 ## 7. Licença da DisCloud e Restrições
 
 7.1 DisCloud dá-lhe uma licença pessoal, mundial, isenta de royalties, não atribuível e não exclusiva para utilizar o software fornecido . Esta licença tem como único objetivo permitir-lhe usar e gozar os benefícios dos Serviços da DisCloud, como previsto nos Termos.
 
-7.2 Você não pode \(e não pode permitir a mais ninguém\): \(a\) copiar, modificar, criar uma obra derivada, de engenharia reversa, decompor ou de outro modo tentar extrair o código-fonte dos Serviços da DisCloud ou qualquer parte dele, a menos que que seja expressamente permitido ou exigido por lei, ou a menos que lhe tenha sido especificamente dito que você pode fazê-lo pela DisCloud, por escrito \(por exemplo, através de uma fonte aberta licença de software\); ou \(b\) tentar desativar ou contornar qualquer mecanismo de segurança usados ​​pelos Serviços da DisCloud ou quaisquer aplicativos em execução nos Serviços da DisCloud.
+7.2 Você não pode (e não pode permitir a mais ninguém): (a) copiar, modificar, criar uma obra derivada, de engenharia reversa, decompor ou de outro modo tentar extrair o código-fonte dos Serviços da DisCloud ou qualquer parte dele, a menos que que seja expressamente permitido ou exigido por lei, ou a menos que lhe tenha sido especificamente dito que você pode fazê-lo pela DisCloud, por escrito (por exemplo, através de uma fonte aberta licença de software); ou (b) tentar desativar ou contornar qualquer mecanismo de segurança usados ​​pelos Serviços da DisCloud ou quaisquer aplicativos em execução nos Serviços da DisCloud.
 
 7.3 Licenças de software de código aberto para componentes dos Serviços da DisCloud liberados sob uma licença open source constituem contratos escritos em separado. Na medida em que as licenças de software de código aberto substituem expressamente estes Termos, as licenças de código aberto regem o seu contrato com a DisCloud para a utilização dos componentes dos Serviços da DisCloud liberado sob uma licença de código aberto.
 
-7.4 DisCloud concede a você uma licença limitada, não exclusiva, isenta de royalties, licença não-transferível, com o direito de sub-licença, para exibir as marcas DisCloud e / ou logotipos, tal como previsto aqui \("Marcas"\) para o único propósito de promoção ou publicidade que você usar os Serviços da DisCloud. Você concorda que todo ágio gerado através de seu uso das Marcas DisCloud reverterá em benefício da DisCloud.
+7.4 DisCloud concede a você uma licença limitada, não exclusiva, isenta de royalties, licença não-transferível, com o direito de sub-licença, para exibir as marcas DisCloud e / ou logotipos, tal como previsto aqui ("Marcas") para o único propósito de promoção ou publicidade que você usar os Serviços da DisCloud. Você concorda que todo ágio gerado através de seu uso das Marcas DisCloud reverterá em benefício da DisCloud.
 
 ## 8. Sua Licença
 
@@ -85,9 +85,9 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 8.2 Ao adicionar um colaborador para o seu bot, você decide conceder a esse usuário uma licença não exclusiva, isenta de royalties, licença não-transferível, com o direito de sub-licença, para usar, exibir, executar, reproduzir, modificar, publicar, distribuir, listar informações sobre, editar, traduzir conteúdo conforme permitido pela funcionalidade dos Serviços da DisCloud.
 
-8.3 Você pode escolher ou poderemos convidá-lo para enviar comentários ou ideias sobre os serviços da DisCloud, incluindo, sem limitação sobre como melhorar os Serviços da DisCloud ou nossos produtos \("Ideias"\). Ao submeter qualquer idéia, você concorda que a sua divulgação é gratuita, não solicitada e sem restrição e que nós somos livres para usar a idéia sem qualquer compensação adicional para você, e / ou divulgar Idéia em uma base não confidencial ou de outra forma a ninguém.
+8.3 Você pode escolher ou poderemos convidá-lo para enviar comentários ou ideias sobre os serviços da DisCloud, incluindo, sem limitação sobre como melhorar os Serviços da DisCloud ou nossos produtos ("Ideias"). Ao submeter qualquer idéia, você concorda que a sua divulgação é gratuita, não solicitada e sem restrição e que nós somos livres para usar a idéia sem qualquer compensação adicional para você, e / ou divulgar Idéia em uma base não confidencial ou de outra forma a ninguém.
 
-8.4 Você concorda que a DisCloud, a seu exclusivo critério, poderá usar seus nomes comerciais, marcas comerciais, marcas de serviço, logótipos, nomes de domínio e outras características distintivas da marca em apresentações, materiais de marketing, listas de clientes, relatórios financeiros e listas de sites \(incluindo links para seu site\) para fins de publicidade ou divulgar o seu uso dos Serviços da DisCloud.
+8.4 Você concorda que a DisCloud, a seu exclusivo critério, poderá usar seus nomes comerciais, marcas comerciais, marcas de serviço, logótipos, nomes de domínio e outras características distintivas da marca em apresentações, materiais de marketing, listas de clientes, relatórios financeiros e listas de sites (incluindo links para seu site) para fins de publicidade ou divulgar o seu uso dos Serviços da DisCloud.
 
 ## 9. Manutenções
 
@@ -95,7 +95,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 ## 10. Recomendações
 
-10.1 DisCloud pode, e você nos concede permissão para, fazer recomendações através dos serviços da DisCloud para produtos ou serviços que acreditamos possam ser de interesse para você, baseado em seu aplicativo \(s\), Conteúdo e / ou utilização dos Serviços da DisCloud. Nós nunca iremos fazer recomendações diretamente para seus usuários finais.
+10.1 DisCloud pode, e você nos concede permissão para, fazer recomendações através dos serviços da DisCloud para produtos ou serviços que acreditamos possam ser de interesse para você, baseado em seu aplicativo (s), Conteúdo e / ou utilização dos Serviços da DisCloud. Nós nunca iremos fazer recomendações diretamente para seus usuários finais.
 
 ## 11. Modificação e Cancelamento dos Serviços da DisCloud
 
@@ -105,7 +105,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 11.3 Você concorda que DisCloud, a seu exclusivo critério e por qualquer motivo ou sem motivo, pode encerrar sua conta ou qualquer parte dela. Você concorda que qualquer rescisão de seu acesso aos Serviços da DisCloud pode ser, sem aviso prévio, e você concorda que DisCloud não será responsabilizada por você ou qualquer parceiro por essa rescisão.
 
-11.4 Você é o único responsável pela exportação de seu conteúdo e Aplicação \(s\) a partir dos Serviços da DisCloud antes do término de sua conta, por qualquer razão, desde que se encerrar sua conta, iremos fornecer-lhe uma oportunidade razoável para recuperar o seu conteúdo e aplicação \(ões\).
+11.4 Você é o único responsável pela exportação de seu conteúdo e Aplicação (s) a partir dos Serviços da DisCloud antes do término de sua conta, por qualquer razão, desde que se encerrar sua conta, iremos fornecer-lhe uma oportunidade razoável para recuperar o seu conteúdo e aplicação (ões).
 
 11.5 Após o término dos Serviços da DisCloud ou de sua conta, estes Termos também terminarão, mas Seções 1, 5, 6, 11, 12, 13, 14 e 17 devem continuar sendo eficazes depois destes Termos terminados.
 
@@ -113,17 +113,17 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 **11.2 O usuário entende e concorda que o uso do serviço discloud é por sua conta e risco e que os serviços da discloud são fornecidos "como estão" e "como disponível".**
 
-**11.3 DisCloud, as suas subsidiárias e afiliadas e seus licenciados não fazem garantias expressas e rejeitam todas as garantias implícitas sobre os serviços da DisCloud, incluindo garantias de comercialização, adequação a um determinado fim e não-violação. sem limitar a generalidade do anterior, DisCloud, as suas subsidiárias e afiliadas e licenciadores não garantem que: \(a\) uso dos serviços da DisCloud atenderá a suas necessidades, \(b\) o uso dos serviços da discloud será ininterrupto, pontual, seguro e isento de erros, e \(c\) dados de uso fornecido através da DisCloud serão precisos.**
+**11.3 DisCloud, as suas subsidiárias e afiliadas e seus licenciados não fazem garantias expressas e rejeitam todas as garantias implícitas sobre os serviços da DisCloud, incluindo garantias de comercialização, adequação a um determinado fim e não-violação. sem limitar a generalidade do anterior, DisCloud, as suas subsidiárias e afiliadas e licenciadores não garantem que: (a) uso dos serviços da DisCloud atenderá a suas necessidades, (b) o uso dos serviços da discloud será ininterrupto, pontual, seguro e isento de erros, e (c) dados de uso fornecido através da DisCloud serão precisos.**
 
 ## 12. Limitação de Responsabilidade
 
-12.1 Sujeito à Seção 12.1 ACIMA, O USUÁRIO ENTENDE E CONCORDA QUE A DISCLOUD, AS SUAS SUBSIDIÁRIAS E AFILIADAS E SEUS LICENCIADORES NÃO SERÃO RESPONSÁVEIS POR QUALQUER DANO DIRETO, INDIRETO, ACIDENTAL, OU CONSEQUÊNCIA DE DANOS ESPECIAIS QUE POSSAM SER SOFRIDOS POR VOCÊ, NO ENTANTO CAUSADOS E SOB QUALQUER TEORIA DE RESPONSABILIDADE. ESTA INFORMAÇÃO DEVE INCLUIR MAS NÃO SE LIMITANDO A, QUALQUER PERDA DE LUCROS \(INCORRIDA DIRETA OU INDIRETAMENTE\), QUALQUER PERDA DE BOA VONTADE OU REPUTAÇÃO DE NEGÓCIOS, SOFRER PERDA DE DADOS, CUSTOS DE AQUISIÇÃO DE BENS OU SERVIÇOS OU OUTRA PERDA INTANGÍVEL.
+12.1 Sujeito à Seção 12.1 ACIMA, O USUÁRIO ENTENDE E CONCORDA QUE A DISCLOUD, AS SUAS SUBSIDIÁRIAS E AFILIADAS E SEUS LICENCIADORES NÃO SERÃO RESPONSÁVEIS POR QUALQUER DANO DIRETO, INDIRETO, ACIDENTAL, OU CONSEQUÊNCIA DE DANOS ESPECIAIS QUE POSSAM SER SOFRIDOS POR VOCÊ, NO ENTANTO CAUSADOS E SOB QUALQUER TEORIA DE RESPONSABILIDADE. ESTA INFORMAÇÃO DEVE INCLUIR MAS NÃO SE LIMITANDO A, QUALQUER PERDA DE LUCROS (INCORRIDA DIRETA OU INDIRETAMENTE), QUALQUER PERDA DE BOA VONTADE OU REPUTAÇÃO DE NEGÓCIOS, SOFRER PERDA DE DADOS, CUSTOS DE AQUISIÇÃO DE BENS OU SERVIÇOS OU OUTRA PERDA INTANGÍVEL.
 
 12.2 AS LIMITAÇÕES DE RESPONSABILIDADE DA DISCLOUD PARA VOCÊ NO PARÁGRAFO 13.1 ACIMA, SERÃO APLICÁVEIS OU NÃO CASO A DISCLOUD TENHA SIDO AVISADO DE OU DEVERIA TER CONHECIMENTO DA POSSIBILIDADE DE OCORRÊNCIA DE TAIS PERDAS.
 
 ## 13. Indenização
 
-13.1 Você concorda em isentar e indenizar A DisCloud, e suas subsidiárias, afiliadas, diretores, agentes, funcionários, anunciantes, licenciadores, fornecedores ou parceiros \(coletivamente "DisCloud e Parceiros"\) de e contra qualquer reivindicação de terceiros decorrentes ou de qualquer forma relacionada com \(a\) a sua violação dos Termos, \(b\) o uso dos Serviços da DisCloud, \(c\) violação de leis, normas ou regulamentos em conexão com os Serviços da DisCloud, ou \(d\) o seu conteúdo ou a sua aplicação, incluindo qualquer responsabilidade ou despesa proveniente de reclamações, perdas, danos \(diretos e conseqüenciais\), ações judiciais, sentenças, despesas processuais e honorários advocatícios, de qualquer tipo e natureza. Em tal caso, DisCloud irá fornecer-lhe um aviso por escrito de tal reclamação, processo ou ação.
+13.1 Você concorda em isentar e indenizar A DisCloud, e suas subsidiárias, afiliadas, diretores, agentes, funcionários, anunciantes, licenciadores, fornecedores ou parceiros (coletivamente "DisCloud e Parceiros") de e contra qualquer reivindicação de terceiros decorrentes ou de qualquer forma relacionada com (a) a sua violação dos Termos, (b) o uso dos Serviços da DisCloud, (c) violação de leis, normas ou regulamentos em conexão com os Serviços da DisCloud, ou (d) o seu conteúdo ou a sua aplicação, incluindo qualquer responsabilidade ou despesa proveniente de reclamações, perdas, danos (diretos e conseqüenciais), ações judiciais, sentenças, despesas processuais e honorários advocatícios, de qualquer tipo e natureza. Em tal caso, DisCloud irá fornecer-lhe um aviso por escrito de tal reclamação, processo ou ação.
 
 ## 14. Política de Direitos Autorais
 
@@ -137,27 +137,26 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 ## 16. Alterações nos Termos
 
-16.1 DisCloud pode fazer alterações nos Termos de tempos em tempos. Se mudarmos os Termos de nenhuma forma substantiva, damos-lhe, pelo menos, sete \(7\) dias de aviso antes que as alterações entrem em vigor, período de tempo que você pode rejeitar as alterações encerrando sua conta.
+16.1 DisCloud pode fazer alterações nos Termos de tempos em tempos. Se mudarmos os Termos de nenhuma forma substantiva, damos-lhe, pelo menos, sete (7) dias de aviso antes que as alterações entrem em vigor, período de tempo que você pode rejeitar as alterações encerrando sua conta.
 
 16.2 Você compreende e concorda que, se utilizar os Serviços da DisCloud após a data em que os Termos foram alterados, DisCloud tomará o seu uso como uma aceitação dos Termos atualizados.
 
 ## 17. Termos jurídicos gerais
 
-17.1 Os Termos constituem o contrato integral entre você e a DisCloud e regulam a utilização dos Serviços da DisCloud \(excluindo quaisquer serviços que possam eventualmente ser fornecidos com um contrato escrito em separado\), e substituem na íntegra quaisquer contratos anteriores entre você e a DisCloud em relação aos Serviços da DisCloud.
+17.1 Os Termos constituem o contrato integral entre você e a DisCloud e regulam a utilização dos Serviços da DisCloud (excluindo quaisquer serviços que possam eventualmente ser fornecidos com um contrato escrito em separado), e substituem na íntegra quaisquer contratos anteriores entre você e a DisCloud em relação aos Serviços da DisCloud.
 
-17.2 Não existem terceiros beneficiários destes Termos. As partes são contratantes independentes, e nada nestes termos cria uma agência, parceria ou joint venture \(empreendimento conjunto\).
+17.2 Não existem terceiros beneficiários destes Termos. As partes são contratantes independentes, e nada nestes termos cria uma agência, parceria ou joint venture (empreendimento conjunto).
 
 17.3 Se DisCloud fornece-lhe uma tradução da versão destes Termos, a versão destes Termos no idioma Português irá controlar qualquer conflito.
 
 17.4 Você concorda que DisCloud pode lhe enviar avisos, incluindo aqueles sobre alterações feitas aos Termos, por e-mail, correio normal ou publicações nos Serviços da DisCloud. Ao fornecer o seu endereço de e-mail DisCloud, você concorda em utilizarmos o endereço de e-mail para enviar-lhe quaisquer avisos exigidos por lei em vez de a comunicação por correio postal.
 
-17.5 Você concorda que se DisCloud não exercer ou utilizar qualquer direito legal ou direito reconhecido contido nos Termos \(ou ao qual o DisCloud tem direito nos termos de qualquer lei aplicável\), isso não será considerado como uma renúncia formal aos direitos da DisCloud e que esses direitos ou recursos ainda estarão disponíveis para DisCloud.
+17.5 Você concorda que se DisCloud não exercer ou utilizar qualquer direito legal ou direito reconhecido contido nos Termos (ou ao qual o DisCloud tem direito nos termos de qualquer lei aplicável), isso não será considerado como uma renúncia formal aos direitos da DisCloud e que esses direitos ou recursos ainda estarão disponíveis para DisCloud.
 
 17.6 A DisCloud não será responsável por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
 
 17.7 Os Termos, e o relacionamento entre a DisCloud conforme os Termos, serão regidos pelas leis do Estado da Flórida, EUA, independentemente do conflito de cláusulas legais. Você e DisCloud concordam em submeter exclusivamente aos tribunais federais localizados no condado de Orange, EUA, a resolução de quaisquer questões legais resultantes dos Termos.
 
-17.8 Nenhuma das partes poderá ceder nenhum dos seus direitos ou obrigações destes Termos, seja por força de lei ou de outra forma, sem o prévio consentimento por escrito da outra parte \(para não ser omisso\). Não obstante, qualquer das partes pode atribuir a totalidade dos seus direitos e obrigações ao abrigo destes Termos, sem o consentimento da outra parte, a sua filial ou em conexão com uma fusão, aquisição, reorganização societária ou venda de todos ou substancialmente todo o seu ativos não envolvendo um concorrente direto da outra parte.
+17.8 Nenhuma das partes poderá ceder nenhum dos seus direitos ou obrigações destes Termos, seja por força de lei ou de outra forma, sem o prévio consentimento por escrito da outra parte (para não ser omisso). Não obstante, qualquer das partes pode atribuir a totalidade dos seus direitos e obrigações ao abrigo destes Termos, sem o consentimento da outra parte, a sua filial ou em conexão com uma fusão, aquisição, reorganização societária ou venda de todos ou substancialmente todo o seu ativos não envolvendo um concorrente direto da outra parte.
 
 `Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Google, Inc. não possui vínculo e não patrocina ou endossa a DisCloud ou o seu uso da obra.`
-
