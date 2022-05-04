@@ -13,7 +13,7 @@ Segundo a [documentação do pip sobre arquivos requirements](https://pip.pypa.i
 &#x20;Considerando esse `requirements.txt` aqui:
 
 ```
--e git+https://github.com/jtemporal/caipyra.git@master#egg=caipyra
+git+https://github.com/jtemporal/caipyra.git@master#egg=caipyra
 discord
 seaborn==0.8.1
 pandas>=0.18.1
