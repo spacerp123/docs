@@ -4,21 +4,7 @@
 
 ## :gear: Como Utilizar
 
-{% code title="discloud.config" %}
-```tsconfig
-ID=ID_DO_BOT        // ID do seu Bot ou subdomínio do seu Site
-TYPE=bot            // Tipo de aplicaçao: bot ou site
-MAIN=index.js       // Nome ou caminho do arquivo principal, index.js ou src/index.js
-RAM=100             // Quantidade de memória RAM em MB
-AUTORESTART=false   // Se a sua aplicação cair e desejar que reinicie novamente coloque true
-VERSION=latest      // Muda a versão da imagem do container
-APT=tools, ffmpeg   // Instale um pacote ou vários separados por virgula, na instância Linux da sua Aplicação.
-```
-{% endcode %}
-
-{% hint style="warning" %}
-Se precisar cópiar use os **exemplos abaixo** para evitar espaços nos valores.
-{% endhint %}
+![](../../.gitbook/assets/discloud-config-pt.png)
 
 > Consulte a lista de opções para: [VERSION](discloud.config.md#versoes-disponiveis-no-version), [APT](discloud.config.md#pacotes-disponiveis-no-apt)
 
