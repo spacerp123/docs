@@ -4,17 +4,7 @@
 
 ## :gear: How to Use
 
-{% code title="discloud.config" %}
-```tsconfig
-ID=ID_DO_BOT        // ID of your bot or subdomain of your site
-TYPE=bot            // Type of application: bot or site
-MAIN=index.js       // Name or path of the main file, index.js or src/index.js
-RAM=100             // Amount of RAM in MB
-AUTORESTART=false   // If your application crashes and you want it to restart again set true
-VERSION=latest      // Change the version of the container image
-APT=tools, ffmpeg   // Install one package, or several comma-separated packages, in the Linux instance of your Application.
-```
-{% endcode %}
+![](../../.gitbook/assets/discloud-config-en.png)
 
 {% hint style="warning" %}
 If you need to copy, use the **examples below** to avoid spaces in the values.
