@@ -6,10 +6,6 @@
 
 ![](../../.gitbook/assets/discloud-config-en.png)
 
-{% hint style="warning" %}
-If you need to copy, use the **examples below** to avoid spaces in the values.
-{% endhint %}
-
 > See the list of options for: [VERSION](discloud.config.md#versoes-disponiveis-no-version), [APT](discloud.config.md#pacotes-disponiveis-no-apt)
 
 > If you are making a `bot` or a `website` you can base yourself on the examples below:
