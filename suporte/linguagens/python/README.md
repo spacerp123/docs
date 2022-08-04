@@ -2,38 +2,38 @@
 description: Aprenda a hospedar seu bot em Python na DisCloud
 ---
 
-# 🐍Python
+# 🐍 Python
 
-## 📥 Arquivos principais
+## :file\_folder: Arquivos
 
-**`main.py`** e **`requirements.txt`**
+```diff
+Arquivos Mínimos Necessários
++ Arquivo principal (Exemplo: main.py)
++ Arquivo requirements.txt
++ Outros (Se o seu bot depender de outros arquivos deve incluir)
+Não Necessários
+- Pasta .git
+- Arquivo LICENSE
+```
 
-![O arquivo principal do seu bot, ou seja, o local onde est&#xE1; o bot.run\(\). GERALMENTE &#xE9; main.py](../../../.gitbook/assets/capturar%20%281%29.PNG)
+> * Dúvidas para encontrar o seu arquivo principal? [Clique aqui](../../faq/arquivo-principal.md#arquivos-principais-gerais)
+> * Dúvidas em criar o seu  arquivo `requirements.txt`? [Clique aqui](criar-requirements.txt.md)
 
-{% hint style="warning" %}
-**Quaisquer outros arquivos que seja necessário em seu Bot sem ser esses dois podem ser adicionados**. \(Isso vale para as cogs também\).
-{% endhint %}
+{% content-ref url="criar-requirements.txt.md" %}
+[criar-requirements.txt.md](criar-requirements.txt.md)
+{% endcontent-ref %}
 
-{% page-ref page="../../faq/qual-o-arquivo-principal.md" %}
+## :compression: Compactando os arquivos
 
-## Requirements
+Selecione apenas os arquivos necessários, como mencionado em cima e crie o seu **.zip**
 
-O `requirements.txt` deve conter as bibliotecas usadas no seu Bot, por padrão, deve no mínimo conter a livraria `discord.py`, caso use a livraria `disco-py` basta substituir.
+![](../../../.gitbook/assets/py-zip.gif)
 
-{% hint style="warning" %}
-As bibliotecas **NÃO SÃO as que você importa**, e sim as que você instala.  
-Ex.: **`import PIL`** mas você instala usando **`pip install pillow`**, logo deve ser colocado **pillow** e não **PIL** no seu arquivo `requirements.txt`
-{% endhint %}
+Para mais detalhes sobre como **Compactar os seus Arquivos** de acordo com o seu **Sistema Operativo**, pode consultar em baixo:
 
-{% page-ref page="exemplo-do-requirements.txt.md" %}
-
-## Preparando seu Bot para enviar para a Discloud
-
-• Faça um **`.zip`** com os arquivos.
-
-{% page-ref page="../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
-
-![Exemplo no Windows](../../../.gitbook/assets/image%20%2813%29.png)
+{% content-ref url="../../faq/zip.md" %}
+[zip.md](../../faq/zip.md)
+{% endcontent-ref %}
 
 ## ✍ Hospedando o seu Bot
 
@@ -41,13 +41,10 @@ Ex.: **`import PIL`** mas você instala usando **`pip install pillow`**, logo de
 Escolha o método para hospedar seu Bot na Discloud:
 {% endhint %}
 
-{% page-ref page="../../como-hospedar/website.md" %}
+{% content-ref url="../../hospedar/sites/via-painel-de-controle.md" %}
+[via-painel-de-controle.md](../../hospedar/sites/via-painel-de-controle.md)
+{% endcontent-ref %}
 
-{% page-ref page="../../como-hospedar/discord.md" %}
-
-## ✅ Finalizado <a id="finalizado"></a>
-
-Pronto, em alguns segundos ou minutos, o seu Bot estará online.
-
-![](../../../.gitbook/assets/capturar.PNG)
-
+{% content-ref url="../../hospedar/bots/discord.md" %}
+[discord.md](../../hospedar/bots/discord.md)
+{% endcontent-ref %}

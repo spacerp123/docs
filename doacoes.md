@@ -5,37 +5,26 @@ description: >-
   operacionais.
 ---
 
-# Doações
+# 🤲 Doações
 
-## 💎 Benefícios
+### :dollar: Métodos de Pagamento
 
-| Benéfico | Memória | CPU | Max. Bots | Preço \(R$\) | Moderadores | Git | Slot ilimitado | Timer |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![](.gitbook/assets/free.png) Free | **100mb** | 0.25 | 1 | - | 0 | Não | Não | Sim |
-| ![](.gitbook/assets/booster.png) Booster | **100mb** | 0.25 | 1 | - | 0 | Não | Sim | Não |
-| ![](.gitbook/assets/carbon.png) Carbon | **200mb** | 0.25 | 2 | 1,99 | 0 | Sim | Sim | Não |
-| ![](.gitbook/assets/gold.png) Gold | **512mb** | 0.5 | 5 | 5,99 | 1 | Sim | Sim | Não |
-| ![](.gitbook/assets/platinum.png) Platinum | **1Gb** | 1 | 10 | 10,99 | 2 | Sim | Sim | Não |
-| ![](.gitbook/assets/diamond.png) Diamond | **2Gb** | 2 | 20 | 24,00 | 3 | Sim | Sim | Não |
-| ![](.gitbook/assets/diamond.png) Diamond | **4Gb** | 3 | 40 | 48,00 | 4 | Sim | Sim | Não |
-| ![](.gitbook/assets/sapphire.png) Sapphire | **8Gb** | 4 | 80 | 96,00 | 5 | Sim | Sim | Não |
-| ![](.gitbook/assets/sapphire.png) Sapphire | **16Gb** | 4 | 160 | 192,00 | 6 | Sim | Sim | Não |
+<table><thead><tr><th>Método de Pagamento</th><th data-type="checkbox">Disponível via Site</th><th data-type="checkbox">Disponível via Ticket</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/PayPal.png" alt="" data-size="line"> PayPal</td><td>true</td><td>true</td></tr><tr><td><img src=".gitbook/assets/MercadoPago.png" alt="" data-size="line"> Mercado Pago</td><td>true</td><td>true</td></tr><tr><td><img src=".gitbook/assets/pix.png" alt="" data-size="line"> Pix</td><td>false</td><td>true</td></tr></tbody></table>
 
-## ![](.gitbook/assets/paypal.png) PayPal
+### <img src=".gitbook/assets/discloudlogo (1).png" alt="" data-size="line"> Comprar via Site
 
-Para realizar uma doação via PayPal, acesse o site da [**DisCloud**](https://discloudbot.com/) _\*\*_e selecione o benéfico que deseja. Em seguida, um pop up aparecerá para que você preencha suas informações e dê continuidade a doação.
+Acesse o site [discloudbot.com/plans](https://discloudbot.com/plans) e escolha o seu plano.
+
+![](.gitbook/assets/buy-carbon.gif)
+
+### <img src=".gitbook/assets/ticket-logo.webp" alt="" data-size="line"> Comprar via Ticket
 
 {% hint style="info" %}
-🤩 **Obs:** O benefício será ativado imediatamente após a conclusão do pagamento.
+Se o método de pagamento desejado estiver disponível [via site](doacoes.md#via-site) utilize apenas o **Ticket** se estiver **enfrentando problemas** de pagamento ou quando site estiver **indisponível**.
 {% endhint %}
 
-## ![](.gitbook/assets/mercadopago.png) Mercado Pago
+Consulte abaixo para mais detalhes:
 
-Para efetuar uma doação via Mercado Pago, você deve enviar o valor do benéfico de sua escolha para o e-mail `pedroricardorn@gmail.com`. Em seguida, mande o comprovante para o DM \(Direct Message\) do BOT **`@DisCloud ModMail#6424`** \(ou de um membro da **`@DisCloud Staff`** caso o BOT esteja indisponível\).
-
-Para mais informações sobre nossos benéficos, basta digitar `.planos` no canal de comandos do servidor ou acessar nosso [site](https://discloudbot.com/).
-
-{% hint style="warning" %}
-👨💻 **Nota:** O benefício será ativado manualmente por algum Staff.
-{% endhint %}
-
+{% content-ref url="suporte/faq/ticket.md" %}
+[ticket.md](suporte/faq/ticket.md)
+{% endcontent-ref %}
