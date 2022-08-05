@@ -4,6 +4,8 @@ description: Seja Bem-vindo a documentação oficial da DisCloud.
 
 # Bem-Vindo
 
+![](.gitbook/assets/docs-search.gif)
+
 ## 📜 Sobre Esta Documentação
 
 ### Objetivos
