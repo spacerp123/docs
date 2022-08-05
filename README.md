@@ -4,7 +4,7 @@ description: Welcome to the official DisCloud documentation.
 
 # Welcome
 
-![](.gitbook/assets/docs-search.gif)
+![](.gitbook/assets/discloud-search.gif)
 
 ## 📜 About This Documentation
 
