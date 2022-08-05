@@ -4,9 +4,7 @@ description: Welcome to the official DisCloud documentation.
 
 # Welcome
 
-{% hint style="warning" %}
-#### Translation in progress
-{% endhint %}
+![](.gitbook/assets/docs-search.gif)
 
 ## 📜 About This Documentation
 
