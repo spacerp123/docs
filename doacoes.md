@@ -28,3 +28,7 @@ Consulte abaixo para mais detalhes:
 {% content-ref url="suporte/faq/ticket.md" %}
 [ticket.md](suporte/faq/ticket.md)
 {% endcontent-ref %}
+
+### :arrows\_counterclockwise: Renovar um plano
+
+Se o [método de pagamento](doacoes.md#metodos-de-pagamento) desejado estiver disponível pelo nosso site, recomendamos que renove o seu plano por ele, assim o processo de renovação torna-se mais rápido!
