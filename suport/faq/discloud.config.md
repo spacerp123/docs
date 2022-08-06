@@ -12,6 +12,10 @@
 
 {% tabs %}
 {% tab title="🤖 Bot Example" %}
+{% hint style="info" %}
+To host a bot you need at least `100MB` of ram
+{% endhint %}
+
 {% code title="discloud.config" %}
 ```tsconfig
 ID=584499142902939692
