@@ -15,6 +15,8 @@ It can deal with delicate and private matters that need the team's intervention,
 > * If you need to buy a plan by alternative methods or if the site is not working properly (we accept PayPal, MercadoPago, and Pix)
 > * If you need to report a user
 
+![Hi can you help me](../../.gitbook/assets/podemeajudar.gif)
+
 {% hint style="danger" %}
 #### Just send a DM to a staff member if the bot is unavailable.
 
