@@ -6,10 +6,10 @@
 
 * [☁ Como Hospedar](suporte/hospedar/README.md)
   * [🌎 Sites](suporte/hospedar/sites/README.md)
-    * [via Painel de Controle](suporte/hospedar/sites/via-painel-de-controle.md)
+    * [via Painel de Controle (em breve)](suporte/hospedar/sites/via-painel-controle.md)
     * [via Discord](suporte/hospedar/sites/discord.md)
   * [🤖 Bots](suporte/hospedar/bots/README.md)
-    * [via Painel de Controle](suporte/hospedar/bots/via-painel-de-controle.md)
+    * [via Painel de Controle (em breve)](suporte/hospedar/bots/via-painel-controle.md)
     * [via Discord](suporte/hospedar/bots/discord.md)
 * [⌨ Linguagens](suporte/linguagens/README.md)
   * [📦 JavaScript](suporte/linguagens/javascript/README.md)
@@ -40,6 +40,7 @@
   * [Bot muito pesado](suporte/faq/botpesado.md)
   * ["Você já possui uma conta registrada no sistema"](suporte/faq/2acc.md)
   * [A host aceita o arquivo .env?](suporte/faq/env.md)
+  * [Porque não consigo acessar o meu site?](suporte/faq/porque-nao-consigo-acessar-o-meu-site.md)
 * [⚒ Comandos](suporte/comandos/README.md)
   * [api](suporte/comandos/api.md)
 

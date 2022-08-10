@@ -7,5 +7,3 @@
 * Necessita de um **Plano Platina ou superior**.
 * Necessita de um **subdomínio**. (registre utilizando o comando **`.subdominio`** ou abreviação **`.sd`**)&#x20;
 * Você deve utilizar a porta `8080` na sua aplicação.
-
-##
