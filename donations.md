@@ -8,7 +8,7 @@ description: >-
 
 ### :dollar: Payment Methods
 
-<table><thead><tr><th>Payment Method</th><th data-type="checkbox">Available via Website</th><th data-type="checkbox">Available via Ticket</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/PayPal.png" alt="" data-size="line"> PayPal</td><td>true</td><td>true</td></tr></tbody></table>
+<table><thead><tr><th>Payment Method</th><th data-type="checkbox">Available via Website</th><th data-type="checkbox">Available via Ticket</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/paypal.png" alt="" data-size="line"> PayPal</td><td>true</td><td>true</td></tr></tbody></table>
 
 ### <img src=".gitbook/assets/discloudlogo (1).png" alt="" data-size="line"> Buy via WebSite
 

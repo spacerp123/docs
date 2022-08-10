@@ -30,30 +30,16 @@ Within this chat will appear instructions that must be filled out correctly to a
 
 > You can refer to the commands using .help or .help \<command> to find out how to use the mentioned command.
 
-{% hint style="info" %}
-If you have any questions on how to correctly fill in the information requested by the bot, please refer to our [FAQ](../../faq/)
-{% endhint %}
-
-{% content-ref url="../../faq/" %}
-[faq](../../faq/)
-{% endcontent-ref %}
-
-{% content-ref url="../../faq/id-bot.md" %}
-[id-bot.md](../../faq/id-bot.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../faq/arquivo-principal.md" %}
-[arquivo-principal.md](../../faq/arquivo-principal.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../faq/zip.md" %}
-[zip.md](../../faq/zip.md)
-{% endcontent-ref %}
-
 ### :gear: Using the `discloud.config` file
 
 Send your applications faster!
 
 {% content-ref url="../../faq/discloud.config.md" %}
 [discloud.config.md](../../faq/discloud.config.md)
+{% endcontent-ref %}
+
+### :mag\_right: Common problems
+
+{% content-ref url="../../faq/why-cant-i-access-my-website.md" %}
+[why-cant-i-access-my-website.md](../../faq/why-cant-i-access-my-website.md)
 {% endcontent-ref %}

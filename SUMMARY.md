@@ -6,21 +6,21 @@
 
 * [☁ How to Host](suport/host/README.md)
   * [🌎 Sites](suport/host/sites/README.md)
-    * [via Dashboard](suport/host/sites/via-dashboard.md)
+    * [via Dashboard (coming soon)](suport/host/sites/via-dashboard.md)
     * [via Discord](suport/host/sites/discord.md)
-  * [🤖 Bots](suport/host/bots/README.md)
-    * [via Dashboard](suport/host/bots/via-dashboard.md)
+  * [🤖 Bots](suporte/hospedar/bots/README.md)
+    * [via Dashboard (coming soon)](suport/host/bots/via-dashboard.md)
     * [via Discord](suport/host/bots/discord.md)
 * [⌨ Languages](suport/languages/README.md)
   * [📦 JavaScript](suport/languages/javascript/README.md)
     * [📄 Create the package.json](suport/languages/javascript/package.json.md)
   * [🐍 Python](suport/languages/python/README.md)
     * [📄 Create the requirements.txt](suport/languages/python/requirements.txt.md)
-  * [☕ Java](suport/languages/java.md)
+  * [☕ Java](suporte/linguagens/java.md)
   * [💎 Ruby](suport/languages/ruby/README.md)
-    * [📄 Criar o Gemfile](suport/languages/ruby/gemfile.md)
-  * [🐿 Go](suport/languages/go.md)
-  * [🐘 Php](suport/languages/php.md)
+    * [📄 Criar o Gemfile](suporte/linguagens/ruby/gemfile.md)
+  * [🐿 Go](suporte/linguagens/go.md)
+  * [🐘 Php](suporte/linguagens/php.md)
 * [⛓ Integrations](suport/integrations/README.md)
   * [Lavalink](suport/integrations/lavalink.md)
   * [GitHub e GitLab](suport/integrations/github-e-gitlab/README.md)
@@ -34,8 +34,9 @@
   * [How do I get my bot's ID?](suport/faq/id-bot.md)
   * [What is the main file?](suport/faq/arquivo-principal.md)
   * [How to report an offender?](suport/faq/report.md)
+  * [Why can't I access my website?](suport/faq/why-cant-i-access-my-website.md)
 * [⚒ Commands](suport/commands/README.md)
-  * [api](suport/commands/api.md)
+  * [api](suporte/comandos/api.md)
 
 ***
 
@@ -45,7 +46,7 @@
 
 * [Discloud Brand](about/discloud-brand/README.md)
   * [Name origin](about/discloud-brand/name-origin.md)
-  * [Identidade Visual](about/discloud-brand/identidade-visual.md)
+  * [Identidade Visual](sobre/discloud-brand/identidade-visual.md)
   * [Site](https://discloudbot.com/)
 
 ## 📜 Legal

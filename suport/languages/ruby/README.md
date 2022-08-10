@@ -24,10 +24,10 @@ Não Necessários
 ```
 
 > * Dúvidas para encontrar o seu arquivo principal? [Clique aqui](../../faq/arquivo-principal.md#arquivos-principais-gerais)
-> * Dúvidas em criar o seu  arquivo `Gemfile`? [Clique aqui](gemfile.md)
+> * Dúvidas em criar o seu  arquivo `Gemfile`? [Clique aqui](../../../suporte/linguagens/ruby/gemfile.md)
 
-{% content-ref url="gemfile.md" %}
-[gemfile.md](gemfile.md)
+{% content-ref url="../../../suporte/linguagens/ruby/gemfile.md" %}
+[gemfile.md](../../../suporte/linguagens/ruby/gemfile.md)
 {% endcontent-ref %}
 
 ### :compression: Compactando os Arquivos
