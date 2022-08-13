@@ -6,7 +6,7 @@
 
 ![](../../.gitbook/assets/discloud-config-en.png)
 
-> See the list of options for: [VERSION](discloud.config.md#versoes-disponiveis-no-version), [APT](discloud.config.md#pacotes-disponiveis-no-apt)
+> See the list of options for: [VERSION](discloud.config.md#versions-available-in-version), [APT](discloud.config.md#packages-available-in-apt)
 
 > If you are making a `bot` or a `website` you can base yourself on the examples below:
 
