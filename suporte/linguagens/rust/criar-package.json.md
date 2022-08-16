@@ -8,13 +8,19 @@ O arquivo `Cargo.toml` é um arquivo manifesto do **gerenciador de pacotes cargo
 
 ### Como criar o arquivo `Cargo.toml`?
 
-#### Começando um novo [package](https://doc.rust-lang.org/cargo/appendix/glossary.html#package) com Cargo
+#### Começando um novo [package](https://doc.rust-lang.org/cargo/appendix/glossary.html#package) com Cargo num diretório existente
 
 Abra o Terminal no diretório do seu projeto e execute:
 
 ```shell
 cargo init
 ```
+
+> Se preferir que o Cargo crie o diretório automaticamente use `cargo new botrs`
+
+{% hint style="info" %}
+Modifique **botrs** para o nome do seu projeto seguindo a estrutura **snake\_case** ou **kebab-case**
+{% endhint %}
 
 ![](../../../.gitbook/assets/cargo\_init.png)
 
@@ -35,6 +41,8 @@ Você precisa do **Rust e Cargo** instalado no seu computador, caso não esteja 
 ### [Baixe o Rust Aqui](https://static.rust-lang.org/rustup/dist/i686-pc-windows-gnu/rustup-init.exe)
 
 > [Outros metodos de instalação](https://forge.rust-lang.org/infra/other-installation-methods.html)
+
+![](../../../.gitbook/assets/rust-win.png)
 
 ### Verifique a Instalação do Rust
 
