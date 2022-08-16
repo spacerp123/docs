@@ -14,24 +14,38 @@ Arquivos desnecessários:
 - Pasta .git
 ```
 
+{% content-ref url="criar-package.json.md" %}
+[criar-package.json.md](criar-package.json.md)
+{% endcontent-ref %}
+
+## :compression: Compactando os arquivos
+
+![](../../../.gitbook/assets/zip-botrs.png)
+
+Para mais detalhes sobre como **Compactar os seus Arquivos** de acordo com o seu **Sistema Operativo**, pode consultar em baixo:
+
+{% content-ref url="../../faq/zip.md" %}
+[zip.md](../../faq/zip.md)
+{% endcontent-ref %}
+
 ## ✍ Hospedando o seu bot
 
 {% hint style="info" %}
 Escolha o método para hospedar seu Bot na Discloud:
 {% endhint %}
 
-{% content-ref url="../hospedar/sites/via-painel-controle.md" %}
-[via-painel-controle.md](../hospedar/sites/via-painel-controle.md)
+{% content-ref url="../../hospedar/sites/via-painel-controle.md" %}
+[via-painel-controle.md](../../hospedar/sites/via-painel-controle.md)
 {% endcontent-ref %}
 
-{% content-ref url="../hospedar/bots/discord.md" %}
-[discord.md](../hospedar/bots/discord.md)
+{% content-ref url="../../hospedar/bots/discord.md" %}
+[discord.md](../../hospedar/bots/discord.md)
 {% endcontent-ref %}
 
 ## :earth\_americas: Hospedando o Seu Site
 
 {% hint style="info" %}
-Esta funcionalidade necessita de alguns requisitos básicos para poder ser utilizada, por favor consulte os requisitos [aqui](../hospedar/sites/#requisitos) antes de continuar
+Esta funcionalidade necessita de alguns requisitos básicos para poder ser utilizada, por favor consulte os requisitos [aqui](../../hospedar/sites/#requisitos) antes de continuar
 {% endhint %}
 
 ### Utilizando o `Rocket`

@@ -121,4 +121,11 @@ Com o seu [.zip ](zip.md)criado com o `discloud.config` chegou a hora do Upload,
 | ------------------- |
 | latest              |
 {% endtab %}
+
+{% tab title="🦀 Rust" %}
+| Versões Disponíveis |
+| ------------------- |
+| latest              |
+| suja                |
+{% endtab %}
 {% endtabs %}
