@@ -21,6 +21,7 @@
     * [📄 Criar o Gemfile](suporte/linguagens/ruby/gemfile.md)
   * [🐿 Go](suporte/linguagens/go.md)
   * [🐘 Php](suporte/linguagens/php.md)
+  * [🦀 Rust](suporte/linguagens/rust.md)
 * [⛓ Integrações](suporte/integracao/README.md)
   * [Lavalink](suporte/integracao/lavalink.md)
   * [GitHub e GitLab](suporte/integracao/github-e-gitlab/README.md)
@@ -47,8 +48,6 @@
 ***
 
 * [🤲 Doações](doacoes.md)
-
-## APLICAÇÕES
 
 ## Sobre
 

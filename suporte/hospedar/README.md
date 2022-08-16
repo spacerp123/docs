@@ -20,8 +20,8 @@ Recomendamos você ler os [Termos de Serviço](broken-reference) e [Política de
 
 Escolha um método para hospedar o seu site:
 
-{% content-ref url="sites/via-painel-controle.md" %}
-[via-painel-controle.md](sites/via-painel-controle.md)
+{% content-ref url="bots/via-painel-controle.md" %}
+[via-painel-controle.md](bots/via-painel-controle.md)
 {% endcontent-ref %}
 
 {% content-ref url="sites/discord.md" %}
@@ -32,8 +32,8 @@ Escolha um método para hospedar o seu site:
 
 Escolha um método para hospedar o seu bot:
 
-{% content-ref url="bots/via-painel-controle.md" %}
-[via-painel-controle.md](bots/via-painel-controle.md)
+{% content-ref url="sites/via-painel-controle.md" %}
+[via-painel-controle.md](sites/via-painel-controle.md)
 {% endcontent-ref %}
 
 {% content-ref url="bots/discord.md" %}

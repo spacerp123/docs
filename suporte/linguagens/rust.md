@@ -1,18 +1,17 @@
----
-description: Aprenda a hospedar o seu bot
----
-# :crab: Rust
-## Arquivos necessários
+# 🦀 Rust
+
+## :file\_folder: Arquivos
+
 ```diff
 Arquivos Mínimos Necessários
-+ Cargo.toml
-+ src
-+ rust-toolchain.toml ou rust-toolchain (se existir)
-+ Outros arquivos usados na aplicação
++ Arquivo Cargo.toml
++ Pasta src
++ Arquivo rust-toolchain.toml ou rust-toolchain (se existir)
++ Outros (Se o seu projeto depender de outros arquivos ou pastas deve incluir)
 Arquivos desnecessários:
-- Cargo.lock
-- target
-- .git
+- Arquivo Cargo.lock
+- Pasta target
+- Pasta .git
 ```
 
 ## ✍ Hospedando o seu bot
@@ -21,38 +20,46 @@ Arquivos desnecessários:
 Escolha o método para hospedar seu Bot na Discloud:
 {% endhint %}
 
-{% content-ref url="../../hospedar/bots/via-painel-controle.md" %}
-[via-painel-controle.md](../../hospedar/bots/via-painel-controle.md)
+{% content-ref url="../hospedar/sites/via-painel-controle.md" %}
+[via-painel-controle.md](../hospedar/sites/via-painel-controle.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../hospedar/bots/discord.md" %}
-[discord.md](../../hospedar/bots/discord.md)
+{% content-ref url="../hospedar/bots/discord.md" %}
+[discord.md](../hospedar/bots/discord.md)
 {% endcontent-ref %}
 
 ## :earth\_americas: Hospedando o Seu Site
 
 {% hint style="info" %}
-Esta funcionalidade necessita de alguns requisitos básicos para poder ser utilizada, por favor consulte os requisitos [aqui](../../hospedar/sites/#requisitos) antes de continuar
+Esta funcionalidade necessita de alguns requisitos básicos para poder ser utilizada, por favor consulte os requisitos [aqui](../hospedar/sites/#requisitos) antes de continuar
 {% endhint %}
-### Utilizando o Rocket
-Rocket é um framework web feito em rust, atualmente funciona apenas na versão nightly do rust
-```
+
+### Utilizando o `Rocket`
+
+**Rocket** é um framework web feito em rust, atualmente funciona apenas na versão nightly do rust
+
+```shell
 rustup override set nightly
 ```
-### Instalando o Rocket
-Consulte a documentação oficial: https://rocket.rs/
-### Configurando Rocket para a discloud
-Crie um arquivo rust-toolchain.toml:
+
+### Instalando o `Rocket`
+
+Consulte a documentação oficial: [https://rocket.rs/](https://rocket.rs/)
+
+### Configurando `Rocket` para a DisCloud
+
+Crie um arquivo `rust-toolchain.toml`:
+
+{% code title="rust-toolchain.toml" %}
 ```toml
 [toolchain]
 channel = "nightly"
 ```
-Isso irá instruir o rustup a usar a versão nightly, e baixar essa versão caso seja necessário.
-#### Exemplo `discloud.config` para `Rocket`
+{% endcode %}
 
-{% content-ref url="../../faq/discloud.config.md" %}
-[discloud.config.md](../../faq/discloud.config.md)
-{% endcontent-ref %}
+Isso irá instruir o `rustup` a usar a versão `nightly`, e baixar essa versão caso seja necessário.
+
+#### Exemplo `discloud.config` para `Rocket`
 
 {% code title="discloud.config" %}
 ```typescript

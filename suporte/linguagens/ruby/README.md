@@ -12,7 +12,7 @@ description: Aprenda a hospedar seu bot, site, api com Ruby na DisCloud!
 Arquivos Mínimos Necessários
 + Arquivo Principal (Exemplo: main.rb, bot.rb...)
 + Arquivo Gemfile
-+ Outros (Se o seu bot depender de outros arquivos deve incluir)
++ Outros (Se o seu bot depender de outros arquivos ou pastas deve incluir)
 Não Necessários
 - Arquivo Gemfile.lock
 - Pasta .git
@@ -44,8 +44,8 @@ Para mais detalhes sobre como **Compactar os seus Arquivos** de acordo com o seu
 Escolha o método para hospedar seu Bot na Discloud:
 {% endhint %}
 
-{% content-ref url="../../hospedar/bots/via-painel-controle.md" %}
-[via-painel-controle.md](../../hospedar/bots/via-painel-controle.md)
+{% content-ref url="../../hospedar/sites/via-painel-controle.md" %}
+[via-painel-controle.md](../../hospedar/sites/via-painel-controle.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../hospedar/bots/discord.md" %}
