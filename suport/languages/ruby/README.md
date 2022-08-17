@@ -16,7 +16,7 @@ description: Aprenda a hospedar seu bot, site, api com Ruby na DisCloud!
 Arquivos Mínimos Necessários
 + Arquivo Principal (Exemplo: main.rb, bot.rb...)
 + Arquivo Gemfile
-+ Outros (Se o seu bot depender de outros arquivos deve incluir)
++ Outros (Se o seu bot depender de outros arquivos ou pastas deve incluir)
 Não Necessários
 - Arquivo Gemfile.lock
 - Pasta .git

@@ -121,4 +121,11 @@ With your `.zip` created with `discloud.config` it's time to Upload, to use it i
 | ------------------ |
 | latest             |
 {% endtab %}
+
+{% tab title="🦀 Rust" %}
+| Available Versions |
+| ------------------ |
+| latest             |
+| suja               |
+{% endtab %}
 {% endtabs %}

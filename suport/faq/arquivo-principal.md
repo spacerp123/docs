@@ -57,6 +57,12 @@ Some bot making software, such as **Discord Bot Maker** and **Discord Bot Contro
 * The main file is the one you use to start your bot:
   * when running `php MainFile.php` comma
 {% endtab %}
+
+{% tab title="Rust" %}
+### Rust
+
+Usually the main file is `src/main.rs`
+{% endtab %}
 {% endtabs %}
 
 {% hint style="info" %}

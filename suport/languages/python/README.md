@@ -10,7 +10,7 @@ description: Aprenda a hospedar seu bot em Python na DisCloud
 Minimum Files Required
 + Main File (Example: main.py)
 + File requirements.txt
-+ Other (If your bot depends on other files it should include)
++ Other (If your bot depends on other files or folders it should include)
 Not Required
 - Folder .git
 - File LICENSE

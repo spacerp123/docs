@@ -12,7 +12,7 @@ description: Learn how to host your JavaScript bot on the DisCloud
 Minimum Files Required
 + Main File (Example: index.js, bot.js...)
 + File package.json
-+ Other (If your bot depends on other files it should include)
++ Other (If your bot depends on other files or folders it should include)
 Not Required
 - Folder node_modules
 - File package-lock.json

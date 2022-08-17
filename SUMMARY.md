@@ -21,6 +21,8 @@
     * [📄 Criar o Gemfile](suporte/linguagens/ruby/gemfile.md)
   * [🐿 Go](suporte/linguagens/go.md)
   * [🐘 Php](suporte/linguagens/php.md)
+  * [🦀 Rust](suport/languages/rust/README.md)
+    * [📄 Create the Cargo.toml](suport/languages/rust/cargo.md)
 * [⛓ Integrations](suport/integrations/README.md)
   * [Lavalink](suport/integrations/lavalink.md)
   * [GitHub e GitLab](suport/integrations/github-e-gitlab/README.md)
