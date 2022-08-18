@@ -6,18 +6,12 @@ description: Learn how to host your JavaScript bot on the DisCloud
 
 ## :file\_folder: Files
 
-**Do not send all the files** at once, you need to put only the necessary files from your bot into a `.zip` file.
+You should not send all your application files to `.zip`, there are some exceptions, they are:
 
 ```diff
-Minimum Files Required
-+ Main File (Example: index.js, bot.js...)
-+ File package.json
-+ Other (If your bot depends on other files or folders it should include)
-Not Required
 - Folder node_modules
 - File package-lock.json
 - Folder .git
-- File LICENSE
 ```
 
 > * Have trouble finding your main file? [Click here](../../faq/arquivo-principal.md#arquivos-principais-gerais)

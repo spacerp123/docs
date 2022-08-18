@@ -8,19 +8,13 @@ description: Aprenda a hospedar seu bot, site, api com Ruby na DisCloud!
 #### Translation in progress
 {% endhint %}
 
-## :file\_folder: Arquivos
+## :file\_folder: Files
 
-**Não envie todos os arquivos** de uma vez, você precisará colocar apenas os arquivos necessários do seu bot em um arquivo compactado`.zip`.&#x20;
+You should not send all your application files to `.zip`, there are some exceptions, they are:
 
 ```diff
-Arquivos Mínimos Necessários
-+ Arquivo Principal (Exemplo: main.rb, bot.rb...)
-+ Arquivo Gemfile
-+ Outros (Se o seu bot depender de outros arquivos ou pastas deve incluir)
-Não Necessários
-- Arquivo Gemfile.lock
-- Pasta .git
-- Arquivo LICENSE
+- File Gemfile.lock
+- Folder .git
 ```
 
 > * Dúvidas para encontrar o seu arquivo principal? [Clique aqui](../../faq/arquivo-principal.md#arquivos-principais-gerais)

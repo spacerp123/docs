@@ -2,13 +2,9 @@
 
 ## :file\_folder: Files
 
+You should not send all your application files to `.zip`, there are some exceptions, they are:
+
 ```diff
-Minimum Files Required
-+ File Cargo.toml
-+ Folder src
-+ File rust-toolchain.toml or rust-toolchain (if it exists)
-+ Other (If your bot depends on other files or folders it should include)
-Not Required
 - File Cargo.lock
 - File .gitignore
 - Folder target
