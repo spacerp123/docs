@@ -2,13 +2,9 @@
 
 ## :file\_folder: Arquivos
 
+Você não deve enviar todos os arquivos de sua aplicação para o `.zip`, existem algumas exceções, elas são:
+
 ```diff
-Arquivos Mínimos Necessários
-+ Arquivo Cargo.toml
-+ Pasta src
-+ Arquivo rust-toolchain.toml ou rust-toolchain (se existir)
-+ Outros (Se o seu projeto depender de outros arquivos ou pastas deve incluir)
-Arquivos desnecessários:
 - Arquivo Cargo.lock
 - Pasta target
 - Pasta .git

@@ -6,14 +6,10 @@ description: Aprenda a hospedar seu bot em Python na DisCloud
 
 ## :file\_folder: Arquivos
 
+Você não deve enviar todos os arquivos de sua aplicação para o `.zip`, existem algumas exceções, elas são:
+
 ```diff
-Arquivos Mínimos Necessários
-+ Arquivo principal (Exemplo: main.py)
-+ Arquivo requirements.txt
-+ Outros (Se o seu bot depender de outros arquivos ou pastas deve incluir)
-Não Necessários
 - Pasta .git
-- Arquivo LICENSE
 ```
 
 > * Dúvidas para encontrar o seu arquivo principal? [Clique aqui](../../faq/arquivo-principal.md#arquivos-principais-gerais)
