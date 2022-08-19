@@ -47,7 +47,7 @@ When we don't specify a version, pip will always try to install the latest versi
 > * `discord.py==1.7.3` - Sets a specific version to be installed. Fixing the version in this way ensures that your project will always be working, in case your code is not yet adapted to a higher version
 > * `discord.py>=1.7.3`: When we use the `>=` sign we are saying that we want to install any higher or equal version of the library.
 
-### Putting all the packages from your computer
+### Automatically add packages
 
 If you have **Python** installed on your computer you can run a simple command in your Terminal to put all **the libraries** and **their versions** in a `requirements.txt`
 
@@ -55,13 +55,15 @@ If you have **Python** installed on your computer you can run a simple command i
 Make sure you have all the packages your project requires installed on your computer before running
 {% endhint %}
 
-Open the Terminal in your project's directory (Windows use: **Shift+Right Button** and click **Open PowerShell**) and type:
+Open the Terminal in your project's directory (Windows use: **Shift+Right Button** and click **Open PowerShell**) and run:
 
 ```
-pip freeze > requirements.txt
+pip freeze --user > requirements.txt
 ```
 
-![](../../../.gitbook/assets/pip-freeze.gif)
+> **--user** - Only output packages installed in user-site
+
+![All dependencies were automatically placed in requirements.txt](../../../.gitbook/assets/pip.png)
 
 {% hint style="info" %}
 You need **python** and **pip** installed on your computer, if not, follow the instructions below.
