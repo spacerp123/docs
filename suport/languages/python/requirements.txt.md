@@ -2,7 +2,7 @@
 
 It is a **simple text file** that saves a list of **packages** needed by your project.
 
-### How do I create the `requirements.txt` file?
+## How do I create the `requirements.txt` file?
 
 Start by going into your project directory and create a new txt file and make sure it is **named** `requirements.txt`
 
@@ -14,13 +14,11 @@ Start by going into your project directory and create a new txt file and make su
 The libraries are not the ones you **import** into your code, but the ones you install with **pip install**.
 {% endhint %}
 
-### Putting discord.py
+#### discord.py (git)
 
 {% hint style="warning" %}
 If your bot uses **Slash Commands**, **Message Intent**, among other new features, we recommend that you use the [discord.py via git](requirements.txt.md#discord.py-git), since the current [PyPI](https://pypi.org/project/discord.py/) version has not been updated since 2021
 {% endhint %}
-
-### discord.py (git)
 
 Add the following line to your `requirements.txt`
 
@@ -32,7 +30,7 @@ git+https://github.com/Rapptz/discord.py
 
 This way we can install **Python** packages that are available on **GitHub** but not on **PyPI**, such as development versions.
 
-### discord.py (PyPI)
+#### discord.py (PyPI)
 
 Add the following line to your `requirements.txt`
 
