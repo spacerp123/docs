@@ -8,7 +8,7 @@ description: >-
 
 ## ✍ Registro
 
-O primeiro passo é fazer o seu **registro**. Entre no site da [DisCloud](https://discloudbot.com) e clique no botão **Registrar**
+O primeiro passo é fazer o seu **registro**. Entre no site da [DisCloud](https://discloudbot.com) e clique no botão **Entrar**
 
 ![](../../.gitbook/assets/login.gif)
 
