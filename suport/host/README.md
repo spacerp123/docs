@@ -8,7 +8,7 @@ description: >-
 
 ## ✍ Register
 
-The first step is to **register**. Log in to the [DisCloud](https://discloudbot.com/) website and click on the **Register** button
+The first step is to **register**. Log in to the [DisCloud](https://discloudbot.com/) website and click on the **Log in** button
 
 ![](../../.gitbook/assets/login.gif)
 
