@@ -14,23 +14,7 @@ Start by going into your project directory and create a new txt file and make su
 The libraries are not the ones you **import** into your code, but the ones you install with **pip install**.
 {% endhint %}
 
-#### discord.py (git)
-
-{% hint style="warning" %}
-If your bot uses **Slash Commands**, **Message Intent**, among other new features, we recommend that you use the [discord.py via git](requirements.txt.md#discord.py-git), since the current [PyPI](https://pypi.org/project/discord.py/) version has not been updated since 2021
-{% endhint %}
-
-Add the following line to your `requirements.txt`
-
-{% code title="requirements.txt" %}
-```python
-git+https://github.com/Rapptz/discord.py
-```
-{% endcode %}
-
-This way we can install **Python** packages that are available on **GitHub** but not on **PyPI**, such as development versions.
-
-#### discord.py (PyPI)
+#### discord.py (PyPI) (Stable)
 
 Add the following line to your `requirements.txt`
 
@@ -42,8 +26,20 @@ discord.py
 
 When we don't specify a version, pip will always try to install the latest version of the specified package. We can specify versions in the following ways:
 
-> * `discord.py==1.7.3` - Sets a specific version to be installed. Fixing the version in this way ensures that your project will always be working, in case your code is not yet adapted to a higher version
-> * `discord.py>=1.7.3`: When we use the `>=` sign we are saying that we want to install any higher or equal version of the library.
+> * `discord.py==2.0.0` - Sets a specific version to be installed. Fixing the version in this way ensures that your project will always be working, in case your code is not yet adapted to a higher version
+> * `discord.py>=2.0.0`: When we use the `>=` sign we are saying that we want to install any higher or equal version of the library.
+
+#### discord.py (git) (Unstable)
+
+Add the following line to your `requirements.txt`
+
+{% code title="requirements.txt" %}
+```python
+git+https://github.com/Rapptz/discord.py
+```
+{% endcode %}
+
+This way we can install **Python** packages that are available on **GitHub** but not on **PyPI**, such as development versions.
 
 ### Automatically add packages
 
